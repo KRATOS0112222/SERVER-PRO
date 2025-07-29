@@ -5768,5 +5768,17 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-29 18:17:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-29 18:12:49 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
