@@ -6378,6 +6378,12 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-07-29 18:57:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-29 18:34:28 +0000"
@@ -6459,6 +6465,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-29 18:34:28 +0000"
+    },
+    "done": true
+  },
+  "eidolon:pewter_ingot": {
+    "criteria": {
+      "has_pewter_ingot": "2025-07-29 18:59:41 +0000"
     },
     "done": true
   },
@@ -6591,6 +6603,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-29 18:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-29 18:53:32 +0000"
     },
     "done": true
   },
