@@ -1151,3 +1151,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 22:51:36.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Alex's Caves]
 [30Jul2025 22:52:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Alex's Caves]
 [30Jul2025 22:52:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Once Upon a Cave]
+[30Jul2025 23:26:21.762] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[30Jul2025 23:26:21.771] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[30Jul2025 23:26:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Giant Skeleton
+[30Jul2025 23:29:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [You Are A Pirate]

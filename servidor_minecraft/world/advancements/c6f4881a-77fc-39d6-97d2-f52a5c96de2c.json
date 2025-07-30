@@ -1701,6 +1701,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-30 23:28:50 +0000",
       "minecraft:skeleton": "2025-07-26 02:20:27 +0000",
       "minecraft:magma_cube": "2025-07-26 18:08:17 +0000",
       "minecraft:spider": "2025-07-28 18:38:58 +0000",
@@ -6656,6 +6657,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-07-30 23:29:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_battle_hammer": {
     "criteria": {
       "has_copper_ingot": "2025-07-30 22:52:38 +0000"
@@ -6800,6 +6807,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-07-30 23:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-07-30 22:52:38 +0000"
@@ -6851,6 +6864,12 @@
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-07-30 22:52:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-07-30 23:25:10 +0000"
     },
     "done": true
   },
