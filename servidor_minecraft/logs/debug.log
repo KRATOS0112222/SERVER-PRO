@@ -14910,3 +14910,258 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 23:30:10.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30Jul2025 23:35:10.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Jul2025 23:35:10.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 23:40:10.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 23:40:10.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 23:41:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Isn't It Iron Pick]
+[30Jul2025 23:41:54.025] [Worker-Main-26/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[30Jul2025 23:41:55.005] [Worker-Main-27/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 23:41:55.006] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 23:41:55.006] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 23:41:55.007] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 23:41:55.007] [Worker-Main-27/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.012] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[30Jul2025 23:41:55.077] [Worker-Main-26/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jul2025 23:41:55.082] [Worker-Main-26/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jul2025 23:41:55.083] [Worker-Main-26/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jul2025 23:41:55.084] [Worker-Main-26/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jul2025 23:41:55.089] [Worker-Main-26/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[30Jul2025 23:41:55.108] [Worker-Main-26/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[30Jul2025 23:41:55.108] [Worker-Main-26/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[30Jul2025 23:41:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Incendium]
+[30Jul2025 23:41:59.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [We Need to Go Deeper]
+[30Jul2025 23:41:59.192] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_tower1 is being run through DFU (hash 2208c94b4b15c2a0720dc90c1f2e920dd3d344e4dbe8f940a88e2ac97662a840), this will cause launch time delays
+[30Jul2025 23:41:59.783] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:the_lab is being run through DFU (hash 2e3977b1ffc2b25c55c24d8a0b24d536b3d448183eb343f42ff602c6d589306f), this will cause launch time delays
+[30Jul2025 23:42:00.393] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:cvill/towncenter4 is being run through DFU (hash 8c40e6518ed0efe21bc002d2cf6d1114b1aa9970d7ef9702932af879351f95b4), this will cause launch time delays
+[30Jul2025 23:42:00.412] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:pipeline/start1 is being run through DFU (hash a2d5b08ebe06b96a48864f29a9de461ffa5ef810078aca656faab94b279cd007), this will cause launch time delays
+[30Jul2025 23:42:00.476] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:arena is being run through DFU (hash 1550bd700a53f9f9d1f717ccc62cda785156b5c4a97ee1c37477c1c3058cc146), this will cause launch time delays
+[30Jul2025 23:42:00.709] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_kitchen is being run through DFU (hash f1d62c2d1076ae02f69209f37706f460b229eaf7e609fb478641d720392c5177), this will cause launch time delays
+[30Jul2025 23:42:01.887] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l1 is being run through DFU (hash 82e70413a739802bb5e489ee41944b1f39c038f79c210c58c9936c63bf5e96ec), this will cause launch time delays
+[30Jul2025 23:42:01.947] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor is being run through DFU (hash 9171fb6e499dd9b1ad2761a65361f03a27f131facda5327c4dccc3a7c6c2730b), this will cause launch time delays
+[30Jul2025 23:42:03.008] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_top1 is being run through DFU (hash 0d3ea5aa41cd1cbcb771c98c0f7c698b41d244404db361ece05e6afda39057ff), this will cause launch time delays
+[30Jul2025 23:42:03.078] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_south is being run through DFU (hash aa0fc870c0c8e10973cdf3d870ca2e6e976819c4179136c28818deec5b150eaa), this will cause launch time delays
+[30Jul2025 23:42:03.182] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_east is being run through DFU (hash cdd7521508c675e2e0b308b3d6dd47c07fc9539364b573fecaee113d54aa6f50), this will cause launch time delays
+[30Jul2025 23:42:03.254] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_bottom is being run through DFU (hash 32bf97fe3a0d44a25522828f3942bda070496340101e1186fba5e69aa6bb2c89), this will cause launch time delays
+[30Jul2025 23:42:03.266] [Worker-Main-26/DEBUG] [ModernFix/]: Structure incendium:reactor/reactor_last is being run through DFU (hash 6e9352998c64dd8417fc3ac43b2987609b8e142070c04d9cd83058827c445d77), this will cause launch time delays
+[30Jul2025 23:42:04.229] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/quartz_tower2 is being run through DFU (hash a1b0371a224d03bec7257454265aa947949ba2deca973a436a8c99f18759bd5e), this will cause launch time delays
+[30Jul2025 23:42:04.292] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/road3 is being run through DFU (hash b678dd2d789827fa0df19d8d8b57faf733b4c0b61eeea95f48237194d4b79b32), this will cause launch time delays
+[30Jul2025 23:42:04.298] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/road1 is being run through DFU (hash 9ed91cd9b1b11f0b14499e3284b37991c870ecf7c8de60d6eb3b001cefc15b87), this will cause launch time delays
+[30Jul2025 23:42:04.304] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/decor_small1 is being run through DFU (hash 146dd9ca33888fcbb12cb60292ffd9b0dec4c8ffff668d528aae14d56515e9f6), this will cause launch time delays
+[30Jul2025 23:42:04.308] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/bone1 is being run through DFU (hash b353f821c40ce8f91fcbf1e88afaf8e27067cc27cb149cdaaae922d7a6a5f875), this will cause launch time delays
+[30Jul2025 23:42:04.310] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/well is being run through DFU (hash 17814b351dfdc23f97ff4c90c57fd6fccd27c77f209b48f341d996d8d6c5096b), this will cause launch time delays
+[30Jul2025 23:42:04.315] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/bone3 is being run through DFU (hash 8602149eed6b4101b7bfa324696dc3a3b2eb382af564fa791ca25d6b029af785), this will cause launch time delays
+[30Jul2025 23:42:04.319] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/small_tower is being run through DFU (hash 92b3be52570f04254e317b339c0ad84268293e096d000fc21f475ca570b833a5), this will cause launch time delays
+[30Jul2025 23:42:04.325] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/road2 is being run through DFU (hash a172192c40b194e1a7efd0118c61fbd1b8277fda6c09910d33f9915eeb667faa), this will cause launch time delays
+[30Jul2025 23:42:04.328] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/bone2 is being run through DFU (hash 34e9546fddaf31c565cfb15173786f993684009830a803f8d9e0f344091d4cab), this will cause launch time delays
+[30Jul2025 23:42:04.332] [Worker-Main-25/DEBUG] [ModernFix/]: Structure incendium:quartz_flats/dungeon2 is being run through DFU (hash 28ffe3135966621ed9516ad3a01ef8b51869327b504eba0612f97caaedf5fc21), this will cause launch time delays
+[30Jul2025 23:42:05.343] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/origin is being run through DFU (hash eba9fb8499290a2b22f3360af9be565101f546e673227b30d04c54b2246971ed), this will cause launch time delays
+[30Jul2025 23:42:05.353] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_2 is being run through DFU (hash 1402b2873b2703c95a1088ae5413810bf1cd5233483d9a1f7796f6a16e664853), this will cause launch time delays
+[30Jul2025 23:42:05.359] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_3 is being run through DFU (hash 3680bbb9c9119f2010313d14f8aa0142e1e52e9c7807dc1fb7355c7af4d714af), this will cause launch time delays
+[30Jul2025 23:42:05.365] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_1 is being run through DFU (hash 8cef98a1fc9007f28f1de64441fe396fd412ce4e68a05c77026751bc0fc4b03b), this will cause launch time delays
+[30Jul2025 23:42:05.370] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_1 is being run through DFU (hash 5cd831dc8298a880eb00e3549e58b6f9e135e248f042923ff0947a5a54b58d5d), this will cause launch time delays
+[30Jul2025 23:42:05.372] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_1 is being run through DFU (hash 2704c91d7f3b3ad1a2906c239be26b2236098d39fbc1227174f46579eca05509), this will cause launch time delays
+[30Jul2025 23:42:05.373] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_7 is being run through DFU (hash b45a59834a01e319502830836d704fc77609557db157edc8d0d4bae74dac630c), this will cause launch time delays
+[30Jul2025 23:42:05.375] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_2 is being run through DFU (hash 7a126b333d92d1fec15fbcfef001d2df64430499fdb04a9a678edf1d931243d2), this will cause launch time delays
+[30Jul2025 23:42:05.376] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_3 is being run through DFU (hash 9dc9b57962b007434f354af5c1bc3c617c2b5f2c4644738812b95a3d9d2a0a61), this will cause launch time delays
+[30Jul2025 23:42:05.377] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/skull_pile is being run through DFU (hash afc9952d0ab4c9b842448a9c669faa2245c1648641ee0f8bb5a56c133f144cab), this will cause launch time delays
+[30Jul2025 23:42:05.381] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_4 is being run through DFU (hash 91bf34c19657c84086e938d93515fac345e576abad71ba02028a8a3087294a1e), this will cause launch time delays
+[30Jul2025 23:42:05.383] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/armor_2 is being run through DFU (hash 8763366e7d287db2bc02cd1ce509901f7aa3131e1e8d1b66f0431889baba97ca), this will cause launch time delays
+[30Jul2025 23:42:05.383] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_3 is being run through DFU (hash 0e393f2753248aee5283966b8dc0b2d9adc5d8ec7837e3bbf5d8443d4f758db0), this will cause launch time delays
+[30Jul2025 23:42:05.385] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_2 is being run through DFU (hash a1e5f1426dfae2d1141ce1304042d65a65e86fbffec19b898779fdc5ebcd86aa), this will cause launch time delays
+[30Jul2025 23:42:05.386] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/branch_5 is being run through DFU (hash d62f0abd99a57d0c0d5f830bb3ed7ab10f1e04676de130e2c85b9f5e440ea511), this will cause launch time delays
+[30Jul2025 23:42:05.390] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/piglin_camp is being run through DFU (hash 609396aac7d7b9ab9ab630b0be2eaa3a44b551dcbf91739988963a8190697b58), this will cause launch time delays
+[30Jul2025 23:42:05.399] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_4 is being run through DFU (hash 219b7c8cc05414444fff9fb89a2c82ea92cc95e5bc83b1c0b6010d30e8ef5465), this will cause launch time delays
+[30Jul2025 23:42:05.401] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_2 is being run through DFU (hash b1242518c212f4d23472bf1737fbb408e6a33b60c95c63de72530b31cda7e8e1), this will cause launch time delays
+[30Jul2025 23:42:05.403] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_6 is being run through DFU (hash ddf24bd806e3f131e3b3f33b29e639cdd8ec7203aa8876c072ed0bf0e6d0d5cf), this will cause launch time delays
+[30Jul2025 23:42:05.404] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_1 is being run through DFU (hash d58544e8d28fc8e0857f64068ea5689162d769d51495dc057ccd999d4df8b9f2), this will cause launch time delays
+[30Jul2025 23:42:05.405] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/hill_3 is being run through DFU (hash eaab188e77ed7317bba29aea67a1da8c0808bf0792b751ad55510426cafed424), this will cause launch time delays
+[30Jul2025 23:42:05.407] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/burial_1 is being run through DFU (hash fc32ef5e828d7e4907c36056fbc6a3526df51d04957c710c8a961c362adfa8f3), this will cause launch time delays
+[30Jul2025 23:42:05.408] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner_2 is being run through DFU (hash daac3aca3ea171b5aabffaf22bc4f3091327df9b097ae527087d83eaabb54490), this will cause launch time delays
+[30Jul2025 23:42:05.409] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/wall_5 is being run through DFU (hash dacf895b3d60674144bfd8935517dc8a68be386b150c6373fce7df436a8289d8), this will cause launch time delays
+[30Jul2025 23:42:05.411] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/fossil is being run through DFU (hash 25fac9c51a47f8e81baf1dadad65d575fc103c2fe17dad15685f48937c198922), this will cause launch time delays
+[30Jul2025 23:42:05.413] [Worker-Main-25/DEBUG] [ModernFix/]: Structure irons_spellbooks:battleground/decorations/banner is being run through DFU (hash 9648ba1d74fccde4cd7b727c14f78b19ab6ab222008fcdabf900c4ff96c4e405), this will cause launch time delays
+[30Jul2025 23:42:08.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14725ms or 294 ticks behind
+[30Jul2025 23:42:09.118] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[30Jul2025 23:42:09.159] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[30Jul2025 23:42:09.174] [Worker-Main-25/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[30Jul2025 23:42:09.387] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[30Jul2025 23:42:09.716] [Worker-Main-27/DEBUG] [ModernFix/]: Structure irons_spellbooks:mangrove_hut is being run through DFU (hash 5ce8a23b5c8a45deaa32f3715fcb348d47f91fee9de0386d2639da5533659958), this will cause launch time delays
+[30Jul2025 23:42:09.828] [Worker-Main-26/DEBUG] [ModernFix/]: Structure irons_spellbooks:mountain_tower is being run through DFU (hash 3595c332eccd57cece5af55cd85bacd63908f41c1a3749c4d8002148a22dcb07), this will cause launch time delays
+[30Jul2025 23:42:12.293] [Worker-Main-27/DEBUG] [ModernFix/]: Structure irons_spellbooks:priest_house is being run through DFU (hash d76810475d0e95759e3aba14294cb4faa0f372ebdd371e669f8740fcad373d48), this will cause launch time delays
+[30Jul2025 23:42:14.726] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/tower is being run through DFU (hash 057353f039449d802a124e196b5753dd1bf4e80064f499a3f024c9cdca56fe08), this will cause launch time delays
+[30Jul2025 23:42:14.755] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/staircase is being run through DFU (hash 3c0815a0bac672c8254edd4fac8774e53b46f25695e37f40eaf7929da85e30b9), this will cause launch time delays
+[30Jul2025 23:42:14.757] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/basement is being run through DFU (hash a0201551ff55bb5c6e98126314bcede86796000369b972ddfb597a9039f25ea6), this will cause launch time delays
+[30Jul2025 23:42:14.771] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway is being run through DFU (hash 112e690566ac507d0e351955af59e8b028cd93963a29ff3e51feeb952701c0f8), this will cause launch time delays
+[30Jul2025 23:42:14.773] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction is being run through DFU (hash df0e4ebe73d446b6af7e73e6d47b2a2003f0c38a0ac884625889eed4aa4aab3b), this will cause launch time delays
+[30Jul2025 23:42:14.775] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage is being run through DFU (hash 1d9302405e7a722df261d2baa708c379c318e5d34e4e4df847db212717775e79), this will cause launch time delays
+[30Jul2025 23:42:14.778] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret is being run through DFU (hash daf24d8fe1943f83b857676b366e2b20c22fe646558228409eccdac21b0752fc), this will cause launch time delays
+[30Jul2025 23:42:14.780] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage is being run through DFU (hash 8e26b498cd07c30cfb1f815977d24404de399f713931ce444d8a85aee5138a65), this will cause launch time delays
+[30Jul2025 23:42:15.003] [dimthread_server_overworld/DEBUG] [ModernFix/]: Structure prehistoricfauna:time_temple is being run through DFU (hash 686bfb1960ae078524efaa25cdc09f1fe875ea1031c65a44b1922f45d442a72c), this will cause launch time delays
+[30Jul2025 23:42:15.310] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:monastery/monastery_start is being run through DFU (hash 6cb69eaf6251421e2379aa911cc377c259cf37087d31d4389d51b357a3d61a80), this will cause launch time delays
+[30Jul2025 23:42:15.320] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_6_main is being run through DFU (hash 95b2db72dc9e5f8b3ebefc1ca0e863a6b019689f1b27f3df017b2feb67f146bf), this will cause launch time delays
+[30Jul2025 23:42:15.330] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_2 is being run through DFU (hash 1d89d7a684d39b030355334cc2b0c16afc3437b8dacdba4ea1580a6bea3dac51), this will cause launch time delays
+[30Jul2025 23:42:15.339] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_5 is being run through DFU (hash 942da1f93d36cec1108eee837cd4f83ef594a7561a494a3f2907926d63f416f2), this will cause launch time delays
+[30Jul2025 23:42:15.351] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_1 is being run through DFU (hash f83a08665efb18a957ad08768d4992b244d90f08eb2106c3e758a0663b5bce69), this will cause launch time delays
+[30Jul2025 23:42:15.370] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0 is being run through DFU (hash 2f6487228a3805c0d7b00c112bef4ac8f35a296c762be52dea96a6c4a594531c), this will cause launch time delays
+[30Jul2025 23:42:15.395] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_6 is being run through DFU (hash a9be9a543f6d46326b4730af976341e8d5312d2214944435878a24cce93506a2), this will cause launch time delays
+[30Jul2025 23:42:15.403] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_3 is being run through DFU (hash 84becc53712d1abd55fa171bf28df8aa92cf0cc5fefbe440f611c38461a1ac32), this will cause launch time delays
+[30Jul2025 23:42:15.413] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_1 is being run through DFU (hash d071b56dfb91802d6e283fcc6fe89bdd362f5d2f7ac61c6bfd8cf9d3b46e72cb), this will cause launch time delays
+[30Jul2025 23:42:15.422] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_2 is being run through DFU (hash 464b12e8377965d0b6d5137e86de34708c3a05f3168a57506f77385520d0e222), this will cause launch time delays
+[30Jul2025 23:42:15.425] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_3 is being run through DFU (hash 5af8fe5a34f5e8167681b21570c8d42e9103c66e0efab3011a04021c1f279f1a), this will cause launch time delays
+[30Jul2025 23:42:15.428] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_tent_0 is being run through DFU (hash 7215f38da0a4e40c5e3be9df2d522385c374364fd66a15dc8268b8b24f3ab0bf), this will cause launch time delays
+[30Jul2025 23:42:15.432] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_4 is being run through DFU (hash aaa608531a138f09a33e86da9867a8d90f3d6753090fa2fd9e1da696c46be10e), this will cause launch time delays
+[30Jul2025 23:42:15.449] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_0 is being run through DFU (hash 9e48f551458ddfcade896d7ca305b591643588d914e715ce873200d9884cb6fe), this will cause launch time delays
+[30Jul2025 23:42:15.450] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_street_4 is being run through DFU (hash a15946f6340c8b1ac52809325a6588f53b27f1948d22d65d91cbd84d289e1c0c), this will cause launch time delays
+[30Jul2025 23:42:15.457] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0 is being run through DFU (hash 3bfc8ff3f3ebe009489efe9360b216a449859cea932618c5b7f7b07ed916e677), this will cause launch time delays
+[30Jul2025 23:42:15.491] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_5 is being run through DFU (hash b16287199ebfbf48f13985ac661a303cff3f3b751066c1a42639e2363467086e), this will cause launch time delays
+[30Jul2025 23:42:15.520] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0 is being run through DFU (hash 9a942708f01af3adf4474a483508d1e8ec94602d50f0443a647aa229bb5cbbcc), this will cause launch time delays
+[30Jul2025 23:42:15.544] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_0 is being run through DFU (hash bca7da9b36eca8f10a5ad8a2a45935fca02a69a04d38250f3e1e572d5665f655), this will cause launch time delays
+[30Jul2025 23:42:15.547] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_1 is being run through DFU (hash 01652cf47c7082e9f19c45124baadfe81ef490bca3ad6175714197c8462db8a1), this will cause launch time delays
+[30Jul2025 23:42:15.548] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_3 is being run through DFU (hash 8e2f5381d72ddfcfab26d74f2027172086828df75d6022dd0914e8d9b6cbeb54), this will cause launch time delays
+[30Jul2025 23:42:15.549] [Worker-Main-26/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_campsite/illager_campsite_deco_2 is being run through DFU (hash 6477a7cd80a030726efdea868090e5e04e92e17689fdea73f4f8f83e5882c523), this will cause launch time delays
+[30Jul2025 23:42:16.168] [Worker-Main-25/DEBUG] [ModernFix/]: Structure aquamirae:lore/ship is being run through DFU (hash 6b391b75153ba8f87f2d642e8594c8644f176114b9b494a545501ffda3c8387f), this will cause launch time delays
+[30Jul2025 23:42:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Incendium]
+[30Jul2025 23:42:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [We Need to Go Deeper]
+[30Jul2025 23:42:35.846] [Worker-Main-25/DEBUG] [ModernFix/]: Structure hopo:piglin_ruin/path/3 is being run through DFU (hash 52f339a9bc2f97f8ddfeec991d0886302da98044527106fc2a5fa0b12aa2ca27), this will cause launch time delays
+[30Jul2025 23:42:35.852] [Worker-Main-25/DEBUG] [ModernFix/]: Structure hopo:piglin_ruin/path/2 is being run through DFU (hash 6f65eb717300af8b285861854c085eea95d33c3d68cf70d0ef6079924f4b07f9), this will cause launch time delays
+[30Jul2025 23:42:35.860] [Worker-Main-25/DEBUG] [ModernFix/]: Structure hopo:piglin_ruin/path/1 is being run through DFU (hash c63eace2a6228e319f8a65ea860531f0e7106a352e3137cc6d23a74f04efbda5), this will cause launch time delays
+[30Jul2025 23:42:35.863] [Worker-Main-25/DEBUG] [ModernFix/]: Structure hopo:mobs/piglin_crossbow is being run through DFU (hash 4ee4f49c913dd505e91bed9bc8fcef24211ff7b9380bb139c5fad261f5c3f932), this will cause launch time delays
+[30Jul2025 23:42:35.865] [Worker-Main-25/DEBUG] [ModernFix/]: Structure hopo:mobs/piglin_sword is being run through DFU (hash 2d3088b71a07273756f366336b36b56b6fda7f8bfdad1532e28a05f9a4a2b79e), this will cause launch time delays
+[30Jul2025 23:43:12.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Jul2025 23:43:13.776] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Jul2025 23:43:15.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Jul2025 23:43:15.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Jul2025 23:44:05.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.113] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.163] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.259] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.310] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.361] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.460] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.510] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.609] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.665] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.770] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.814] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.863] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:05.964] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:06.013] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:06.061] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:06.111] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:06.161] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.463] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.512] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.560] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.658] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.708] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.758] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.859] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.912] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:07.958] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:08.009] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:08.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:12.360] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:12.394] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:14.061] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:14.111] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:14.163] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Strange Biomes]
+[30Jul2025 23:44:31.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Hellish Paradise]
+[30Jul2025 23:44:35.105] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=372, y=120, z=-293}
+[30Jul2025 23:44:40.357] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.458] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.510] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.562] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.660] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.710] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.761] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.807] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:40.858] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:44:43.248] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
+[30Jul2025 23:44:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Strange Biomes]
+[30Jul2025 23:44:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hellish Paradise]
+[30Jul2025 23:45:12.762] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:24.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Jul2025 23:45:24.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Jul2025 23:45:24.927] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:24.963] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:24.996] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.033] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.072] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.115] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.164] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.264] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.311] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.362] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.413] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.462] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.513] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.563] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.661] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.764] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:25.819] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.310] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.363] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.466] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.511] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.564] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.621] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.713] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.762] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.814] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.866] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.918] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:26.964] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.011] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.066] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.115] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.162] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.263] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.322] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.363] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.411] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.463] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.511] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.562] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.616] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.714] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.762] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.863] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.914] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:27.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.011] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.113] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.165] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.212] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.314] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.362] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.414] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Jul2025 23:45:28.463] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!

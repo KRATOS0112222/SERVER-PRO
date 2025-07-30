@@ -1155,3 +1155,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 23:26:21.771] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [30Jul2025 23:26:29.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Giant Skeleton
 [30Jul2025 23:29:02.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [You Are A Pirate]
+[30Jul2025 23:41:34.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Isn't It Iron Pick]
+[30Jul2025 23:41:59.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Incendium]
+[30Jul2025 23:41:59.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [We Need to Go Deeper]
+[30Jul2025 23:42:08.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14725ms or 294 ticks behind
+[30Jul2025 23:42:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Incendium]
+[30Jul2025 23:42:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [We Need to Go Deeper]
+[30Jul2025 23:44:31.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Strange Biomes]
+[30Jul2025 23:44:31.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Hellish Paradise]
+[30Jul2025 23:44:35.105] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=372, y=120, z=-293}
+[30Jul2025 23:44:43.248] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
+[30Jul2025 23:44:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Strange Biomes]
+[30Jul2025 23:44:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hellish Paradise]

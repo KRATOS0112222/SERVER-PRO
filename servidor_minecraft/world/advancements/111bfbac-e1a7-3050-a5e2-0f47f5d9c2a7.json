@@ -6268,15 +6268,51 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-30 23:42:18 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-07-30 22:51:36 +0000"
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-30 23:44:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-30 23:42:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-30 23:41:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-07-30 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-30 23:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-30 23:42:18 +0000"
     },
     "done": true
   },
@@ -6292,6 +6328,12 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-30 23:42:18 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
     "criteria": {
       "has_scute": "2025-07-30 22:50:35 +0000"
@@ -6301,6 +6343,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-07-30 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-30 23:44:31 +0000"
     },
     "done": true
   },
@@ -6325,6 +6373,18 @@
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2025-07-30 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-30 23:42:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-30 23:44:31 +0000"
     },
     "done": true
   },
