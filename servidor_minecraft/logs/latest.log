@@ -1136,3 +1136,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 18:39:45.265] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player shagyy
 [30Jul2025 18:39:45.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
 [30Jul2025 18:39:45.371] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
+[30Jul2025 18:42:42.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:54413] logged in with entity id 4205 at (77.17396695193219, 4.0, -5814.211083505524)
+[30Jul2025 18:42:42.438] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[30Jul2025 18:42:42.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[30Jul2025 18:42:42.559] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[30Jul2025 18:43:28.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 9.756659656206818,-0.3739040364667261,2.946707064382281
+[30Jul2025 18:45:33.300] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[30Jul2025 18:45:33.304] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[30Jul2025 18:45:43.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy fell from a high place
+[30Jul2025 18:47:51.140] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[30Jul2025 18:47:51.144] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[30Jul2025 18:48:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Bone Imp
+[30Jul2025 18:48:54.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[30Jul2025 18:48:54.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[30Jul2025 18:50:46.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Disconnected
+[30Jul2025 18:50:46.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
