@@ -6267,6 +6267,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-07-30 22:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-07-30 22:47:54 +0000"
@@ -6282,6 +6288,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-30 22:44:32 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
+    "criteria": {
+      "has_scute": "2025-07-30 22:50:35 +0000"
     },
     "done": true
   },
@@ -6306,6 +6318,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-30 22:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-07-30 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/scute_block": {
+    "criteria": {
+      "has_scute": "2025-07-30 22:50:35 +0000"
     },
     "done": true
   },
