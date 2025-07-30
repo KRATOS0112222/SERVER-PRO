@@ -1135,3 +1135,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 22:34:17.884] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
 [30Jul2025 22:34:17.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
 [30Jul2025 22:34:18.095] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[30Jul2025 22:35:18.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shagyy[/127.113.122.147:33713] logged in with entity id 2825 at (-19.30000001192093, 66.0, -5737.422670456361)
+[30Jul2025 22:35:18.961] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player shagyy
+[30Jul2025 22:35:18.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
+[30Jul2025 22:35:19.084] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
+[30Jul2025 22:35:29.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[30Jul2025 22:35:29.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[30Jul2025 22:37:54.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:59407] logged in with entity id 3471 at (77.17396695193219, 4.0, -5814.211083505524)
+[30Jul2025 22:37:54.569] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[30Jul2025 22:37:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[30Jul2025 22:37:54.660] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
