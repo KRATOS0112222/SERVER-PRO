@@ -1145,3 +1145,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 22:37:54.569] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
 [30Jul2025 22:37:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
 [30Jul2025 22:37:54.660] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[30Jul2025 22:44:43.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Life turned out to be a comedy]
+[30Jul2025 22:49:13.714] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[30Jul2025 22:49:13.720] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[30Jul2025 22:51:36.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Alex's Caves]
+[30Jul2025 22:52:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Alex's Caves]
+[30Jul2025 22:52:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Once Upon a Cave]

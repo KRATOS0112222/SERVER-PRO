@@ -6267,5 +6267,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-07-30 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-07-30 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-30 22:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-07-30 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-30 22:44:32 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/misc/squash_seeds_enchanting": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-07-30 22:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-30 22:44:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
