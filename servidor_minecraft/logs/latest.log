@@ -1167,3 +1167,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Jul2025 23:44:43.248] [Worker-Main-26/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
 [30Jul2025 23:44:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Strange Biomes]
 [30Jul2025 23:44:46.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hellish Paradise]
+[30Jul2025 23:46:59.366] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[30Jul2025 23:46:59.369] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[30Jul2025 23:50:18.664] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[30Jul2025 23:50:18.667] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[30Jul2025 23:51:56.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=53, z=-689} BlockPos{x=11, y=53, z=-689}
+[30Jul2025 23:53:33.326] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[30Jul2025 23:53:41.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=61, z=-681} BlockPos{x=98, y=63, z=-681}
+[30Jul2025 23:54:33.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=64, z=-626} BlockPos{x=111, y=64, z=-625}
+[30Jul2025 23:54:33.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=111, y=64, z=-625} BlockPos{x=111, y=63, z=-626}
+[30Jul2025 23:55:02.612] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[30Jul2025 23:55:02.613] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
