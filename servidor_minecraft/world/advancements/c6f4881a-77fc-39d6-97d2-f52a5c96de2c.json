@@ -7849,6 +7849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-31 17:28:31 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_katana": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
@@ -7936,6 +7942,12 @@
   "spartanfire:recipes/lightning_dragon_bone_quarterstaff": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-31 17:29:05 +0000"
     },
     "done": true
   },
@@ -8104,6 +8116,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-31 17:28:31 +0000"
     },
     "done": true
   },
