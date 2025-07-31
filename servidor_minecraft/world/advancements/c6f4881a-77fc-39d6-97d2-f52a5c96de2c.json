@@ -7849,6 +7849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-31 17:28:31 +0000"
@@ -7939,6 +7945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_quarterstaff": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
@@ -7972,6 +7984,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-31 16:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
     },
     "done": true
   },
@@ -8035,6 +8053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-31 16:26:04 +0000"
@@ -8056,6 +8080,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2025-07-31 16:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
     },
     "done": true
   },
@@ -8101,6 +8131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-07-31 17:18:14 +0000"
@@ -8116,6 +8152,18 @@
   "spartanfire:recipes/lightning_dragon_bone_spear": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
     },
     "done": true
   },
@@ -8140,6 +8188,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-31 16:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-31 18:19:19 +0000"
     },
     "done": true
   },
