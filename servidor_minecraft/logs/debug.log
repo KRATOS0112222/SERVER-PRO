@@ -13618,3 +13618,216 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jul2025 16:48:30.481] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [31Jul2025 16:48:30.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [31Jul2025 16:48:30.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:47.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 16:48:47.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 16:48:48.389] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.455] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.519] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.558] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.587] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.618] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:48.988] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.040] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.134] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.191] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.585] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.638] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.683] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.739] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.793] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.834] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.890] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:49.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.042] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.088] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.139] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.187] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.234] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.283] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.435] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.488] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.533] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:48:50.585] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:49:03.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:49:30.894] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_part_0 is being run through DFU (hash 0ffa0ef9ae80665fa9c353ab5c7ec1bffe19e10c8b773fcfdb17a11bbcf7c79e), this will cause launch time delays
+[31Jul2025 16:49:30.975] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_pillager_0 is being run through DFU (hash 6eff5031ef7d716f5121d2e4f9fe2593e55a9d2fc76423d5d7c12b5e309de323), this will cause launch time delays
+[31Jul2025 16:49:31.116] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0 is being run through DFU (hash 227df976f5e96c1c7abcde4371685dd199f32cf418d794d2a4c66bf137aa418f), this will cause launch time delays
+[31Jul2025 16:49:31.167] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_evoker_0 is being run through DFU (hash 57739cc8b285e7f62ad804c42b8162264fff580438b26fe6b746127afe9cf810), this will cause launch time delays
+[31Jul2025 16:49:31.173] [Worker-Main-9/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_corsair/illager_corsair_part_1 is being run through DFU (hash 9ef801b1458eb187bb9dbbbc6dcb4d4c0e84c529c2aa8f94967186f6d409d0d4), this will cause launch time delays
+[31Jul2025 16:49:37.267] [Worker-Main-3/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/catacombs_origin is being run through DFU (hash 3fa9eb3326aa86ad205200d6841e11d670015588c9e5c5ce02c2589e5e01f237), this will cause launch time delays
+[31Jul2025 16:49:58.705] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:58.709] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:58.710] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:59.099] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:59.100] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:50:05.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:05.784] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:07.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:08.082] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:08.354] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:50:10.745] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:50:17.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:18.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:18.828] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:19.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:20.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:20.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:21.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:22.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:23.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:24.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:24.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:32.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:33.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:55.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:57.079] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:50:58.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:51:03.450] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[31Jul2025 16:51:48.074] [Worker-Main-9/DEBUG] [ModernFix/]: Structure irons_spellbooks:evoker_fort/tower is being run through DFU (hash 5d93cca423ed17bce1bf0b0c38a02c54997ed2450c61ccc16024f5e0a6da5c73), this will cause launch time delays
+[31Jul2025 16:52:39.021] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 16:52:39.036] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 16:52:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Lightning Dragon
+[31Jul2025 16:52:47.492] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:-895, y:74, z:-5589, dim:minecraft:overworld]
+[31Jul2025 16:52:48.721] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[31Jul2025 16:53:26.185] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.235] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.282] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.337] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.383] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.537] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.632] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.682] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.732] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.788] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.837] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:26.890] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:29.931] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:29.981] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.036] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.135] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.230] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.286] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.336] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:30.389] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.284] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.337] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.390] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.533] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.636] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.691] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.733] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.792] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:45.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:46.836] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:46.891] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:46.943] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:46.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:47.038] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:47.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 16:53:47.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 16:53:49.184] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.239] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.289] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.385] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.437] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.484] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.534] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.586] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:49.638] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:53:59.864] [Worker-Main-3/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/building is being run through DFU (hash bfe7777c872d0a661fb3a707949dad660d6645d311cbc093100149bfa0745998), this will cause launch time delays
+[31Jul2025 16:54:00.067] [Worker-Main-3/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/basement is being run through DFU (hash 345e3da793356688449424b08af8595766f04c7237ab62d2e3f86f6b4f7a324f), this will cause launch time delays
+[31Jul2025 16:54:00.144] [Worker-Main-3/DEBUG] [ModernFix/]: Structure iceandfire:gorgon_temple/gorgon is being run through DFU (hash c50421b376c509e5dbf6b684c09a3de7a2e32e3a96b4f2dfca32fe843f7c5e68), this will cause launch time delays
+[31Jul2025 16:54:32.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:54:32.798] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:54:32.839] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:54:32.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:54:32.923] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:54:44.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:54:44.627] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:54:45.016] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:portal1 is being run through DFU (hash c466823025197276bad0d02afd896cdbd802ca9543df76799cbc8b23d7ecdd26), this will cause launch time delays
+[31Jul2025 16:54:45.093] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:mobs/zombified_piglin is being run through DFU (hash 3e11e276105a623c3f2790c164f6571f3a046f2ff6e9d6234f2b412486a9d7aa), this will cause launch time delays
+[31Jul2025 16:54:45.183] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:mobs/allays_3 is being run through DFU (hash 7ab7f593e39ecef4857908be6176f646539ff30e3867943f602075e6153606b8), this will cause launch time delays
+[31Jul2025 16:54:45.224] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_5 is being run through DFU (hash 27c7e5ebe84ee3ac2908550b671dd6b2e61aea504019cae31f2e7eed04069d08), this will cause launch time delays
+[31Jul2025 16:54:45.242] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_2 is being run through DFU (hash 42aa0b5bc17006bb5201c53f65ee3f2e48ebcf9a9f5d428f33e1d9ca787dcc29), this will cause launch time delays
+[31Jul2025 16:54:45.243] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_3 is being run through DFU (hash df594802996c1eb4bff6aecdf54688c569f2f962e055ed2b8a2df4cbf3ee09a6), this will cause launch time delays
+[31Jul2025 16:54:45.245] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/ruins_4 is being run through DFU (hash 844a22f6f97300ffd7bf375cca3dca071b22b737e33f185191b822e2b925aeb1), this will cause launch time delays
+[31Jul2025 16:54:45.272] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/33 is being run through DFU (hash 74ff5f7239156da069e8738209cb55aba61d8003a6fe4d487f46bec02ee42cd2), this will cause launch time delays
+[31Jul2025 16:54:45.278] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/2 is being run through DFU (hash 5d59b70f91defb1f6bd48b94f356d3f5e52eabcebf60c4b897e3e7f8f61d0dd0), this will cause launch time delays
+[31Jul2025 16:54:45.280] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/11 is being run through DFU (hash 40adc065329ed3313e2bffc444f2107cf4b17017146e094f04743d4511a306bf), this will cause launch time delays
+[31Jul2025 16:54:45.281] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/42 is being run through DFU (hash 57ebabbe5774916b3ea091d5176a46f95aa78b9ce600e1756994c5af238a83c3), this will cause launch time delays
+[31Jul2025 16:54:45.283] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/13 is being run through DFU (hash 9aebc4fc5c74ee92f176c57933f31563922cde89d6f125e6c2a9b38e5ec3ae13), this will cause launch time delays
+[31Jul2025 16:54:45.284] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/8 is being run through DFU (hash 72e39e23280a781e540723ee26affb38051cdbea3243239cfd89fa442951c23a), this will cause launch time delays
+[31Jul2025 16:54:45.285] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/37 is being run through DFU (hash a988701f0d6bfea078e791baf29198e960dbb7b4afcdb22bacb43983493b1ed2), this will cause launch time delays
+[31Jul2025 16:54:45.287] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/16 is being run through DFU (hash ea69fc1fba6172ef243b1ebd07ce90d89d3736896e4d6a808a5d18ba510b60d7), this will cause launch time delays
+[31Jul2025 16:54:45.288] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/1 is being run through DFU (hash 5423c5e7ae93199bcd86c2ae4b02d2e2628e909eeefbf33a75af54dad567bd63), this will cause launch time delays
+[31Jul2025 16:54:45.289] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/14 is being run through DFU (hash 38be7f38fe076d434432add44603ba54c3aab72c5992a71d73597dace63b1d9d), this will cause launch time delays
+[31Jul2025 16:54:45.291] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/21 is being run through DFU (hash ba4bd63390920c80c4caec3dddaaa36990ea211dc15536da12e36d6f46dede95), this will cause launch time delays
+[31Jul2025 16:54:45.293] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/22 is being run through DFU (hash de3ce63ec5ee62b489ed31bb3caf401dc59787149196012c8db16660726bae96), this will cause launch time delays
+[31Jul2025 16:54:45.294] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/31 is being run through DFU (hash 008c9c69fdccb6067aa0dd410381a9ef86e5342207153af628db9383acb9ab69), this will cause launch time delays
+[31Jul2025 16:54:45.295] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/23 is being run through DFU (hash a1185403e3d0bb03e46731e866efe1f7f78d3970510a070c8236fdc595586d4b), this will cause launch time delays
+[31Jul2025 16:54:45.297] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/30 is being run through DFU (hash f4191ee23d210498d7c27e657b320a0a1e8725bc9cad4968293d45c37aa41bca), this will cause launch time delays
+[31Jul2025 16:54:45.299] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/10 is being run through DFU (hash e58bb477074ef6dfde813e16882c39bbdbd6eb794f8f1859d99e59a103c49af2), this will cause launch time delays
+[31Jul2025 16:54:45.300] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/18 is being run through DFU (hash 67cee2155f8ebecb5adcabe5157f2a7b5ee2860368e4ff354fabb0b4329f23b7), this will cause launch time delays
+[31Jul2025 16:54:45.301] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/29 is being run through DFU (hash 1766cbbca8c59ec0bdf313def88ac44d838a01636cb871408d66cbde3b0592e8), this will cause launch time delays
+[31Jul2025 16:54:45.303] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/12 is being run through DFU (hash 75de4feafffba1c0a5b30987c93cd41d977e5a8919c5813585868fa53ffc8838), this will cause launch time delays
+[31Jul2025 16:54:45.304] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/28 is being run through DFU (hash 6d52d6035ed60f09b6c9c4c22fe50ea5d24a0166f3204d20e08f0d538da268d3), this will cause launch time delays
+[31Jul2025 16:54:45.305] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/5 is being run through DFU (hash fff4260655e490825db352e887d06a55d09830b9df5f986742db95a02eb6ceac), this will cause launch time delays
+[31Jul2025 16:54:45.306] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/9 is being run through DFU (hash 0013f4211394ea5d073b18349cf006bd6b0666973a5315ddfee5f0585f0d38a1), this will cause launch time delays
+[31Jul2025 16:54:45.308] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/35 is being run through DFU (hash e59369bfd84679671225c12b4084694e45d997fa2b65e480a86500f473c90a67), this will cause launch time delays
+[31Jul2025 16:54:45.310] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/40 is being run through DFU (hash 2dad9b55b13015bf4e170334ef95dd5016bd1d1a810e6f387b6be2611fa9f2bb), this will cause launch time delays
+[31Jul2025 16:54:45.311] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/25 is being run through DFU (hash 0d82b90e9f85a31c6cb6807ab7bcf4d6930fb0a00ec7787786c0db2c689504d8), this will cause launch time delays
+[31Jul2025 16:54:45.313] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/43 is being run through DFU (hash b053b75b9c2813580d8a58f30dcce8b85a87f6a2856a2365d6de648f3590694f), this will cause launch time delays
+[31Jul2025 16:54:45.315] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/15 is being run through DFU (hash 5839a2efc2692ded6736d1f93a41491c292a5e91e8b95ff726024b8cb15e8a9e), this will cause launch time delays
+[31Jul2025 16:54:45.316] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/26 is being run through DFU (hash 1108b844694b3bb3288a8d28196587f84042e621c6607056287a93ec3d4d0bbf), this will cause launch time delays
+[31Jul2025 16:54:45.318] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/36 is being run through DFU (hash 5c9e467ee9606b113376fe236b53a1ed2ff49e1ec54dd5313d91481026b5c012), this will cause launch time delays
+[31Jul2025 16:54:45.320] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/3 is being run through DFU (hash 3f0b21079fe0d7551a57f0f98a45b7ab7ac3d2c2d219953575a93c95ab26f8a4), this will cause launch time delays
+[31Jul2025 16:54:45.322] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/44 is being run through DFU (hash 5cde2f5dcb54849dac29988815920e533d596db06e4a4ef20e5d6fea3df11630), this will cause launch time delays
+[31Jul2025 16:54:45.324] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/32 is being run through DFU (hash 24786e8c535461bbd57eb409eb1e78b956d7b5ed13722ad7616aabd00a0ebccb), this will cause launch time delays
+[31Jul2025 16:54:45.325] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/38 is being run through DFU (hash a3e8c67a659352fa17ec8c18fac5204ad50e6b455ee82cb4ebe8415851ccf4ed), this will cause launch time delays
+[31Jul2025 16:54:45.327] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/34 is being run through DFU (hash 0094c9d419c5719313b13d355458aed8a7b2eb16284b92286bd3bf047f3125ca), this will cause launch time delays
+[31Jul2025 16:54:45.330] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/6 is being run through DFU (hash f78b140182e5e968fa71f0bd06ffff62a0d638bdf93bd822dd8cf7998826a673), this will cause launch time delays
+[31Jul2025 16:54:45.333] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/19 is being run through DFU (hash c4d3fca245691b3fb05e64da6c7b00cbe4afc50cf29c03cd2056c85f2c906a5b), this will cause launch time delays
+[31Jul2025 16:54:45.335] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/4 is being run through DFU (hash 21100d9f4eeb13a287195af6923c876bc6b9cc6da712f21dd08b2c848712bb74), this will cause launch time delays
+[31Jul2025 16:54:45.337] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/39 is being run through DFU (hash 5bbef28333433b9e0f825b5de8a1392074619ce4da317cbc02c8fc1316a588cf), this will cause launch time delays
+[31Jul2025 16:54:45.339] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/27 is being run through DFU (hash 56da9f9763d898467da7fe6c10d4316cbe325eb265313e8b029855287a08a9f3), this will cause launch time delays
+[31Jul2025 16:54:45.341] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/17 is being run through DFU (hash 5553461e8b0dcf5857536efd8849e53f5ad3b772de8f522b011b2b9bec8b87f6), this will cause launch time delays
+[31Jul2025 16:54:45.342] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/24 is being run through DFU (hash 44dd8562f51340c957ce5a4497601f21f8b3ce7b242cede7b886db9a42fa308e), this will cause launch time delays
+[31Jul2025 16:54:45.344] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/20 is being run through DFU (hash db8ba4c8833c5f8ae3eb3d654e868e9f027c05a671c29e5195ff0fa91fc547f3), this will cause launch time delays
+[31Jul2025 16:54:45.346] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/41 is being run through DFU (hash 32bd68ce1a65ec1837a5303bfa57debeabb14e0a1ec27570562f163978096002), this will cause launch time delays
+[31Jul2025 16:54:45.348] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/45 is being run through DFU (hash 40e6a235ca6fbafa6503fc8f1f885eaba6d56cd1f6d22c0836d2e563d6e164cc), this will cause launch time delays
+[31Jul2025 16:54:45.349] [Worker-Main-3/DEBUG] [ModernFix/]: Structure hopo:patch_netherrack/crimson/7 is being run through DFU (hash c5324179925b1498112ecb2145092d1ddbf99f6658340a2c3be3ceaa59eefaf6), this will cause launch time delays
+[31Jul2025 16:54:48.586] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:54:48.587] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:55:06.389] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:55:06.438] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:57:00.613] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[31Jul2025 16:57:03.285] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.288] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.289] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.290] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.594] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.601] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.603] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:07.914] [Worker-Main-27/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_0_main is being run through DFU (hash fdaaae3527bd087ae85b0ae4174af4bc8e5fb752d703b2cfbedea3cec78e2eaa), this will cause launch time delays
+[31Jul2025 16:57:08.018] [Worker-Main-27/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_skeleton_0 is being run through DFU (hash 3713743dd59fdcaa5def3a18f38b05b1b7676b223ad995b9372d55019a1dcb07), this will cause launch time delays
+[31Jul2025 16:57:08.157] [Worker-Main-27/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_husk_0 is being run through DFU (hash 9336d663b637d660a35406b57f5adc6e83752fbd4b72862c2498411c40245398), this will cause launch time delays
+[31Jul2025 16:57:09.188] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:10.855] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:58:47.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 16:58:47.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

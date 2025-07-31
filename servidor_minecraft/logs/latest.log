@@ -1169,3 +1169,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jul2025 16:46:52.390] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [31Jul2025 16:47:00.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was energized by Lightning Dragon
 [31Jul2025 16:47:06.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 2.2531318556964948,1.6709083839322858,9.7947838516493
+[31Jul2025 16:49:58.705] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:58.709] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:58.710] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:59.099] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:49:59.100] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:50:08.354] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:50:10.745] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:52:39.021] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 16:52:39.036] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 16:52:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Lightning Dragon
+[31Jul2025 16:54:48.586] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:54:48.587] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.285] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.288] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.289] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.290] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.594] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.601] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:03.603] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:09.188] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 16:57:10.855] [Worker-Main-27/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
