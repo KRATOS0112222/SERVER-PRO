@@ -777,6 +777,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-26 01:39:15 +0000",
+      "minecraft:blaze": "2025-07-31 01:34:33 +0000",
       "minecraft:skeleton": "2025-07-26 18:06:05 +0000",
       "minecraft:ghast": "2025-07-31 01:07:12 +0000",
       "minecraft:magma_cube": "2025-07-26 18:08:30 +0000",
@@ -6281,9 +6282,21 @@
     },
     "done": false
   },
+  "spartantwilight:recipes/misc/blaze_pole": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-31 01:35:45 +0000"
     },
     "done": true
   },
@@ -6296,6 +6309,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-07-31 01:34:33 +0000"
     },
     "done": true
   },
@@ -6413,6 +6432,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-31 01:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-31 00:04:38 +0000"
@@ -6449,9 +6474,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-31 01:28:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2025-07-31 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
     },
     "done": true
   },
@@ -6542,6 +6579,12 @@
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-07-30 22:44:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-31 01:27:48 +0000"
     },
     "done": true
   },
@@ -6638,6 +6681,18 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-07-31 00:53:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
     },
     "done": true
   },
