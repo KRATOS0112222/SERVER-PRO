@@ -1218,3 +1218,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jul2025 17:23:02.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
 [31Jul2025 17:23:37.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy lost connection: Disconnected
 [31Jul2025 17:23:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy left the game
+[31Jul2025 18:00:45.753] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[31Jul2025 18:00:45.760] [Worker-Main-9/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
