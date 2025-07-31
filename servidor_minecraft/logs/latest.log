@@ -121,3 +121,9 @@
 [31Jul2025 01:35:17.074] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
 [31Jul2025 01:35:41.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Into Fire]
 [31Jul2025 01:35:45.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Into Fire]
+[31Jul2025 01:38:54.665] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 01:38:54.669] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 01:43:17.855] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 01:43:17.866] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 01:44:43.314] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 01:44:43.315] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved

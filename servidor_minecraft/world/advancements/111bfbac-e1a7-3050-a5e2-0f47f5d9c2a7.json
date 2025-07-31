@@ -784,6 +784,7 @@
       "minecraft:spider": "2025-07-26 02:40:17 +0000",
       "minecraft:creeper": "2025-07-26 02:53:07 +0000",
       "minecraft:witch": "2025-07-26 01:53:18 +0000",
+      "minecraft:wither_skeleton": "2025-07-31 01:42:59 +0000",
       "minecraft:husk": "2025-07-28 16:34:00 +0000",
       "minecraft:cave_spider": "2025-07-28 02:16:53 +0000",
       "minecraft:enderman": "2025-07-29 18:27:38 +0000",
@@ -6278,7 +6279,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-30 23:42:18 +0000"
+      "minecraft:nether_wastes": "2025-07-30 23:42:18 +0000",
+      "minecraft:basalt_deltas": "2025-07-31 01:40:25 +0000"
     },
     "done": false
   },
@@ -6396,6 +6398,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-07-30 23:41:34 +0000"
@@ -6498,6 +6506,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-30 22:44:32 +0000"
@@ -6522,6 +6536,12 @@
     },
     "done": true
   },
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-31 01:08:41 +0000"
@@ -6531,6 +6551,12 @@
   "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
     "criteria": {
       "has_scute": "2025-07-30 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
     },
     "done": true
   },
@@ -6549,6 +6575,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-07-30 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
     },
     "done": true
   },
@@ -6576,6 +6608,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
       "has_flint": "2025-07-30 22:44:32 +0000"
@@ -6600,6 +6638,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-07-31 01:42:26 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/misc/squash_seeds_enchanting": {
     "criteria": {
       "has_pumpkin_seeds": "2025-07-30 22:46:33 +0000"
@@ -6618,9 +6662,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-07-31 01:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2025-07-30 22:50:35 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
     },
     "done": true
   },
