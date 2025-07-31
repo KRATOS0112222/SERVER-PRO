@@ -18,3 +18,9 @@
 [31Jul2025 00:27:53.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6617ms or 132 ticks behind
 [31Jul2025 00:32:34.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
 [31Jul2025 00:32:56.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7090ms or 141 ticks behind
+[31Jul2025 00:36:20.006] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Fortuitous Militia]
+[31Jul2025 00:39:43.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved too quickly! -1.8697083661246197,1.1767592750642422,10.067168573649724
+[31Jul2025 00:39:43.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6149ms or 122 ticks behind
+[31Jul2025 00:40:00.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[31Jul2025 00:40:12.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 7.758623324871934,-0.9215999984741217,-6.713682848939243
+[31Jul2025 00:40:17.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
