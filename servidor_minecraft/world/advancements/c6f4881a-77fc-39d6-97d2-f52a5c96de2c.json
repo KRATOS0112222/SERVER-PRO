@@ -395,6 +395,7 @@
       "minecraft:frozen_river": "2025-07-26 02:47:24 +0000",
       "minecraft:cherry_grove": "2025-07-26 17:57:49 +0000",
       "minecraft:bamboo_jungle": "2025-07-26 18:42:43 +0000",
+      "minecraft:wooded_badlands": "2025-07-31 17:15:54 +0000",
       "minecraft:beach": "2025-07-26 02:11:22 +0000",
       "minecraft:sparse_jungle": "2025-07-26 18:39:11 +0000",
       "minecraft:river": "2025-07-26 02:03:24 +0000",
@@ -405,9 +406,11 @@
       "minecraft:cold_ocean": "2025-07-28 02:24:58 +0000",
       "minecraft:forest": "2025-07-26 02:32:07 +0000",
       "minecraft:frozen_ocean": "2025-07-26 17:37:24 +0000",
+      "minecraft:desert": "2025-07-31 17:15:42 +0000",
       "minecraft:jungle": "2025-07-28 01:50:01 +0000",
       "minecraft:ocean": "2025-07-28 02:21:56 +0000",
       "minecraft:snowy_beach": "2025-07-26 17:06:14 +0000",
+      "minecraft:warm_ocean": "2025-07-31 17:15:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-28 02:00:33 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-26 02:48:12 +0000",
       "minecraft:savanna": "2025-07-31 16:16:37 +0000",
@@ -7786,9 +7789,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_boomerang": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
     },
     "done": true
   },
@@ -7846,6 +7861,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
@@ -7858,15 +7891,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-31 17:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-31 16:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-31 17:17:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
     },
     "done": true
   },
@@ -7891,6 +7954,12 @@
   "enderio:recipes/misc/pulsating_alloy_nugget": {
     "criteria": {
       "has_ingredient": "2025-07-31 16:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-31 17:11:28 +0000"
     },
     "done": true
   },
@@ -7954,6 +8023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2025-07-31 16:48:22 +0000"
@@ -7963,6 +8038,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-31 16:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
     },
     "done": true
   },
@@ -7990,6 +8071,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-07-31 17:18:14 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_warhammer": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
@@ -8005,6 +8098,12 @@
   "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-07-31 16:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:00 +0000"
     },
     "done": true
   },

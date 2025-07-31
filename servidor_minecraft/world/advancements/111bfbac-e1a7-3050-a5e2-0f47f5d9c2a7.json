@@ -395,6 +395,7 @@
       "minecraft:frozen_river": "2025-07-26 17:06:24 +0000",
       "minecraft:cherry_grove": "2025-07-26 18:28:42 +0000",
       "minecraft:bamboo_jungle": "2025-07-26 18:42:54 +0000",
+      "minecraft:wooded_badlands": "2025-07-31 17:15:09 +0000",
       "minecraft:beach": "2025-07-26 01:41:33 +0000",
       "minecraft:sparse_jungle": "2025-07-26 18:39:03 +0000",
       "minecraft:river": "2025-07-26 01:46:52 +0000",
@@ -406,6 +407,7 @@
       "minecraft:forest": "2025-07-26 01:47:18 +0000",
       "minecraft:lush_caves": "2025-07-28 02:16:33 +0000",
       "minecraft:frozen_ocean": "2025-07-26 17:37:23 +0000",
+      "minecraft:desert": "2025-07-31 17:15:33 +0000",
       "minecraft:jungle": "2025-07-28 01:49:59 +0000",
       "minecraft:ocean": "2025-07-28 02:21:56 +0000",
       "minecraft:snowy_beach": "2025-07-26 17:06:05 +0000",
@@ -6777,9 +6779,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-07-31 16:31:52 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/tooth_bricks": {
+    "criteria": {
+      "has_thrasher_tooth": "2025-07-31 17:11:40 +0000"
     },
     "done": true
   },
@@ -6789,9 +6809,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-31 16:31:52 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-07-31 17:11:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-31 17:11:17 +0000"
     },
     "done": true
   },
@@ -6801,9 +6857,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-31 17:17:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-07-31 16:47:17 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2025-07-31 17:11:40 +0000"
     },
     "done": true
   },
@@ -6813,9 +6893,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-31 17:11:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-07-31 16:31:52 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/tooth_block": {
+    "criteria": {
+      "has_thrasher_tooth": "2025-07-31 17:11:40 +0000"
     },
     "done": true
   },
@@ -6831,6 +6923,30 @@
     },
     "done": true
   },
+  "enderio:recipes/building_blocks/silent_stone_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-07-31 17:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-07-31 17:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
       "has_yellow_terracotta": "2025-07-31 16:31:51 +0000"
@@ -6840,6 +6956,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-31 16:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
     },
     "done": true
   },
@@ -6864,6 +6986,18 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-31 16:50:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "black_eye": "2025-07-31 17:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-31 17:09:22 +0000"
     },
     "done": true
   },
