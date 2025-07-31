@@ -1147,3 +1147,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jul2025 16:15:55.233] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
 [31Jul2025 16:16:12.488] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
 [31Jul2025 16:16:12.489] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[31Jul2025 16:18:58.335] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 16:18:58.357] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 16:19:10.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Lightning Dragon
+[31Jul2025 16:20:54.627] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 16:20:54.646] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 16:21:03.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Door Knight
