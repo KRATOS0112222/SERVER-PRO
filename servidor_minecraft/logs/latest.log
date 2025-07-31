@@ -73,3 +73,24 @@
 [31Jul2025 01:12:29.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6345ms or 126 ticks behind
 [31Jul2025 01:14:03.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! -8.747986467389897,1.252203340253729,-5.104801330519763
 [31Jul2025 01:14:03.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[31Jul2025 01:17:38.468] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 01:17:38.469] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 01:17:52.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was doomed to fall
+[31Jul2025 01:18:12.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[31Jul2025 01:20:20.559] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 01:20:20.561] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 01:20:24.059] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 01:20:24.062] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 01:20:28.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy tried to swim in lava to escape Ancient Knight
+[31Jul2025 01:20:28.825] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 01:20:37.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ancient Knight
+[31Jul2025 01:20:49.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved too quickly! -2.1023422534324183,0.14270951520070696,10.038464963381557
+[31Jul2025 01:20:49.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2796ms or 55 ticks behind
+[31Jul2025 01:21:01.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 4.724702490425408,0.0,9.024818237019076
+[31Jul2025 01:23:51.612] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 01:23:51.615] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 01:23:58.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ancient Knight
+[31Jul2025 01:24:08.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[31Jul2025 01:25:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Spooky Scary Skeleton]
+[31Jul2025 01:26:24.963] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 01:26:24.967] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
