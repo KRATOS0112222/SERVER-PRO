@@ -8,3 +8,9 @@
 [31Jul2025 00:04:35.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shagyy> vuelvoooo
 [31Jul2025 00:07:49.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hidden in the Dark]
 [31Jul2025 00:14:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Dark Purposes]
+[31Jul2025 00:25:43.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=38, z=-583} BlockPos{x=86, y=38, z=-569}
+[31Jul2025 00:25:43.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=38, z=-583} BlockPos{x=86, y=38, z=-569}
+[31Jul2025 00:25:43.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=38, z=-583} BlockPos{x=86, y=38, z=-569}
+[31Jul2025 00:25:43.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=38, z=-583} BlockPos{x=86, y=38, z=-569}
+[31Jul2025 00:25:43.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=38, z=-583} BlockPos{x=86, y=38, z=-569}
+[31Jul2025 00:25:44.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=38, z=-583} BlockPos{x=86, y=38, z=-569}
