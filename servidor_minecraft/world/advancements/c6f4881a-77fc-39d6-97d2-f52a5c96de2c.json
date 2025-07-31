@@ -6942,6 +6942,12 @@
     },
     "done": true
   },
+  "dungeons_and_combat:hiddeninthe_cult": {
+    "criteria": {
+      "hiddeninthe_cult_0": "2025-07-31 00:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-07-30 23:42:49 +0000"
@@ -7059,6 +7065,12 @@
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2025-07-30 22:44:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:dark_purposes": {
+    "criteria": {
+      "dark_purposes_0": "2025-07-31 00:14:42 +0000"
     },
     "done": true
   },
