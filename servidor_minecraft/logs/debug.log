@@ -12957,3 +12957,133 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Jul2025 15:55:34.428] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player shagyy
 [31Jul2025 15:55:34.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy joined the game
 [31Jul2025 15:55:34.691] [Server thread/INFO] [Jade/]: Syncing config to shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7)
+[31Jul2025 15:58:20.711] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 15:58:20.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 16:00:20.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:00:22.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:00:23.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31Jul2025 16:02:03.637] [Worker-Main-27/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[31Jul2025 16:02:03.823] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[31Jul2025 16:02:04.014] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[31Jul2025 16:02:04.041] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[31Jul2025 16:02:04.044] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[31Jul2025 16:02:04.254] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[31Jul2025 16:02:04.347] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[31Jul2025 16:02:05.133] [Worker-Main-27/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Jul2025 16:02:05.135] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Jul2025 16:02:05.136] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Jul2025 16:02:05.136] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Jul2025 16:02:05.137] [Worker-Main-27/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.153] [Worker-Main-27/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[31Jul2025 16:02:05.277] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Jul2025 16:02:05.285] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Jul2025 16:02:05.286] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Jul2025 16:02:05.286] [Worker-Main-3/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[31Jul2025 16:02:05.295] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[31Jul2025 16:02:05.344] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[31Jul2025 16:02:05.345] [Worker-Main-3/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[31Jul2025 16:02:05.890] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[31Jul2025 16:02:05.935] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[31Jul2025 16:02:07.215] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[31Jul2025 16:02:07.328] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[31Jul2025 16:02:07.358] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[31Jul2025 16:02:07.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[31Jul2025 16:02:07.383] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[31Jul2025 16:02:07.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[31Jul2025 16:02:07.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road3
+[31Jul2025 16:02:07.775] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road1
+[31Jul2025 16:02:07.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone1
+[31Jul2025 16:02:07.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/well
+[31Jul2025 16:02:07.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone3
+[31Jul2025 16:02:07.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/small_tower
+[31Jul2025 16:02:07.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone2
+[31Jul2025 16:02:07.805] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/dungeon2
+[31Jul2025 16:02:09.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 3.0506110067190306,0.0,-9.60267135057893
+[31Jul2025 16:02:09.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5958ms or 119 ticks behind
+[31Jul2025 16:02:14.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[31Jul2025 16:02:14.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[31Jul2025 16:02:14.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[31Jul2025 16:02:14.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[31Jul2025 16:02:14.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[31Jul2025 16:02:14.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[31Jul2025 16:02:14.505] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[31Jul2025 16:02:14.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[31Jul2025 16:02:14.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[31Jul2025 16:02:14.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[31Jul2025 16:02:14.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[31Jul2025 16:02:14.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[31Jul2025 16:02:14.509] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[31Jul2025 16:02:14.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[31Jul2025 16:02:14.511] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[31Jul2025 16:02:14.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[31Jul2025 16:02:14.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[31Jul2025 16:02:14.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[31Jul2025 16:02:14.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[31Jul2025 16:03:26.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Jul2025 16:03:26.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Jul2025 16:04:18.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:18.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:20.303] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:20.359] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:20.401] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:20.440] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:22.141] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:22.214] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:22.254] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:22.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:22.491] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:22.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:30.759] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:30.805] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31Jul2025 16:04:35.740] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[31Jul2025 16:04:35.808] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[31Jul2025 16:04:35.833] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[31Jul2025 16:04:36.109] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[31Jul2025 16:04:36.336] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[31Jul2025 16:04:36.527] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[31Jul2025 16:04:38.420] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[31Jul2025 16:04:40.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[31Jul2025 16:04:40.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[31Jul2025 16:04:40.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[31Jul2025 16:04:40.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[31Jul2025 16:04:40.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[31Jul2025 16:04:40.513] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[31Jul2025 16:04:40.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[31Jul2025 16:04:40.515] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[31Jul2025 16:04:40.721] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of prehistoricfauna:time_temple
+[31Jul2025 16:04:41.028] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[31Jul2025 16:04:41.037] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[31Jul2025 16:04:41.044] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_2
+[31Jul2025 16:04:41.051] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_5
+[31Jul2025 16:04:41.060] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_1
+[31Jul2025 16:04:41.070] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_multishot_0
+[31Jul2025 16:04:41.078] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_6
+[31Jul2025 16:04:41.083] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_3
+[31Jul2025 16:04:41.088] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_1
+[31Jul2025 16:04:41.092] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_2
+[31Jul2025 16:04:41.093] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_3
+[31Jul2025 16:04:41.094] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_tent_0
+[31Jul2025 16:04:41.094] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_4
+[31Jul2025 16:04:41.104] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_0
+[31Jul2025 16:04:41.105] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_4
+[31Jul2025 16:04:41.110] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_pillager_normal_0
+[31Jul2025 16:04:41.141] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_5
+[31Jul2025 16:04:41.165] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_vindicator_normal_0
+[31Jul2025 16:04:41.184] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_0
+[31Jul2025 16:04:41.184] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_1
+[31Jul2025 16:04:41.184] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_3
+[31Jul2025 16:04:41.185] [Worker-Main-27/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_deco_2
+[31Jul2025 16:04:41.868] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[31Jul2025 16:04:42.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7203ms or 144 ticks behind
+[31Jul2025 16:05:47.996] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.u_team_core.menu.ForgeFluidContainerMenuDelegator$Factory@3e079d0b for class interface info.u_team.u_team_core.menu.FluidContainerMenu$FluidContainerDelegator$Factory
+[31Jul2025 16:05:48.011] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded services [info.u_team.u_team_core.impl.extension.ForgeMenuUtilExtension@3e805731] for class interface info.u_team.u_team_core.util.MenuUtil$Extension
+[31Jul2025 16:07:50.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shagyy> wwwww

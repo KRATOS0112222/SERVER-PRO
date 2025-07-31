@@ -783,6 +783,7 @@
       "minecraft:magma_cube": "2025-07-26 18:08:30 +0000",
       "minecraft:spider": "2025-07-26 02:40:17 +0000",
       "minecraft:creeper": "2025-07-26 02:53:07 +0000",
+      "minecraft:zombified_piglin": "2025-07-31 16:00:23 +0000",
       "minecraft:witch": "2025-07-26 01:53:18 +0000",
       "minecraft:wither_skeleton": "2025-07-31 01:42:59 +0000",
       "minecraft:husk": "2025-07-28 16:34:00 +0000",
@@ -6272,81 +6273,81 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_flint": "2025-07-30 22:44:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "aether:recipes/decorations/skyroot_fletching_table": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_flint": "2025-07-30 22:44:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/combat/arrow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_flint": "2025-07-30 22:44:32 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "deep_aether:recipes/misc/squash_seeds_enchanting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_pumpkin_seeds": "2025-07-30 22:46:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_rail": "2025-07-30 22:47:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_rail": "2025-07-30 22:47:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_rail": "2025-07-30 22:47:54 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_scute": "2025-07-30 22:50:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_scute": "2025-07-30 22:50:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "upgrade_aquatic:recipes/building_blocks/scute_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_scute": "2025-07-30 22:50:35 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "underground_cabin": "2025-07-30 22:51:36 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-07-31 02:03:03 +0000"
+      "has_iron_pickaxe": "2025-07-30 23:41:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_ghast_tear": "2025-07-31 01:15:52 +0000"
+      "iron_pickaxe": "2025-07-30 23:41:34 +0000"
     },
     "done": true
   },
@@ -6357,81 +6358,21 @@
     },
     "done": false
   },
-  "spartantwilight:recipes/misc/blaze_pole": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
+      "entered_nether": "2025-07-30 23:42:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "incendium:root": {
     "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
+      "requirement": "2025-07-30 23:42:18 +0000"
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:nether/root": {
     "criteria": {
-      "blaze_rod": "2025-07-31 01:35:45 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-07-30 22:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
-    "criteria": {
-      "requirement": "2025-07-31 01:34:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_quartz_block": "2025-07-31 00:04:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-07-31 00:53:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
-    "criteria": {
-      "has_quartz_block": "2025-07-31 00:04:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:quartz_flats": "2025-07-30 23:44:31 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
-    "criteria": {
-      "has_stick": "2025-07-31 01:10:46 +0000"
+      "entered_nether": "2025-07-30 23:42:18 +0000"
     },
     "done": true
   },
@@ -6441,51 +6382,33 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
+  "incendium:misc/soul_searcher": {
     "criteria": {
-      "has_diamond_pickaxe": "2025-07-31 01:02:23 +0000"
+      "incendium:quartz_flats": "2025-07-30 23:44:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-07-30 23:44:31 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
+  "incendium:quartz_flats/root": {
     "criteria": {
-      "has_iron_pickaxe": "2025-07-30 23:41:34 +0000"
+      "requirement": "2025-07-30 23:44:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
-      "has_rail": "2025-07-30 22:47:54 +0000"
+      "has_quartz_block": "2025-07-31 00:04:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
-      "has_iron_nugget": "2025-07-31 01:09:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-07-31 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
-    "criteria": {
-      "has_witherbone": "2025-07-31 01:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-07-30 23:41:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-07-30 23:42:18 +0000"
+      "has_quartz_block": "2025-07-31 00:04:38 +0000"
     },
     "done": true
   },
@@ -6501,93 +6424,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-07-30 22:47:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-07-31 00:53:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-07-31 01:28:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-31 00:04:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-07-31 01:10:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-07-31 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-07-31 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-07-31 01:28:01 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/flint_and_steel_repairing": {
-    "criteria": {
-      "has_flint_and_steel": "2025-07-31 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
-    "criteria": {
-      "has_witherbone": "2025-07-31 01:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-30 22:44:32 +0000"
     },
     "done": true
   },
@@ -6603,135 +6442,27 @@
     },
     "done": true
   },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-07-30 23:42:18 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
-    "criteria": {
-      "has_witherbone": "2025-07-31 01:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/scute_shingles": {
-    "criteria": {
-      "has_scute": "2025-07-30 22:50:35 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_pole_from_string": {
-    "criteria": {
-      "has_witherbone": "2025-07-31 01:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-07-31 01:10:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-07-30 22:47:54 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/misc/witherbone_handle_from_string": {
-    "criteria": {
-      "has_witherbone": "2025-07-31 01:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:quartz_flats": "2025-07-30 23:44:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2025-07-31 02:01:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-31 00:04:38 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/stone_sword_repairing": {
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
-      "has_stone_sword": "2025-07-31 01:42:25 +0000"
+      "has_quartz_block": "2025-07-31 00:04:38 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_fletching_table": {
+  "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
-      "has_flint": "2025-07-30 22:44:32 +0000"
+      "has_quartz_block": "2025-07-31 00:04:38 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
-      "in_better_fortress": "2025-07-31 01:27:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-07-31 00:53:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2025-07-31 01:42:26 +0000"
-    },
-    "done": true
-  },
-  "deep_aether:recipes/misc/squash_seeds_enchanting": {
-    "criteria": {
-      "has_pumpkin_seeds": "2025-07-30 22:46:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-07-30 22:44:32 +0000"
+      "has_quartz_block": "2025-07-31 00:04:38 +0000"
     },
     "done": true
   },
@@ -6741,27 +6472,111 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_sword_repairing": {
+  "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
-      "has_golden_sword": "2025-07-31 01:40:44 +0000"
+      "has_flint_and_steel": "2025-07-31 00:53:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/turtle_helmet": {
+  "minecraft:recipes/building_blocks/melon": {
     "criteria": {
-      "has_scute": "2025-07-30 22:50:35 +0000"
+      "has_melon": "2025-07-31 00:53:49 +0000"
     },
     "done": true
   },
-  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+  "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
-      "has_witherbone": "2025-07-31 01:45:48 +0000"
+      "has_melon": "2025-07-31 00:53:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "has_quartz_block": "2025-07-31 00:04:38 +0000"
+      "has_melon": "2025-07-31 00:53:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-31 00:53:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-31 01:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-07-31 01:08:41 +0000"
     },
     "done": true
   },
@@ -6777,27 +6592,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_quartz": {
-    "criteria": {
-      "has_quartz_block": "2025-07-31 00:04:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-31 01:08:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_quartz_block": "2025-07-31 00:04:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-07-30 23:42:18 +0000"
     },
     "done": true
   },
@@ -6807,15 +6604,93 @@
     },
     "done": true
   },
-  "incendium:quartz_flats/root": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "requirement": "2025-07-30 23:44:31 +0000"
+      "has_iron_nugget": "2025-07-31 01:09:58 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/melon": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_melon_slice": "2025-07-31 00:53:49 +0000"
+      "crying_obsidian": "2025-07-31 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-31 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-31 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-31 01:10:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-07-31 01:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-07-31 01:10:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-31 01:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-07-31 01:27:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-31 01:28:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-31 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-07-31 01:34:33 +0000"
+    },
+    "done": true
+  },
+  "spartantwilight:recipes/misc/blaze_pole": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-31 01:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-31 01:35:45 +0000"
     },
     "done": true
   },
@@ -6831,9 +6706,63 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/building_blocks/scute_block": {
+  "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
-      "has_scute": "2025-07-30 22:50:35 +0000"
+      "has_golden_sword": "2025-07-31 01:40:44 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-07-31 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-07-31 01:42:26 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_leather": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_handle_from_string": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/misc/witherbone_pole_from_wool": {
+    "criteria": {
+      "has_witherbone": "2025-07-31 01:45:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-07-31 02:01:46 +0000"
     },
     "done": true
   },
