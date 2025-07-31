@@ -24,3 +24,40 @@
 [31Jul2025 00:40:00.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
 [31Jul2025 00:40:12.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 7.758623324871934,-0.9215999984741217,-6.713682848939243
 [31Jul2025 00:40:17.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[31Jul2025 00:47:13.308] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 00:47:13.333] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 00:47:24.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.tidal_grasp
+[31Jul2025 00:47:46.961] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 00:47:46.964] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 00:47:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.floodgate
+[31Jul2025 00:48:14.662] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 00:48:14.664] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 00:48:24.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[31Jul2025 00:48:51.463] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 00:48:51.466] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 00:48:57.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[31Jul2025 00:49:11.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 9.966481545505133,0.9139059206844848,2.4707128111931524
+[31Jul2025 00:49:30.766] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 00:49:30.770] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 00:49:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[31Jul2025 00:50:02.912] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 00:50:02.915] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 00:50:08.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was zapped to death by Aqua Grandmaster
+[31Jul2025 00:50:11.921] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 00:50:11.924] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 00:50:17.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[31Jul2025 00:51:02.966] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 00:51:02.968] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 00:51:03.318] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 00:51:03.320] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 00:51:09.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[31Jul2025 00:51:09.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.aqua_missiles
+[31Jul2025 00:51:32.766] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[31Jul2025 00:51:32.770] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[31Jul2025 00:51:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was shot by SUPATA123
+[31Jul2025 00:51:42.931] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[31Jul2025 00:51:42.938] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[31Jul2025 00:51:51.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.bubble_spray
+[31Jul2025 00:52:09.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Tools of the Trade]
+[31Jul2025 00:54:41.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shagyy moved too quickly! 5.16526821844225,-1.0,8.53031157935402
+[31Jul2025 00:54:41.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind

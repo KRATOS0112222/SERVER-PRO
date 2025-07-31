@@ -6286,6 +6286,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-31 00:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-31 00:04:38 +0000"
@@ -6346,9 +6352,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-31 00:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-31 00:04:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-07-31 00:53:13 +0000"
     },
     "done": true
   },
@@ -6406,6 +6424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-31 00:53:49 +0000"
+    },
+    "done": true
+  },
   "deep_aether:recipes/misc/squash_seeds_enchanting": {
     "criteria": {
       "has_pumpkin_seeds": "2025-07-30 22:46:33 +0000"
@@ -6415,6 +6439,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-30 22:44:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-31 00:52:09 +0000"
     },
     "done": true
   },
@@ -6451,6 +6481,12 @@
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-07-30 23:44:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-31 00:53:49 +0000"
     },
     "done": true
   },
