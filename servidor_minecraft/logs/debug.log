@@ -21039,3 +21039,501 @@ java.lang.Exception: null
 [01Aug2025 22:33:29.054] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [01Aug2025 22:33:29.106] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [01Aug2025 22:33:29.159] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:33:46.728] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=359, y=-11, z=-8942}
+[01Aug2025 22:33:46.729] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-11, z=-8918}
+[01Aug2025 22:33:46.729] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-25, z=-8950}
+[01Aug2025 22:33:46.734] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8943}
+[01Aug2025 22:33:46.734] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=359, y=-11, z=-8942}
+[01Aug2025 22:33:46.735] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=2, z=-8948}
+[01Aug2025 22:33:46.735] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-25, z=-8950}
+[01Aug2025 22:33:46.861] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=2, z=-8943}
+[01Aug2025 22:33:46.862] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8943}
+[01Aug2025 22:33:46.863] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=326, y=2, z=-8925}
+[01Aug2025 22:33:46.863] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=359, y=-11, z=-8942}
+[01Aug2025 22:33:46.863] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=321, y=2, z=-8924}
+[01Aug2025 22:33:46.864] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=327, y=2, z=-8936}
+[01Aug2025 22:33:48.091] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=2, z=-8943}
+[01Aug2025 22:33:48.091] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=321, y=2, z=-8924}
+[01Aug2025 22:33:54.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01Aug2025 22:33:55.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has made the advancement [Desert Pyramid Revamped]
+[01Aug2025 22:33:55.603] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=2, z=-8943}
+[01Aug2025 22:33:55.604] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8943}
+[01Aug2025 22:33:55.605] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=2, z=-8949}
+[01Aug2025 22:33:55.606] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=312, y=-11, z=-8960}
+[01Aug2025 22:33:55.769] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8943}
+[01Aug2025 22:33:55.770] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=2, z=-8949}
+[01Aug2025 22:33:55.771] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=366, y=-11, z=-8955}
+[01Aug2025 22:33:55.771] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=2, z=-8948}
+[01Aug2025 22:33:55.772] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=2, z=-8955}
+[01Aug2025 22:33:55.772] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=337, y=2, z=-8958}
+[01Aug2025 22:33:55.773] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-25, z=-8956}
+[01Aug2025 22:33:55.773] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-25, z=-8950}
+[01Aug2025 22:33:55.779] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=372, y=-11, z=-8950}
+[01Aug2025 22:33:55.780] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=373, y=-11, z=-8963}
+[01Aug2025 22:33:55.787] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=366, y=-11, z=-8955}
+[01Aug2025 22:33:55.787] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=2, z=-8955}
+[01Aug2025 22:33:55.787] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=372, y=-11, z=-8950}
+[01Aug2025 22:33:55.788] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-25, z=-8956}
+[01Aug2025 22:33:55.788] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=358, y=-25, z=-8950}
+[01Aug2025 22:33:55.789] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=2, z=-8950}
+[01Aug2025 22:33:55.789] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=357, y=2, z=-8956}
+[01Aug2025 22:33:55.795] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=373, y=-11, z=-8963}
+[01Aug2025 22:33:55.803] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=2, z=-8943}
+[01Aug2025 22:33:55.803] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=311, y=-11, z=-8950}
+[01Aug2025 22:33:55.804] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=312, y=-11, z=-8960}
+[01Aug2025 22:33:55.805] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=306, y=-11, z=-8951}
+[01Aug2025 22:33:55.812] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=306, y=-11, z=-8951}
+[01Aug2025 22:33:58.550] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=292, y=-11, z=-8970}
+[01Aug2025 22:33:58.557] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:33:58.561] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=2, z=-8943}
+[01Aug2025 22:33:58.561] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8943}
+[01Aug2025 22:33:58.567] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=334, y=2, z=-8943}
+[01Aug2025 22:33:58.568] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=299, y=-11, z=-8968}
+[01Aug2025 22:33:58.568] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=311, y=-11, z=-8950}
+[01Aug2025 22:33:58.731] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=299, y=-11, z=-8968}
+[01Aug2025 22:33:58.732] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=293, y=-11, z=-8981}
+[01Aug2025 22:33:58.732] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=292, y=-11, z=-8970}
+[01Aug2025 22:33:58.808] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:33:58.815] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8943}
+[01Aug2025 22:33:58.815] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=337, y=2, z=-8958}
+[01Aug2025 22:33:58.815] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-25, z=-8956}
+[01Aug2025 22:33:58.881] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:33:58.888] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-25, z=-8956}
+[01Aug2025 22:33:58.888] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=357, y=2, z=-8956}
+[01Aug2025 22:33:58.889] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=355, y=2, z=-8962}
+[01Aug2025 22:33:58.894] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=373, y=-11, z=-8963}
+[01Aug2025 22:33:58.900] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:33:58.905] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=373, y=-11, z=-8963}
+[01Aug2025 22:34:00.721] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:34:00.781] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:34:00.792] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=395, y=-4, z=-8993}
+[01Aug2025 22:34:00.952] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:34:00.962] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=320, y=-11, z=-8992}
+[01Aug2025 22:34:01.099] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=299, y=-11, z=-8968}
+[01Aug2025 22:34:01.221] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=292, y=-11, z=-8970}
+[01Aug2025 22:34:01.228] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=299, y=-11, z=-8968}
+[01Aug2025 22:34:01.228] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=293, y=-11, z=-8981}
+[01Aug2025 22:34:01.228] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=292, y=-11, z=-8970}
+[01Aug2025 22:34:05.903] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8993}
+[01Aug2025 22:34:05.954] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=384, y=-11, z=-9005}
+[01Aug2025 22:34:05.954] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=378, y=-11, z=-9000}
+[01Aug2025 22:34:05.955] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=-11, z=-9006}
+[01Aug2025 22:34:05.961] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=366, y=-11, z=-9005}
+[01Aug2025 22:34:05.961] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-11, z=-9006}
+[01Aug2025 22:34:05.961] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=384, y=-11, z=-9005}
+[01Aug2025 22:34:05.961] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-11, z=-9000}
+[01Aug2025 22:34:05.962] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=-11, z=-9006}
+[01Aug2025 22:34:05.968] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8993}
+[01Aug2025 22:34:05.968] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=366, y=-11, z=-9005}
+[01Aug2025 22:34:05.968] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-11, z=-9006}
+[01Aug2025 22:34:05.969] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-11, z=-9000}
+[01Aug2025 22:34:06.106] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=385, y=-11, z=-8994}
+[01Aug2025 22:34:06.112] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=384, y=-11, z=-9005}
+[01Aug2025 22:34:06.113] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=385, y=-11, z=-8994}
+[01Aug2025 22:34:06.114] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=395, y=-4, z=-8993}
+[01Aug2025 22:34:06.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Desert Pyramid Revamped]
+[01Aug2025 22:34:14.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01Aug2025 22:34:33.504] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.540] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.572] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.606] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.637] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.683] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.716] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.786] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.820] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.853] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.888] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:33.976] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:34.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:34.076] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:34.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Desert Pyramid Revamped]
+[01Aug2025 22:34:37.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:34:37.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:34:41.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.312] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.365] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.414] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.463] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.519] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.572] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.615] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:41.728] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:42.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 22:34:42.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 22:34:44.208] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.254] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.309] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.362] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.416] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.472] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.511] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.558] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:44.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:34:44.609] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:45.793] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 22:34:45.808] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:34:48.208] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.264] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.312] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.364] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.416] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.461] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.506] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.557] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.610] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.710] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.755] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.809] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:34:48.860] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:35:29.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzz
+[01Aug2025 22:36:16.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Aug2025 22:36:19.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:19.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:26.521] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8993}
+[01Aug2025 22:36:26.522] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=366, y=-11, z=-9005}
+[01Aug2025 22:36:26.523] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-11, z=-9006}
+[01Aug2025 22:36:26.523] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-11, z=-9000}
+[01Aug2025 22:36:26.532] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8993}
+[01Aug2025 22:36:26.539] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=366, y=-11, z=-9005}
+[01Aug2025 22:36:26.540] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-11, z=-9006}
+[01Aug2025 22:36:26.540] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=384, y=-11, z=-9005}
+[01Aug2025 22:36:26.540] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=360, y=-11, z=-9000}
+[01Aug2025 22:36:26.541] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=-11, z=-9006}
+[01Aug2025 22:36:26.948] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=384, y=-11, z=-9005}
+[01Aug2025 22:36:26.948] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=378, y=-11, z=-9000}
+[01Aug2025 22:36:26.949] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=-11, z=-9006}
+[01Aug2025 22:36:27.235] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=384, y=-11, z=-9005}
+[01Aug2025 22:36:27.235] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=385, y=-11, z=-8994}
+[01Aug2025 22:36:27.237] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=395, y=-4, z=-8993}
+[01Aug2025 22:36:27.244] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=385, y=-11, z=-8994}
+[01Aug2025 22:36:30.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:31.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:32.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:33.680] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:39.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8487ms or 169 ticks behind
+[01Aug2025 22:36:40.169] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8993}
+[01Aug2025 22:36:40.170] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=-11, z=-9020}
+[01Aug2025 22:36:40.175] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=348, y=-11, z=-8993}
+[01Aug2025 22:36:40.176] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=336, y=-11, z=-9031}
+[01Aug2025 22:36:40.176] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-25, z=-9030}
+[01Aug2025 22:36:40.177] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-11, z=-9006}
+[01Aug2025 22:36:40.183] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=350, y=-11, z=-9006}
+[01Aug2025 22:36:40.183] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=-11, z=-9006}
+[01Aug2025 22:36:40.238] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=367, y=-11, z=-9006}
+[01Aug2025 22:36:53.573] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:54.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:36:54.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Bone Crusher]
+[01Aug2025 22:37:00.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5593ms or 111 ticks behind
+[01Aug2025 22:37:20.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4820ms or 96 ticks behind
+[01Aug2025 22:37:40.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5087ms or 101 ticks behind
+[01Aug2025 22:37:40.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Knowledge raises the soul]
+[01Aug2025 22:37:55.674] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=336, y=-11, z=-9031}
+[01Aug2025 22:37:55.674] [Worker-Main-152/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=341, y=-25, z=-9030}
+[01Aug2025 22:37:55.957] [Worker-Main-2/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=335, y=-11, z=-9020}
+[01Aug2025 22:37:59.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:38:00.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5748ms or 114 ticks behind
+[01Aug2025 22:38:01.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:38:03.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:38:04.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:38:12.494] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 22:38:12.525] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:38:20.152] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 22:38:20.178] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 22:38:26.209] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 22:38:26.246] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 22:38:36.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Kobolediator
+[01Aug2025 22:38:36.525] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:386, y:69, z:-8810, dim:minecraft:overworld]
+[01Aug2025 22:38:37.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Kobolediator
+[01Aug2025 22:38:37.127] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:382, y:69, z:-8818, dim:minecraft:overworld]
+[01Aug2025 22:38:38.238] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[01Aug2025 22:38:38.534] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[01Aug2025 22:38:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Koboleton
+[01Aug2025 22:38:48.537] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:384, y:69, z:-8809, dim:minecraft:overworld]
+[01Aug2025 22:38:49.813] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[01Aug2025 22:38:49.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[01Aug2025 22:39:04.080] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:04.130] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:04.178] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:04.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:04.292] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:04.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:04.421] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:08.436] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 22:39:08.437] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 22:39:08.469] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 22:39:08.470] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 22:39:09.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4417ms or 88 ticks behind
+[01Aug2025 22:39:15.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Kobolediator
+[01Aug2025 22:39:15.964] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:385, y:69, z:-8790, dim:minecraft:overworld]
+[01Aug2025 22:39:17.780] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[01Aug2025 22:39:18.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Kobolediator
+[01Aug2025 22:39:18.221] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:379, y:69, z:-8803, dim:minecraft:overworld]
+[01Aug2025 22:39:19.491] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[01Aug2025 22:39:27.298] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 22:39:27.342] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:39:29.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01Aug2025 22:39:44.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Chain Death]
+[01Aug2025 22:39:44.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Kobolediator
+[01Aug2025 22:39:44.289] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:403, y:69, z:-8804, dim:minecraft:overworld]
+[01Aug2025 22:39:45.589] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[01Aug2025 22:39:48.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[01Aug2025 22:39:52.458] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:52.551] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:52.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:52.701] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:52.765] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:52.836] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:52.908] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:52.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:53.026] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:53.077] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:53.135] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:53.197] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:53.257] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:53.330] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:58.669] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:58.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:58.796] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:58.856] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:58.920] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:58.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:58.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.042] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.042] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.102] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.102] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.166] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.166] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.253] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.254] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:39:59.982] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 22:40:00.022] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 22:40:07.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
+[01Aug2025 22:40:12.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Kobolediator
+[01Aug2025 22:40:12.325] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:381, y:69, z:-8801, dim:minecraft:overworld]
+[01Aug2025 22:40:13.538] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[01Aug2025 22:40:17.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:40:19.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:40:20.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:40:30.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 22:40:30.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 22:40:31.997] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 22:40:32.022] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:40:34.065] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.110] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.164] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.212] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.267] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.315] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.726] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.780] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.820] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.820] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.860] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.860] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.972] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:34.972] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.023] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.081] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.131] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.248] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.334] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.419] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.516] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.564] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.615] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.672] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.719] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.759] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 tried to swim in lava to escape Kobolediator
+[01Aug2025 22:40:35.888] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:408, y:70, z:-8813, dim:minecraft:overworld]
+[01Aug2025 22:40:35.891] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:40:35.942] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:35.988] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.028] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.109] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.160] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.219] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.261] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.310] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.357] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.410] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.474] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.516] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.571] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.626] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.674] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.674] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:36.895] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 22:40:36.916] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 22:40:37.007] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.007] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.062] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.062] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.109] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.109] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.125] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[01Aug2025 22:40:37.175] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.175] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.326] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.412] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.454] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.502] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.544] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.585] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.669] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.710] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.786] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.822] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.892] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:37.981] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.034] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.034] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.082] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.082] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.123] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.123] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.178] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.179] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.289] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.289] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.419] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.420] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.487] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.587] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.587] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.628] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.662] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.663] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.875] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.875] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.910] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.911] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.985] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:38.985] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.037] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.038] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.084] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.084] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.172] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.172] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.276] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.276] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.357] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.357] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.515] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.564] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.638] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.701] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:39.834] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:40:46.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Kobolediator
+[01Aug2025 22:40:46.715] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:391, y:69, z:-8805, dim:minecraft:overworld]
+[01Aug2025 22:40:48.045] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[01Aug2025 22:40:50.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[01Aug2025 22:41:08.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3082ms or 61 ticks behind
+[01Aug2025 22:41:12.787] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 22:41:12.836] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 22:41:21.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Kobolediator
+[01Aug2025 22:41:21.170] [Server thread/DEBUG] [tombstone/]: A new grave of the player shagyy was created at position [x:386, y:69, z:-8775, dim:minecraft:overworld]
+[01Aug2025 22:41:22.836] [Server thread/DEBUG] [twilightforest/]: Player shagyy (111bfbac-e1a7-3050-a5e2-0f47f5d9c2a7) respawned and received items held in storage
+[01Aug2025 22:41:37.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01Aug2025 22:41:58.306] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 22:41:58.335] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 22:42:04.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Kobolediator
+[01Aug2025 22:42:04.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:402, y:69, z:-8803, dim:minecraft:overworld]
+[01Aug2025 22:42:06.028] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[01Aug2025 22:42:11.730] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:42:12.733] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:42:13.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:42:21.262] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 22:42:21.288] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:42:30.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Kobolediator
+[01Aug2025 22:42:30.681] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:418, y:69, z:-8805, dim:minecraft:overworld]
+[01Aug2025 22:42:31.989] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[01Aug2025 22:42:46.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Aug2025 22:42:49.006] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:49.061] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:49.123] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:49.174] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:49.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:49.360] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:49.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:56.413] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:42:56.484] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:05.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3794ms or 75 ticks behind
+[01Aug2025 22:43:23.611] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:23.658] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:23.722] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:23.801] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:23.835] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:23.868] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:23.924] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:23.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.059] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.110] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.258] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.322] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.420] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.472] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.524] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.573] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.624] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.673] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.723] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:24.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 22:43:30.172] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:43:31.308] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:43:37.414] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:43:39.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 22:43:47.143] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 22:43:47.164] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:43:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Koboleton
+[01Aug2025 22:43:53.929] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:401, y:69, z:-8804, dim:minecraft:overworld]
+[01Aug2025 22:43:55.189] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage

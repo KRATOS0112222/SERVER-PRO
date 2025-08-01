@@ -7057,6 +7057,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2025-08-01 22:33:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-08-01 21:54:39 +0000"
@@ -7078,6 +7084,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-01 22:23:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-08-01 22:33:55 +0000"
     },
     "done": true
   },
