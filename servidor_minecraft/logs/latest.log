@@ -1152,3 +1152,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 19:27:26.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> mas despues me uno
 [01Aug2025 19:27:26.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
 [01Aug2025 19:27:26.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[01Aug2025 19:31:18.317] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 19:31:18.327] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 19:31:27.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Counselor Skull
+[01Aug2025 19:31:27.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Your First Grave]
+[01Aug2025 19:33:23.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Here They Come]
+[01Aug2025 19:35:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Lighthouse]
+[01Aug2025 19:35:48.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7260ms or 145 ticks behind
