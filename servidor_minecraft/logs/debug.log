@@ -13618,3 +13618,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 20:09:09.415] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [01Aug2025 20:09:10.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [01Aug2025 20:09:22.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzzzzz
+[01Aug2025 20:10:21.987] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:10:22.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Aug2025 20:10:46.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01Aug2025 20:13:49.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:13:49.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 20:14:26.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:26.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:27.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:28.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:28.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:29.219] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:29.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:30.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:30.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Aug2025 20:14:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Who You Gonna Call?]
+[01Aug2025 20:15:54.828] [Worker-Main-10/DEBUG] [ModernFix/]: Structure hopo:portal12 is being run through DFU (hash e57352fb5dccf5b323f502386aad627f50561aac244181f78e4c423508c38487), this will cause launch time delays
+[01Aug2025 20:16:32.754] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:greenwood_pub/greenwood_pub_0 is being run through DFU (hash 8fa188369b14e9fd33fc26d16e7a5b3589222ecaf1739e731218c7fc9bdc42be), this will cause launch time delays
+[01Aug2025 20:16:33.134] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mechanical_nest/mechanical_nest_start_0 is being run through DFU (hash 82efdd0b4cee90e5e68e22a1ff771036a5dd355f840f9a56c321423a5883e5fa), this will cause launch time delays
+[01Aug2025 20:16:33.253] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:merchant_campsite/merchant_campsite_street_4_main is being run through DFU (hash cccebbf6685f2053fd7da36eb06e91d689ad94ddf865efdd68b92559b7023182), this will cause launch time delays
+[01Aug2025 20:16:33.263] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:scorched_mines/scorched_mines_well_0 is being run through DFU (hash f2c98b62ae0d1f718a8b66cadd64325dd33b46ffa2174bc5c0fad867b6e32004), this will cause launch time delays
+[01Aug2025 20:16:33.275] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_2 is being run through DFU (hash a022039109e0754e712826ad7f35f6d19a5ffb34cb66ac5a3bee2174a89b9f5c), this will cause launch time delays
+[01Aug2025 20:16:33.324] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:aviary/aviary_part_13 is being run through DFU (hash 0d47188f34bbe000059890b534c886c94745009000c4bf5bce68ca12facfb932), this will cause launch time delays
+[01Aug2025 20:16:33.574] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_crossing_start_0 is being run through DFU (hash 5508fdbbe23d2c2fc780fe48a23f9d621456ca6e0aa6ac196e72cf59f1017277), this will cause launch time delays
+[01Aug2025 20:16:33.713] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[01Aug2025 20:16:33.890] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_0 is being run through DFU (hash ddfd5f5b304f9bb66ae85abb59f794d1fff221bf45bd3bcfc112019c236fa79a), this will cause launch time delays
+[01Aug2025 20:16:33.935] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_0 is being run through DFU (hash 66c7942fe4784a0f48a5b5ece336de55946b43d21f11f2477641b3d9086ca558), this will cause launch time delays
+[01Aug2025 20:16:33.948] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[01Aug2025 20:16:47.128] [Worker-Main-2/DEBUG] [ModernFix/]: Structure aquamirae:stone is being run through DFU (hash 0ebb221e12ddd320d4659cf7eea5dcf0c5be0e806a83170385a8f6a394ca598e), this will cause launch time delays
+[01Aug2025 20:16:47.153] [Worker-Main-10/DEBUG] [ModernFix/]: Structure aquamirae:camp is being run through DFU (hash e148227db0ad27b3b5d860fcc50ba082ba1fe9956f4ed15ce8502591bc737890), this will cause launch time delays
+[01Aug2025 20:16:51.347] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[01Aug2025 20:18:49.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 20:18:49.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

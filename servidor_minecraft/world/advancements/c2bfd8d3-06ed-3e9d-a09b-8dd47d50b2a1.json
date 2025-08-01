@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
@@ -155,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_spear": {
     "criteria": {
       "has_silver_ingot": "2025-08-01 19:30:47 +0000"
@@ -221,6 +233,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/bedroll": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
@@ -281,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 19:22:03 +0000"
@@ -320,6 +350,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-08-01 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
     },
     "done": true
   },
@@ -665,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-08-01 19:25:19 +0000"
@@ -722,6 +764,12 @@
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2025-08-01 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
     },
     "done": true
   },
@@ -812,6 +860,12 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-08-01 19:23:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
     },
     "done": true
   },
@@ -911,6 +965,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-01 20:14:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
@@ -959,11 +1019,23 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 19:22:03 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-08-01 20:14:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/liriodendrites_boat": {
     "criteria": {
@@ -1175,6 +1247,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-08-01 20:14:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
@@ -1238,6 +1316,12 @@
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 19:22:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
     },
     "done": true
   },
@@ -1379,6 +1463,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_campsite": {
     "criteria": {
       "location0": "2025-08-01 19:40:22 +0000"
@@ -1514,6 +1604,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-01 20:14:30 +0000"
     },
     "done": true
   },
@@ -1837,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-01 20:14:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 19:41:28 +0000"
@@ -1895,6 +1997,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-01 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-08-01 20:14:52 +0000"
     },
     "done": true
   },
@@ -1991,6 +2099,12 @@
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-08-01 20:18:10 +0000"
     },
     "done": true
   },
@@ -2174,6 +2288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
@@ -2272,6 +2392,12 @@
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-08-01 19:30:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-08-01 20:14:53 +0000"
     },
     "done": true
   },
@@ -2534,6 +2660,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_greatsword": {
     "criteria": {
       "has_cobblestone": "2025-08-01 19:55:38 +0000"
@@ -2648,6 +2780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-01 20:14:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-01 19:39:08 +0000"
@@ -2735,6 +2873,12 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-08-01 19:23:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-01 20:14:49 +0000"
     },
     "done": true
   },
@@ -2942,6 +3086,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-08-01 20:18:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cladophlebis_on_a_stick": {
     "criteria": {
       "has_cladophlebis": "2025-08-01 19:17:30 +0000"
@@ -3048,6 +3198,12 @@
   "twilightforest:recipes/transportation/dark_boat": {
     "criteria": {
       "in_water": "2025-08-01 19:23:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-08-01 20:09:12 +0000"
     },
     "done": true
   },
@@ -3201,6 +3357,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-08-01 20:14:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
@@ -3231,6 +3393,7 @@
       "minecraft:birch_forest": "2025-08-01 19:50:34 +0000",
       "minecraft:beach": "2025-08-01 19:21:17 +0000",
       "minecraft:river": "2025-08-01 19:32:15 +0000",
+      "minecraft:stony_shore": "2025-08-01 20:13:06 +0000",
       "minecraft:forest": "2025-08-01 19:25:41 +0000",
       "minecraft:meadow": "2025-08-01 19:52:11 +0000",
       "minecraft:plains": "2025-08-01 19:17:31 +0000"

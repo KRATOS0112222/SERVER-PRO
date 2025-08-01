@@ -1180,3 +1180,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 19:58:55.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> sisis
 [01Aug2025 20:02:16.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [What a Deal!]
 [01Aug2025 20:09:22.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzzzzz
+[01Aug2025 20:10:22.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01Aug2025 20:10:46.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[01Aug2025 20:14:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Who You Gonna Call?]
