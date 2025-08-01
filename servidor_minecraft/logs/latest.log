@@ -2033,3 +2033,11 @@ java.lang.Exception: null
 [01Aug2025 23:04:23.281] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [01Aug2025 23:04:23.338] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [01Aug2025 23:04:29.455] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Spear and Magic]
+[01Aug2025 23:07:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Beginning of An Adventure]
+[01Aug2025 23:07:03.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Fortune Seeker]
+[01Aug2025 23:07:57.963] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 23:07:57.966] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 23:13:09.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[01Aug2025 23:13:09.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[01Aug2025 23:13:35.958] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 23:13:35.960] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
