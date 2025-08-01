@@ -1559,3 +1559,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 21:06:08.681] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [01Aug2025 21:06:08.687] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [01Aug2025 21:06:22.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Skull
+[01Aug2025 21:16:01.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> CUERO TIENES?
+[01Aug2025 21:16:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> GRACIAS
+[01Aug2025 21:17:42.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzzzz
+[01Aug2025 21:19:23.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzzzz
