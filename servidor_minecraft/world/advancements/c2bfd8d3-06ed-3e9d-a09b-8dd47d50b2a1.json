@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
@@ -44,6 +50,12 @@
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -68,6 +80,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -233,6 +251,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-08-01 19:24:10 +0000"
@@ -290,6 +314,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-08-01 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -419,6 +449,12 @@
     },
     "done": true
   },
+  "enderio:recipes/misc/stone_gear": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
@@ -473,6 +509,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-08-01 19:24:10 +0000"
@@ -512,6 +554,12 @@
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -605,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 19:41:28 +0000"
@@ -617,6 +671,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
@@ -626,6 +686,12 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-08-01 19:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -713,6 +779,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-08-01 19:23:54 +0000"
@@ -722,6 +800,12 @@
   "travelersbackpack:recipes/misc/coal": {
     "criteria": {
       "has_coal": "2025-08-01 19:33:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -791,6 +875,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 19:41:28 +0000"
@@ -800,6 +896,12 @@
   "spartanweaponry:recipes/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -950,6 +1052,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-08-01 19:26:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -1166,6 +1274,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 19:22:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -1421,6 +1535,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/glacia_boat": {
     "criteria": {
       "in_water": "2025-08-01 19:23:54 +0000"
@@ -1589,6 +1709,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2025-08-01 19:31:30 +0000"
@@ -1610,6 +1736,24 @@
   "spartanweaponry:recipes/grease_ball": {
     "criteria": {
       "has_meat": "2025-08-01 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -1635,6 +1779,12 @@
   "dungeons_and_combat:dungeons_and_combat": {
     "criteria": {
       "dungeons_and_combat_0": "2025-08-01 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -1681,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_battle_hammer": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
@@ -1714,6 +1870,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-08-01 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -1762,6 +1924,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-08-01 19:33:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-08-01 19:55:23 +0000"
     },
     "done": true
   },
@@ -1903,6 +2071,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_longsword": {
     "criteria": {
       "has_gold_ingot": "2025-08-01 19:33:39 +0000"
@@ -1912,6 +2086,12 @@
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-08-01 19:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -2067,6 +2247,12 @@
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-08-01 19:30:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -2227,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-08-01 19:17:31 +0000"
@@ -2314,6 +2506,12 @@
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-08-01 19:25:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -2431,6 +2629,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-01 19:25:19 +0000"
@@ -2542,6 +2752,12 @@
   "spartanweaponry:recipes/wooden_halberd": {
     "criteria": {
       "has_wood": "2025-08-01 19:24:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-08-01 19:56:20 +0000"
     },
     "done": true
   },
@@ -2737,6 +2953,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-08-01 19:22:03 +0000"
@@ -2746,6 +2968,12 @@
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2025-08-01 19:17:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -2852,6 +3080,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/araucaria_boat": {
     "criteria": {
       "in_water": "2025-08-01 19:23:54 +0000"
@@ -2900,6 +3134,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_heavy_crossbow": {
     "criteria": {
       "has_wood": "2025-08-01 19:24:10 +0000"
@@ -2911,6 +3157,18 @@
       "log_spam_fixer": "2025-08-01 19:17:31 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
@@ -2924,6 +3182,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-08-01 19:24:31 +0000"
@@ -2932,9 +3196,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-08-01 19:50:32 +0000",
+      "minecraft:birch_forest": "2025-08-01 19:50:34 +0000",
       "minecraft:beach": "2025-08-01 19:21:17 +0000",
       "minecraft:river": "2025-08-01 19:32:15 +0000",
       "minecraft:forest": "2025-08-01 19:25:41 +0000",
+      "minecraft:meadow": "2025-08-01 19:52:11 +0000",
       "minecraft:plains": "2025-08-01 19:17:31 +0000"
     },
     "done": false
@@ -2951,9 +3218,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/misc/pressurized_fluid_tank": {
     "criteria": {
       "has_ingredient": "2025-08-01 19:22:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },
@@ -2963,9 +3242,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-08-01 19:57:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-01 19:41:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-01 19:55:38 +0000"
     },
     "done": true
   },

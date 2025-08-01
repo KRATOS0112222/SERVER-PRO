@@ -1160,3 +1160,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 19:35:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Lighthouse]
 [01Aug2025 19:35:48.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7260ms or 145 ticks behind
 [01Aug2025 19:40:22.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [People Are Strange]
+[01Aug2025 19:53:23.242] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 19:53:23.252] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 19:53:33.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 burned to death
+[01Aug2025 19:53:33.177] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 19:54:26.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:41811] logged in with entity id 18944 at (54.77736544643418, 63.0, -5705.063037092044)
+[01Aug2025 19:54:26.400] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[01Aug2025 19:54:26.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[01Aug2025 19:54:26.511] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[01Aug2025 19:55:21.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> dicord
+[01Aug2025 19:55:30.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> te mande link
+[01Aug2025 19:55:38.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Stone Age]
+[01Aug2025 19:56:20.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Spooky Scary Skeletons]
+[01Aug2025 19:57:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> sigueme
+[01Aug2025 19:57:25.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [All Along The Watchtower]
+[01Aug2025 19:58:15.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> duerme
+[01Aug2025 19:58:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> sigueme
+[01Aug2025 19:58:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> has activado la waystone?
+[01Aug2025 19:58:55.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> sisis
