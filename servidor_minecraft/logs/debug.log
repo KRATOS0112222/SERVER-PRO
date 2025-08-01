@@ -22825,3 +22825,34 @@ java.lang.Exception: null
 [01Aug2025 23:13:32.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [01Aug2025 23:13:35.958] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
 [01Aug2025 23:13:35.960] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:15:10.501] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.552] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.601] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.653] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.709] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.752] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.801] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.854] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.901] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:10.958] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.000] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.052] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.103] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.149] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.201] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.255] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.310] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.350] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.409] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.454] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:11.501] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[01Aug2025 23:15:45.469] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.config.ForgeCommonConfig$Impl@74655762 for class class info.u_team.useful_backpacks.config.CommonConfig
+[01Aug2025 23:18:11.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 23:18:11.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 23:23:11.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Aug2025 23:23:11.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Aug2025 23:24:27.693] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:24:27.708] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:24:36.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Wadjet
+[01Aug2025 23:24:36.951] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:356, y:40, z:-8808, dim:minecraft:overworld]
+[01Aug2025 23:24:38.233] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage

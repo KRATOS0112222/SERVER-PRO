@@ -2041,3 +2041,6 @@ java.lang.Exception: null
 [01Aug2025 23:13:09.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
 [01Aug2025 23:13:35.958] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
 [01Aug2025 23:13:35.960] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:24:27.693] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:24:27.708] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:24:36.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Wadjet
