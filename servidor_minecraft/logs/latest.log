@@ -1183,3 +1183,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Aug2025 20:10:22.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [01Aug2025 20:10:46.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [01Aug2025 20:14:30.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Who You Gonna Call?]
+[01Aug2025 20:21:14.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzz
+[01Aug2025 20:21:49.211] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Good Demoman]
+[01Aug2025 20:22:35.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Diamonds!]
+[01Aug2025 20:23:02.265] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/33994, l='ServerLevel[world]', x=43.50, y=63.92, z=-5696.50] died, message: 'Librarian tried to swim in lava'
+[01Aug2025 20:23:18.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Suit Up]
+[01Aug2025 20:24:00.493] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 20:24:00.500] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 20:24:33.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Prisoner Skull
+[01Aug2025 20:25:21.414] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/35919, l='ServerLevel[world]', x=43.50, y=63.25, z=-5696.50] died, message: 'Librarian tried to swim in lava'
+[01Aug2025 20:27:46.760] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 20:27:46.771] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 20:28:37.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[01Aug2025 20:28:37.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[01Aug2025 20:28:37.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Skull Deserter
+[01Aug2025 20:28:37.495] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Aug2025 20:29:17.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.182.219.116:36741] logged in with entity id 38469 at (845.3740707692803, 76.0, -5621.107303382698)
+[01Aug2025 20:29:17.322] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[01Aug2025 20:29:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[01Aug2025 20:29:17.396] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
