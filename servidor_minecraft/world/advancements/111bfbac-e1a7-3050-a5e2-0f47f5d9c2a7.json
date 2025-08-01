@@ -7013,5 +7013,11 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-08-01 21:43:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
