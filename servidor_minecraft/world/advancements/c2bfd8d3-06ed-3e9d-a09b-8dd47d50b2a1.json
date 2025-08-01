@@ -393,8 +393,10 @@
       "minecraft:birch_forest": "2025-08-01 19:50:34 +0000",
       "minecraft:beach": "2025-08-01 19:21:17 +0000",
       "minecraft:river": "2025-08-01 19:32:15 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-01 21:56:06 +0000",
       "minecraft:stony_shore": "2025-08-01 20:13:06 +0000",
       "minecraft:forest": "2025-08-01 19:25:41 +0000",
+      "minecraft:ocean": "2025-08-01 21:53:44 +0000",
       "minecraft:meadow": "2025-08-01 19:52:11 +0000",
       "minecraft:plains": "2025-08-01 19:17:31 +0000"
     },
@@ -3870,45 +3872,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_cretaceous_chalk": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "has_stone": "2025-08-01 21:35:05 +0000"
+      "minecraft:skeleton": "2025-08-01 20:34:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
+      "minecraft:skeleton": "2025-08-01 20:34:46 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
-    "criteria": {
-      "has_stone": "2025-08-01 21:35:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-01 21:33:36 +0000"
+      "has_pointed_dripstone": "2025-08-01 20:37:05 +0000"
     },
     "done": true
   },
@@ -3918,27 +3896,51 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "lava_bucket": "2025-08-01 21:43:12 +0000"
+      "has_planks": "2025-08-01 20:40:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+  "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
+      "has_planks": "2025-08-01 20:40:10 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/skeleton": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_arrow": "2025-08-01 21:04:19 +0000"
+      "has_planks": "2025-08-01 20:40:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
-      "has_gravel": "2025-08-01 21:33:36 +0000"
+      "has_planks": "2025-08-01 20:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-01 20:40:10 +0000"
     },
     "done": true
   },
@@ -3948,21 +3950,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-01 20:42:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-08-01 20:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-08-01 20:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-08-01 20:42:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 20:48:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-01 20:48:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-01 20:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-08-01 21:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-01 21:00:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-01 21:00:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 21:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 21:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-01 21:04:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-01 21:04:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-08-01 21:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-01 21:33:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
+      "has_gravel": "2025-08-01 21:33:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
+      "has_gravel": "2025-08-01 21:33:36 +0000"
     },
     "done": true
   },
@@ -3978,69 +4070,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-01 21:33:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cretaceous_chalk_stairs": {
-    "criteria": {
-      "has_stone": "2025-08-01 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_leggings_repairing": {
-    "criteria": {
-      "has_iron_leggings": "2025-08-01 21:39:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-08-01 21:00:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
     },
     "done": true
   },
@@ -4050,69 +4082,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-08-01 20:37:05 +0000"
-    },
-    "done": true
-  },
   "enderio:recipes/misc/conduit_binder_composite": {
     "criteria": {
       "has_ingredient_gravel": "2025-08-01 21:33:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-08-01 20:34:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
-    "criteria": {
-      "has_stone": "2025-08-01 21:35:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wall_fossil": {
-    "criteria": {
-      "has_fossils": "2025-08-01 21:35:34 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ashes_and_bones": {
-    "criteria": {
-      "coded_trigger": "2025-08-01 20:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-08-01 20:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/skull_banner_pattern": {
-    "criteria": {
-      "has_wither_skeleton_skull": "2025-08-01 21:00:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_boots_repairing": {
-    "criteria": {
-      "has_iron_boots": "2025-08-01 21:39:39 +0000"
     },
     "done": true
   },
@@ -4122,27 +4094,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-08-01 20:49:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-01 21:33:36 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spectral_bolt": {
-    "criteria": {
-      "has_glowstone_dust": "2025-08-01 21:04:06 +0000"
     },
     "done": true
   },
@@ -4152,135 +4106,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-08-01 20:34:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/paleontology_table": {
-    "criteria": {
-      "has_fossils": "2025-08-01 21:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-08-01 21:43:12 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-08-01 20:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_cretaceous_chalk_stairs": {
-    "criteria": {
-      "has_stone": "2025-08-01 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
-    "criteria": {
-      "has_stone": "2025-08-01 21:35:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-01 21:33:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-08-01 21:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-08-01 20:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-08-01 21:41:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-01 21:33:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-08-01 21:04:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
-    "criteria": {
-      "has_stone": "2025-08-01 21:35:26 +0000"
     },
     "done": true
   },
@@ -4308,9 +4142,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
+      "has_gravel": "2025-08-01 21:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cretaceous_chalk": {
+    "criteria": {
+      "has_stone": "2025-08-01 21:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-01 21:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_cretaceous_chalk_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-01 21:35:05 +0000"
     },
     "done": true
   },
@@ -4320,33 +4172,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/chalk_slab": {
     "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
+      "has_stone": "2025-08-01 21:35:05 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
+  "minecraft:recipes/building_blocks/cretaceous_chalk_wall": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-08-01 21:00:46 +0000"
+      "has_stone": "2025-08-01 21:35:05 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/small_arrow_quiver": {
+  "minecraft:recipes/building_blocks/jurassic_siltstone_stairs": {
     "criteria": {
-      "has_arrow": "2025-08-01 21:04:19 +0000"
+      "has_stone": "2025-08-01 21:35:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+  "minecraft:recipes/building_blocks/smooth_jurassic_siltstone": {
     "criteria": {
-      "has_moss_block": "2025-08-01 20:42:16 +0000"
+      "has_stone": "2025-08-01 21:35:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/building_blocks/jurassic_siltstone_wall": {
     "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
+      "has_stone": "2025-08-01 21:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_jurassic_siltstone": {
+    "criteria": {
+      "has_stone": "2025-08-01 21:35:26 +0000"
     },
     "done": true
   },
@@ -4356,45 +4214,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+  "minecraft:recipes/misc/wall_fossil": {
     "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
+      "has_fossils": "2025-08-01 21:35:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chalk_slab": {
+  "minecraft:recipes/misc/paleontology_table": {
     "criteria": {
-      "has_stone": "2025-08-01 21:35:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-08-01 21:41:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-08-01 20:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2025-08-01 21:33:36 +0000"
+      "has_fossils": "2025-08-01 21:35:34 +0000"
     },
     "done": true
   },
@@ -4404,9 +4232,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
-      "has_glowstone_dust": "2025-08-01 21:04:06 +0000"
+      "has_iron_leggings": "2025-08-01 21:39:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-08-01 21:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-08-01 21:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-08-01 21:41:46 +0000"
     },
     "done": true
   },
@@ -4422,6 +4364,66 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-01 21:41:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-01 21:41:47 +0000"
@@ -4434,17 +4436,89 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_planks": "2025-08-01 20:40:10 +0000"
+      "lava_bucket": "2025-08-01 21:43:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cretaceous_chalk_wall": {
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
-      "has_stone": "2025-08-01 21:35:05 +0000"
+      "has_lava_bucket": "2025-08-01 21:43:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

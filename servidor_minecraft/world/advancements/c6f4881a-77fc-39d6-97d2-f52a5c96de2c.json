@@ -1722,6 +1722,7 @@
       "minecraft:husk": "2025-07-28 16:27:30 +0000",
       "minecraft:cave_spider": "2025-07-30 22:47:49 +0000",
       "minecraft:zombie": "2025-07-26 02:17:45 +0000",
+      "minecraft:drowned": "2025-08-01 21:55:04 +0000",
       "minecraft:zombie_villager": "2025-07-28 17:45:40 +0000"
     },
     "done": false
@@ -8207,15 +8208,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-08-01 21:40:00 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-08-01 20:21:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-08-01 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-08-01 21:40:00 +0000"
     },
     "done": true
   },
@@ -8225,9 +8232,45 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "banana": "2025-08-01 20:38:09 +0000"
+      "killed_fire_dragon": "2025-08-01 21:54:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-08-01 21:58:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-01 21:58:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-08-01 21:58:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-08-01 21:58:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-08-01 21:58:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-08-01 22:01:54 +0000"
     },
     "done": true
   },

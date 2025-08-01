@@ -1704,3 +1704,27 @@ java.lang.Exception: null
 [01Aug2025 21:51:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> ya vamos p jaja
 [01Aug2025 21:51:25.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> vamos
 [01Aug2025 21:51:33.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> ven
+[01Aug2025 21:53:48.553] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 21:53:48.631] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 21:54:12.542] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 21:54:12.553] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 21:54:34.047] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Tie me to the Mast]
+[01Aug2025 21:56:09.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of SUPATA123) moved wrongly! 0.30677109205953457
+[01Aug2025 21:58:31.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> espera voy a salir se bugue lo de la sirena xd
+[01Aug2025 21:58:33.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[01Aug2025 21:58:33.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[01Aug2025 21:58:42.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> x2
+[01Aug2025 21:58:44.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[01Aug2025 21:58:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[01Aug2025 21:58:56.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:52233] logged in with entity id 96041 at (34.24610389306373, 71.0, -6891.704951898379)
+[01Aug2025 21:58:56.146] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[01Aug2025 21:58:56.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[01Aug2025 21:58:56.249] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[01Aug2025 21:59:21.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.182.219.116:45211] logged in with entity id 96213 at (45.99108020842751, 70.0, -6922.0890224988525)
+[01Aug2025 21:59:21.044] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[01Aug2025 21:59:21.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[01Aug2025 21:59:21.130] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[01Aug2025 21:59:57.903] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 21:59:57.906] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 22:01:54.306] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [We do a little trolling...]
+[01Aug2025 22:01:54.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! 1.917701815913846,-4.947816164367815,-8.652887344973351
