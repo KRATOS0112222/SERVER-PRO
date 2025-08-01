@@ -2044,3 +2044,33 @@ java.lang.Exception: null
 [01Aug2025 23:24:27.693] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [01Aug2025 23:24:27.708] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [01Aug2025 23:24:36.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Wadjet
+[01Aug2025 23:25:41.359] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 23:25:41.361] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:25:48.392] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:25:48.411] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:25:50.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was doomed to fall by Wadjet
+[01Aug2025 23:25:55.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Wadjet
+[01Aug2025 23:28:36.263] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Too long sword]
+[01Aug2025 23:31:07.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy has reached the goal [Traveling lightning rod]
+[01Aug2025 23:31:40.331] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:31:40.359] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:31:49.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ancient Remnant
+[01Aug2025 23:31:49.704] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 23:31:49.750] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:32:04.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was doomed to fall by Ancient Remnant
+[01Aug2025 23:32:04.441] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for shagyy with unique ID travelersbackpack.standard_01.08.2025-23.32.04.dat
+[01Aug2025 23:32:05.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[01Aug2025 23:32:38.796] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:32:38.819] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:32:45.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ancient Remnant
+[01Aug2025 23:33:08.078] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 23:33:08.096] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:33:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Ancient Remnant
+[01Aug2025 23:33:24.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for shagyy with unique ID travelersbackpack.standard_01.08.2025-23.33.24.dat
+[01Aug2025 23:33:41.343] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:33:41.363] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:33:48.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ancient Remnant
+[01Aug2025 23:33:53.630] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 23:33:53.659] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:34:00.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Ancient Remnant
+[01Aug2025 23:34:00.037] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for shagyy with unique ID travelersbackpack.standard_01.08.2025-23.34.00.dat
