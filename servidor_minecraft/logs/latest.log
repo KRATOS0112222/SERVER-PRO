@@ -1972,3 +1972,64 @@ java.lang.Exception: null
 [01Aug2025 22:53:57.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
 [01Aug2025 22:54:12.605] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/130439, l='ServerLevel[world]', x=43.66, y=65.50, z=-5683.30] died, message: 'Fisherman was slain by Zombie Villager'
 [01Aug2025 22:54:15.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2832ms or 56 ticks behind
+[01Aug2025 22:54:26.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Beginning of An Adventure]
+[01Aug2025 22:54:26.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Fortune Seeker]
+[01Aug2025 22:54:33.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3098ms or 61 ticks behind
+[01Aug2025 22:54:50.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[01Aug2025 22:54:50.898] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 22:54:50.904] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 22:54:52.718] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: shagyy went up in flames
+[01Aug2025 22:54:52.724] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 22:55:09.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3304ms or 66 ticks behind
+[01Aug2025 22:55:26.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
+[01Aug2025 22:55:44.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2449ms or 48 ticks behind
+[01Aug2025 22:55:53.204] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 22:55:53.258] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 22:56:02.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[01Aug2025 22:56:02.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Wadjet
+[01Aug2025 22:56:19.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01Aug2025 22:56:36.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[01Aug2025 22:56:54.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[01Aug2025 22:57:13.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3736ms or 74 ticks behind
+[01Aug2025 22:57:31.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3231ms or 64 ticks behind
+[01Aug2025 22:57:49.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3278ms or 65 ticks behind
+[01Aug2025 22:58:07.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[01Aug2025 22:58:24.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[01Aug2025 22:58:42.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3335ms or 66 ticks behind
+[01Aug2025 22:59:01.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[01Aug2025 22:59:12.258] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 22:59:12.306] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 22:59:20.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[01Aug2025 22:59:38.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3598ms or 71 ticks behind
+[01Aug2025 22:59:57.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
+[01Aug2025 23:00:15.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[01Aug2025 23:00:33.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[01Aug2025 23:00:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> donde estas grillo
+[01Aug2025 23:00:50.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[01Aug2025 23:00:55.599] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 23:00:55.638] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:01:02.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy was slain by Koboleton
+[01Aug2025 23:01:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> EN CASA XD
+[01Aug2025 23:01:08.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2738ms or 54 ticks behind
+[01Aug2025 23:01:14.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> ven
+[01Aug2025 23:01:26.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3209ms or 64 ticks behind
+[01Aug2025 23:01:45.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[01Aug2025 23:02:04.708] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Take Aim]
+[01Aug2025 23:02:10.392] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 23:02:10.416] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 23:02:28.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Wadjet
+[01Aug2025 23:02:46.778] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01Aug2025 23:03:07.448] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:03:07.470] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:03:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Koboleton
+[01Aug2025 23:03:40.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> ven sigueme
+[01Aug2025 23:03:54.815] [Server thread/WARN] [tombstone/]: The death event of the player shagyy was canceled by another mod
+[01Aug2025 23:03:54.816] [Server thread/INFO] [tombstone/]: The player shagyy has successfully been saved
+[01Aug2025 23:04:05.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shagyy fell from a high place
+[01Aug2025 23:04:11.156] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[01Aug2025 23:04:11.196] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[01Aug2025 23:04:17.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Wadjet
+[01Aug2025 23:04:22.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[01Aug2025 23:04:23.281] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[01Aug2025 23:04:23.338] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[01Aug2025 23:04:29.455] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Spear and Magic]

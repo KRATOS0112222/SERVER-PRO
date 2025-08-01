@@ -1112,6 +1112,7 @@
       "cooked_cod": "2025-07-26 18:06:30 +0000",
       "pumpkin_pie": "2025-07-28 18:46:46 +0000",
       "bread": "2025-07-26 01:40:34 +0000",
+      "golden_apple": "2025-08-01 22:51:53 +0000",
       "rotten_flesh": "2025-07-26 01:56:57 +0000",
       "melon_slice": "2025-07-31 01:49:11 +0000",
       "beetroot": "2025-07-28 19:07:21 +0000",
@@ -7099,9 +7100,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-01 22:52:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-08-01 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-08-01 22:56:30 +0000"
     },
     "done": true
   },
@@ -7153,6 +7166,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-01 22:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-01 22:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2025-08-01 22:50:26 +0000"
@@ -7186,6 +7211,18 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-08-01 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-08-01 22:52:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-01 22:57:01 +0000"
     },
     "done": true
   },
