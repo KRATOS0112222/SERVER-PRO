@@ -8274,5 +8274,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2025-08-01 22:05:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -390,14 +390,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-08-01 19:50:32 +0000",
+      "minecraft:eroded_badlands": "2025-08-01 22:02:40 +0000",
       "minecraft:birch_forest": "2025-08-01 19:50:34 +0000",
+      "minecraft:badlands": "2025-08-01 22:04:40 +0000",
       "minecraft:beach": "2025-08-01 19:21:17 +0000",
       "minecraft:river": "2025-08-01 19:32:15 +0000",
       "minecraft:lukewarm_ocean": "2025-08-01 21:56:06 +0000",
       "minecraft:stony_shore": "2025-08-01 20:13:06 +0000",
       "minecraft:forest": "2025-08-01 19:25:41 +0000",
+      "minecraft:desert": "2025-08-01 22:02:47 +0000",
       "minecraft:ocean": "2025-08-01 21:53:44 +0000",
       "minecraft:meadow": "2025-08-01 19:52:11 +0000",
+      "minecraft:savanna": "2025-08-01 22:02:20 +0000",
       "minecraft:plains": "2025-08-01 19:17:31 +0000"
     },
     "done": false
@@ -3880,7 +3884,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-08-01 20:34:46 +0000"
+      "minecraft:pillager": "2025-08-01 22:08:46 +0000",
+      "minecraft:skeleton": "2025-08-01 20:34:46 +0000",
+      "minecraft:zombie": "2025-08-01 22:05:47 +0000"
     },
     "done": false
   },
@@ -4448,77 +4454,95 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "enderio:recipes/misc/dark_steel_nugget": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "enderio:recipes/building_blocks/dark_steel_door": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "enderio:recipes/tools/dark_steel_sword": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "coded_trigger": "2025-08-01 22:11:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_iron_nugget": "2025-08-01 22:06:40 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "enderio:recipes/tools/glider_wing": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "coded_trigger": "2025-08-01 22:08:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "dungeons_arise:find_bandit_towers": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "location0": "2025-08-01 22:05:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "enderio:recipes/building_blocks/dark_steel_bars": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "enderio:recipes/misc/dark_steel_nugget_to_ingot": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "enderio:recipes/building_blocks/dark_steel_trapdoor": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "enderio:recipes/building_blocks/dark_steel_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-08-01 22:02:03 +0000"
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "enderio:recipes/tools/cold_fire_igniter": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/dark_steel_grinding_ball": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/dark_steel_ladder": {
+    "criteria": {
+      "has_ingredient": "2025-08-01 22:04:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
