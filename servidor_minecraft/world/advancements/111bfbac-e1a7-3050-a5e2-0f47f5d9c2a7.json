@@ -7142,6 +7142,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-02 00:03:19 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-08-01 22:33:55 +0000"
@@ -7175,6 +7181,12 @@
   "spartanweaponry:root": {
     "criteria": {
       "has_handle": "2025-08-01 21:43:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 00:03:25 +0000"
     },
     "done": true
   },
