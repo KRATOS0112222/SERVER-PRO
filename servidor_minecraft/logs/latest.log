@@ -1183,3 +1183,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Aug2025 22:47:26.245] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
 [03Aug2025 22:50:27.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
 [03Aug2025 22:50:27.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[03Aug2025 22:57:49.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:38869] logged in with entity id 6994 at (54.88440382150906, 64.0, -5697.683065423838)
+[03Aug2025 22:57:49.516] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[03Aug2025 22:57:49.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[03Aug2025 22:57:49.570] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
+[03Aug2025 23:01:39.139] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[03Aug2025 23:01:39.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
