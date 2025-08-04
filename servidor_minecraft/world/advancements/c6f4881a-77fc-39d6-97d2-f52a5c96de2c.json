@@ -8562,6 +8562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-04 00:39:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_leggings": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
@@ -8583,6 +8589,12 @@
   "spartanfire:recipes/desert_myrmex_chitin_longbow": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-08-04 00:39:36 +0000"
     },
     "done": true
   },
