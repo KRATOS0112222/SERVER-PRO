@@ -4775,6 +4775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 01:36:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-08-04 00:13:20 +0000"
@@ -5462,6 +5468,12 @@
   "spartanfire:recipes/dragon_bone_tomahawk": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-04 01:36:34 +0000"
     },
     "done": true
   },
