@@ -255,3 +255,20 @@ java.lang.Exception: null
 [04Aug2025 03:13:58.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Alchemical Soup]
 [04Aug2025 03:19:42.147] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Not Today, Thank You]
 [04Aug2025 03:27:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [A Magical Workbench]
+[04Aug2025 03:30:47.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Incendium]
+[04Aug2025 03:30:47.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [We Need to Go Deeper]
+[04Aug2025 03:30:50.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
+[04Aug2025 03:31:47.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! 0.46713098205652415,0.0,10.088147541100739
+[04Aug2025 03:31:47.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[04Aug2025 03:32:09.627] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Oh Shiny]
+[04Aug2025 03:36:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Who is Cutting Onions?]
+[04Aug2025 03:36:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Ice Bucket Challenge]
+[04Aug2025 03:36:24.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[04Aug2025 03:37:06.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}

@@ -25884,3 +25884,32 @@ java.lang.Exception: null
 [04Aug2025 03:26:41.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Aug2025 03:26:41.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Aug2025 03:27:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [A Magical Workbench]
+[04Aug2025 03:30:33.706] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming elucent/eidolon/gui/SoulEnchanterContainer$1 (target of net/minecraft/world/Container)
+[04Aug2025 03:30:47.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Incendium]
+[04Aug2025 03:30:47.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [We Need to Go Deeper]
+[04Aug2025 03:30:50.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
+[04Aug2025 03:31:44.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:31:44.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:31:47.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! 0.46713098205652415,0.0,10.088147541100739
+[04Aug2025 03:31:47.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2366ms or 47 ticks behind
+[04Aug2025 03:32:09.627] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Oh Shiny]
+[04Aug2025 03:34:46.754] [Worker-Main-313/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[04Aug2025 03:34:46.756] [Worker-Main-313/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[04Aug2025 03:34:46.757] [Worker-Main-313/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[04Aug2025 03:34:46.758] [Worker-Main-313/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[04Aug2025 03:34:46.758] [Worker-Main-313/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[04Aug2025 03:34:46.759] [Worker-Main-313/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[04Aug2025 03:34:46.760] [Worker-Main-313/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[04Aug2025 03:36:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Who is Cutting Onions?]
+[04Aug2025 03:36:12.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Ice Bucket Challenge]
+[04Aug2025 03:36:24.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
+[04Aug2025 03:36:48.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 03:36:48.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 03:37:06.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
+[04Aug2025 03:37:06.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=13, y=62, z=-676} BlockPos{x=12, y=62, z=-675}
