@@ -1293,3 +1293,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 16:56:45.104] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [04Aug2025 16:56:45.111] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [04Aug2025 16:56:57.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Nightmare Stalker
+[04Aug2025 16:58:46.426] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 16:58:46.434] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 16:59:28.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Zombie
