@@ -402,6 +402,7 @@
       "minecraft:forest": "2025-08-01 19:25:41 +0000",
       "minecraft:desert": "2025-08-01 22:02:47 +0000",
       "minecraft:ocean": "2025-08-01 21:53:44 +0000",
+      "minecraft:deep_dark": "2025-08-04 01:10:44 +0000",
       "minecraft:meadow": "2025-08-01 19:52:11 +0000",
       "minecraft:savanna": "2025-08-01 22:02:20 +0000",
       "minecraft:plains": "2025-08-01 19:17:31 +0000"
@@ -4780,6 +4781,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_parrying_dagger": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_dagger": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
@@ -4801,6 +4808,24 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_dagger": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_halberd": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_javelin": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },
@@ -4828,6 +4853,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_greatsword": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-08-04 00:37:35 +0000"
@@ -4840,15 +4871,39 @@
     },
     "done": true
   },
+  "spartanshields:recipes/tin_tower_shield": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_longsword": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_scythe": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_longbow": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_saber": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_quarterstaff": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },
@@ -4894,6 +4949,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_warhammer": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-04 01:07:53 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_spear": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
@@ -4906,9 +4973,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_lance": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_battleaxe": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_katana": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },
@@ -4942,6 +5021,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_rapier": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:59 +0000"
@@ -4951,6 +5036,18 @@
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-08-04 00:40:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_longsword": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_glaive": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },
@@ -5026,6 +5123,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_battleaxe": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-08-04 01:04:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-08-04 00:13:20 +0000"
@@ -5038,15 +5147,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_boomerang": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_glaive": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_spear": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_parrying_dagger": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_tomahawk": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_flanged_mace": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },
@@ -5083,6 +5216,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_longbow": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },
@@ -5128,9 +5267,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/tin_heavy_crossbow": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_battle_hammer": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_javelin": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_pike": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },
@@ -5146,9 +5303,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/tin_basic_shield": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_saber": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/tin_throwing_knife": {
+    "criteria": {
+      "has_tin_ingot": "2025-08-04 01:05:07 +0000"
     },
     "done": true
   },

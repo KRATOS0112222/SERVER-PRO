@@ -188,3 +188,15 @@ java.lang.Exception: null
 [04Aug2025 00:51:28.671] [dimthread_server_overworld/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity upgrade_aquatic:thrasher but it was marked as removed already
 [04Aug2025 00:56:55.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Black or White]
 [04Aug2025 00:57:00.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [A Small Cemetery]
+[04Aug2025 01:07:25.679] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[04Aug2025 01:07:25.680] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[04Aug2025 01:07:25.690] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[04Aug2025 01:07:25.690] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[04Aug2025 01:07:25.691] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[04Aug2025 01:07:25.699] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[04Aug2025 01:07:25.699] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[04Aug2025 01:07:25.699] [Worker-Main-159/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[04Aug2025 01:11:09.189] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 01:11:09.203] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 01:13:42.390] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 01:13:42.399] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
