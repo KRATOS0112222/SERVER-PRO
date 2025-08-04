@@ -8503,6 +8503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-04 01:55:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
       "has_item": "2025-08-04 00:43:30 +0000"
@@ -8572,6 +8578,12 @@
   "spartanweaponry:recipes/lead_flanged_mace": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 01:55:22 +0000"
     },
     "done": true
   },
@@ -8746,6 +8758,12 @@
   "spartanfire:recipes/desert_myrmex_chitin_longbow": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-04 01:55:02 +0000"
     },
     "done": true
   },
@@ -8944,6 +8962,12 @@
   "spartanweaponry:recipes/lead_battle_hammer": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-04 01:56:54 +0000"
     },
     "done": true
   },

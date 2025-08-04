@@ -211,3 +211,16 @@ java.lang.Exception: null
 [04Aug2025 01:29:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Magic Disenchantment]
 [04Aug2025 01:29:02.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Let The Magic Happen]
 [04Aug2025 01:49:14.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Cover Me with Diamonds]
+[04Aug2025 01:55:24.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Alex's Caves]
+[04Aug2025 01:56:28.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Deceived Hopes]
+[04Aug2025 01:56:54.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [It Spreads]
+[04Aug2025 02:01:23.485] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 02:01:23.492] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 02:01:33.079] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 02:01:33.088] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 02:01:41.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Nightmare Stalker
+[04Aug2025 02:02:23.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Nightmare Stalker
+[04Aug2025 02:04:19.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Fighting Nightmares]
+[04Aug2025 02:04:32.865] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 02:04:32.869] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 02:04:39.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was shot by Summoned Skeleton
