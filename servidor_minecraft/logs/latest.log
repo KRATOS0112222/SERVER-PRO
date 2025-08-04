@@ -1367,3 +1367,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 20:10:19.077] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [04Aug2025 20:10:19.079] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [04Aug2025 20:10:26.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Baby Spider
+[04Aug2025 20:40:44.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SUPATA123[/127.255.2.127:46679] logged in with entity id 89552 at (53.93941859954061, 64.0, -5697.910556142527)
+[04Aug2025 20:40:44.632] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player SUPATA123
+[04Aug2025 20:40:44.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 joined the game
+[04Aug2025 20:40:44.725] [Server thread/INFO] [Jade/]: Syncing config to SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c)
