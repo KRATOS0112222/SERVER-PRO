@@ -9180,6 +9180,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-08-04 04:16:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9336,6 +9342,14 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-08-04 04:15:08 +0000",
+      "junk": "2025-08-04 04:13:21 +0000",
+      "treasure": "2025-08-04 04:16:19 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2025-08-04 00:43:30 +0000"
@@ -9465,6 +9479,12 @@
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2025-08-04 04:13:21 +0000"
     },
     "done": true
   },

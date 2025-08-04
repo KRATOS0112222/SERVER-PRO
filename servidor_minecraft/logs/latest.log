@@ -308,3 +308,16 @@ java.lang.Exception: null
 [04Aug2025 04:06:02.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Floor is Tears]
 [04Aug2025 04:06:26.893] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [04Aug2025 04:06:26.896] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:09:22.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=70, y=55, z=-1235} BlockPos{x=69, y=54, z=-1235}
+[04Aug2025 04:10:19.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=36, z=-1235} BlockPos{x=108, y=34, z=-1235}
+[04Aug2025 04:13:21.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Pocket Edition Alpha]
+[04Aug2025 04:14:08.201] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 04:14:08.203] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:15:33.646] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Ghast Sentry'/78690, l='ServerLevel[world]', x=154.59, y=45.00, z=-1299.59] died: Ghast Sentry was shot by SUPATA123
+[04Aug2025 04:15:43.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Pocket Edition Alpha]
+[04Aug2025 04:18:37.942] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 04:18:37.944] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:18:38.996] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 04:18:38.998] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:18:42.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 tried to swim in lava
+[04Aug2025 04:18:42.462] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
