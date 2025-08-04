@@ -8528,6 +8528,12 @@
     },
     "done": true
   },
+  "eidolon:crucible": {
+    "criteria": {
+      "has_crucible": "2025-08-04 03:13:58 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-08-04 02:04:19 +0000"

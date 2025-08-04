@@ -4877,6 +4877,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/filter_item": {
+    "criteria": {
+      "has_small_backpack": "2025-08-04 03:09:26 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_flanged_mace": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
@@ -5615,6 +5621,12 @@
     },
     "done": true
   },
+  "usefulbackpacks:recipes/backpack_medium": {
+    "criteria": {
+      "has_small_backpack": "2025-08-04 03:09:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-08-04 01:26:24 +0000"
@@ -5888,6 +5900,12 @@
   "spartanfire:recipes/dragon_bone_glaive": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/filter_tag": {
+    "criteria": {
+      "has_small_backpack": "2025-08-04 03:09:26 +0000"
     },
     "done": true
   },
