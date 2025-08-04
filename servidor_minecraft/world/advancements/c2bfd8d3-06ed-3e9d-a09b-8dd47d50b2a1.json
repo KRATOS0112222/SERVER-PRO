@@ -5045,6 +5045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-08-04 03:03:45 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_throwing_knife": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
