@@ -9886,6 +9886,12 @@
     },
     "done": true
   },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-08-04 22:05:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-08-04 21:37:19 +0000"
@@ -9967,6 +9973,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-08-04 21:37:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-08-04 22:08:27 +0000"
     },
     "done": true
   },

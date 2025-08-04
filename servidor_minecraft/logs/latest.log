@@ -1520,3 +1520,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 22:03:11.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [04Aug2025 22:04:00.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! -10.099677197176334,0.0,-0.09668844194311532
 [04Aug2025 22:04:00.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
+[04Aug2025 22:05:42.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [A Massive Arena]
+[04Aug2025 22:05:51.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Aug2025 22:08:27.726] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Imperfect thing]
+[04Aug2025 22:09:38.872] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 22:09:38.875] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 22:09:45.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was killed by Ignited Revenant using magic
+[04Aug2025 22:09:55.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3470ms or 69 ticks behind
+[04Aug2025 22:10:40.493] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 22:10:40.495] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 22:10:47.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was killed by Ignited Revenant using magic
+[04Aug2025 22:13:51.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Aug2025 22:14:26.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Aug2025 22:14:50.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Aug2025 22:15:24.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
