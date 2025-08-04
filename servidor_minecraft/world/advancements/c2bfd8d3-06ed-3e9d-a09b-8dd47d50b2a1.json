@@ -4979,6 +4979,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-08-04 04:52:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
@@ -5723,6 +5729,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-08-04 04:04:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-08-04 04:51:11 +0000"
     },
     "done": true
   },

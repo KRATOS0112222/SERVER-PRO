@@ -373,3 +373,65 @@ java.lang.Exception: null
 [04Aug2025 04:48:57.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Piglin Paratrooper
 [04Aug2025 04:49:08.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
 [04Aug2025 04:49:20.080] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/91652, l='ServerLevel[world]', x=110.16, y=32.00, z=-1707.95] died: Piglin Paratrooper was shot by SUPATA123
+[04Aug2025 04:49:42.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[04Aug2025 04:51:11.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Cursed Soul]
+[04Aug2025 04:51:22.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [In the Hall of the Piglin King]
+[04Aug2025 04:51:34.149] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 04:51:34.164] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:51:34.304] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/91692, l='ServerLevel[world]', x=52.56, y=33.00, z=-1693.27] died: Piglin Paratrooper was shot by SUPATA123
+[04Aug2025 04:51:41.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Piglin Paratrooper
+[04Aug2025 04:51:52.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! -9.794349218045511,-1.0,-2.007475506427454
+[04Aug2025 04:51:52.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2558ms or 51 ticks behind
+[04Aug2025 04:52:07.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Dark Metallurgy]
+[04Aug2025 04:52:13.216] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/93247, l='ServerLevel[world]', x=27.51, y=36.00, z=-1718.10] died: Piglin Paratrooper was killed by magic whilst trying to escape SUPATA123
+[04Aug2025 04:52:52.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Aug2025 04:52:56.705] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/91719, l='ServerLevel[world]', x=37.76, y=36.00, z=-1738.68] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 04:53:09.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
+[04Aug2025 04:53:22.406] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/93263, l='ServerLevel[world]', x=20.37, y=36.00, z=-1771.64] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 04:53:27.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[04Aug2025 04:53:45.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3152ms or 63 ticks behind
+[04Aug2025 04:54:03.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 04:54:06.053] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/93269, l='ServerLevel[world]', x=15.01, y=62.00, z=-1775.50] died: Piglin Paratrooper was shot by SUPATA123
+[04Aug2025 04:54:10.802] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/93266, l='ServerLevel[world]', x=15.69, y=62.00, z=-1775.49] died: Piglin Alchemist was shot by SUPATA123
+[04Aug2025 04:54:20.701] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:54:20.702] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:54:20.702] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:54:21.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Aug2025 04:54:36.527] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/93267, l='ServerLevel[world]', x=21.93, y=62.00, z=-1774.48] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 04:54:38.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[04Aug2025 04:54:54.320] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/93268, l='ServerLevel[world]', x=25.50, y=62.00, z=-1777.46] died: Piglin Scout was shot by SUPATA123
+[04Aug2025 04:54:55.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[04Aug2025 04:55:12.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
+[04Aug2025 04:55:31.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[04Aug2025 04:55:38.230] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/93282, l='ServerLevel[world]', x=46.12, y=63.00, z=-1781.47] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 04:55:51.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Aug2025 04:56:03.017] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/93246, l='ServerLevel[world]', x=17.94, y=62.50, z=-1740.50] died: Piglin Archer was shot by SUPATA123
+[04Aug2025 04:56:09.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[04Aug2025 04:56:15.507] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/93245, l='ServerLevel[world]', x=16.53, y=62.00, z=-1740.36] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 04:56:26.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[04Aug2025 04:56:44.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2768ms or 55 ticks behind
+[04Aug2025 04:56:59.086] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/93256, l='ServerLevel[world]', x=10.56, y=65.00, z=-1704.92] died: Piglin Paratrooper was shot by SUPATA123
+[04Aug2025 04:57:01.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[04Aug2025 04:57:16.971] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/93257, l='ServerLevel[world]', x=13.51, y=71.19, z=-1694.14] died: Piglin Archer was shot by SUPATA123
+[04Aug2025 04:57:19.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[04Aug2025 04:57:22.793] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:22.793] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:22.794] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:22.794] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:22.794] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:36.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Aug2025 04:57:46.323] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:46.324] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:46.324] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:46.324] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:57:53.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[04Aug2025 04:58:13.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4312ms or 86 ticks behind
+[04Aug2025 04:58:30.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[04Aug2025 04:58:54.608] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/91686, l='ServerLevel[world]', x=66.99, y=72.00, z=-1694.41] died: Piglin Archer went off with a bang
+[04Aug2025 04:59:28.910] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/91636, l='ServerLevel[world]', x=82.61, y=71.19, z=-1708.70] died: Piglin Archer was shot by SUPATA123
+[04Aug2025 04:59:38.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:59:38.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:59:38.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:59:38.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:59:38.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[04Aug2025 04:59:43.607] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/91637, l='ServerLevel[world]', x=80.71, y=62.00, z=-1720.23] died: Piglin Knight was shot by SUPATA123
