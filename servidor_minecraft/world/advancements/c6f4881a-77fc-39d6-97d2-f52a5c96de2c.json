@@ -6971,9 +6971,10 @@
       "minecraft:crimson_forest": "2025-08-04 15:25:52 +0000",
       "minecraft:nether_wastes": "2025-07-30 23:42:17 +0000",
       "minecraft:soul_sand_valley": "2025-08-04 04:22:35 +0000",
-      "minecraft:basalt_deltas": "2025-07-30 23:52:57 +0000"
+      "minecraft:basalt_deltas": "2025-07-30 23:52:57 +0000",
+      "minecraft:warped_forest": "2025-08-04 21:56:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -7040,7 +7041,8 @@
       "incendium:ash_barrens": "2025-08-04 04:30:12 +0000",
       "incendium:infernal_dunes": "2025-08-04 04:00:18 +0000",
       "incendium:quartz_flats": "2025-07-30 23:44:46 +0000",
-      "incendium:volcanic_deltas": "2025-08-04 04:20:45 +0000"
+      "incendium:volcanic_deltas": "2025-08-04 04:20:45 +0000",
+      "incendium:withered_forest": "2025-08-04 21:54:55 +0000"
     },
     "done": false
   },
@@ -9878,9 +9880,21 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-08-04 21:54:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-08-04 21:37:19 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/ruined_lab": {
+    "criteria": {
+      "requirement": "2025-08-04 21:56:39 +0000"
     },
     "done": true
   },

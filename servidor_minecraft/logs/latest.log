@@ -1496,3 +1496,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 21:54:12.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4818ms or 96 ticks behind
 [04Aug2025 21:54:32.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4828ms or 96 ticks behind
 [04Aug2025 21:54:33.814] [Worker-Main-443/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=372, y=120, z=-293}
+[04Aug2025 21:54:53.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6541ms or 130 ticks behind
+[04Aug2025 21:54:55.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Ancient Battlefield]
+[04Aug2025 21:55:14.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5527ms or 110 ticks behind
+[04Aug2025 21:55:16.698] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/116094, l='ServerLevel[world]', x=1329.12, y=51.25, z=-3278.55] died: Headless Warrior was slain by Piglin Brute
+[04Aug2025 21:55:26.621] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/115790, l='ServerLevel[world]', x=1292.02, y=66.00, z=-3319.55] died: Headless Warrior was shot by SUPATA123
+[04Aug2025 21:55:27.153] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/116091, l='ServerLevel[world]', x=1316.28, y=51.00, z=-3285.59] died: Headless Warrior was doomed to fall by Piglin
+[04Aug2025 21:55:35.942] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/115908, l='ServerLevel[world]', x=1288.23, y=56.00, z=-3317.22] died: Headless Warrior was shot by SUPATA123
+[04Aug2025 21:55:41.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[04Aug2025 21:56:05.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Aug2025 21:56:22.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2649ms or 52 ticks behind
+[04Aug2025 21:56:39.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Alchemical Experiments]
+[04Aug2025 21:56:44.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6915ms or 138 ticks behind
+[04Aug2025 21:56:54.608] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/116595, l='ServerLevel[world]', x=1347.37, y=60.00, z=-3475.50] died: Headless Warrior was shot by SUPATA123
+[04Aug2025 21:56:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [Hot Tourist Destinations]
+[04Aug2025 21:57:13.826] [Worker-Main-443/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=15, z=-22}
+[04Aug2025 21:58:09.812] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/117583, l='ServerLevel[world]', x=1279.49, y=36.00, z=-3562.23] died: Headless Warrior was slain by Piglin Brute
+[04Aug2025 21:58:10.220] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/116683, l='ServerLevel[world]', x=1289.67, y=65.00, z=-3522.46] died: Headless Warrior was slain by Piglin Brute
+[04Aug2025 21:59:45.393] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[04Aug2025 22:02:06.244] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 22:02:06.249] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 22:02:34.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ancient Knight
+[04Aug2025 22:03:11.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Aug2025 22:04:00.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! -10.099677197176334,0.0,-0.09668844194311532
+[04Aug2025 22:04:00.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3175ms or 63 ticks behind
