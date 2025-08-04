@@ -6967,6 +6967,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-08-04 15:25:52 +0000",
       "minecraft:nether_wastes": "2025-07-30 23:42:17 +0000",
       "minecraft:soul_sand_valley": "2025-08-04 04:22:35 +0000",
       "minecraft:basalt_deltas": "2025-07-30 23:52:57 +0000"
@@ -9738,6 +9739,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-04 15:24:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:farmer": "2025-08-04 15:26:52 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/ghast_buster": {
     "criteria": {
       "kill_ghast": "2025-08-04 15:10:02 +0000"
@@ -9747,6 +9760,18 @@
   "born_in_chaos_v1:arachnophobes_nightmare": {
     "criteria": {
       "arachnophobes_nightmare_0": "2025-08-04 15:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-04 15:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-04 15:24:09 +0000"
     },
     "done": true
   },

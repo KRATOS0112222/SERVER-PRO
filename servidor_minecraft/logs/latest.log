@@ -1215,3 +1215,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 15:21:17.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Piglin
 [04Aug2025 15:21:41.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
 [04Aug2025 15:24:09.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hidden in the Depths]
+[04Aug2025 15:25:15.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Aug2025 15:25:36.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6214ms or 124 ticks behind
+[04Aug2025 15:25:54.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3186ms or 63 ticks behind
+[04Aug2025 15:26:39.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Aug2025 15:26:52.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Piglin Pillage]
+[04Aug2025 15:27:00.238] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/15988, l='ServerLevel[world]', x=105.96, y=54.00, z=-2150.90] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:27:01.165] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/17204, l='ServerLevel[world]', x=106.57, y=54.00, z=-2152.96] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:27:08.221] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/17203, l='ServerLevel[world]', x=120.50, y=55.00, z=-2148.34] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:27:17.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Aug2025 15:27:26.604] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/16009, l='ServerLevel[world]', x=119.70, y=56.00, z=-2153.50] died: Village Guard has been turned into a crystal
+[04Aug2025 15:27:52.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 15:28:26.058] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/16134, l='ServerLevel[world]', x=32.05, y=61.00, z=-2188.30] died: Village Guard was shot by SUPATA123
+[04Aug2025 15:28:27.953] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/16133, l='ServerLevel[world]', x=35.13, y=61.00, z=-2188.90] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:28:28.689] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/16135, l='ServerLevel[world]', x=36.34, y=61.00, z=-2189.59] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:28:30.136] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 15:28:30.154] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 15:28:38.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Piglin Brute
+[04Aug2025 15:28:51.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[04Aug2025 15:29:10.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3613ms or 72 ticks behind
+[04Aug2025 15:31:57.126] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19136, l='ServerLevel[world]', x=42.52, y=53.50, z=-2193.23] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:32:03.991] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19141, l='ServerLevel[world]', x=62.62, y=56.00, z=-2187.62] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:32:05.122] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19142, l='ServerLevel[world]', x=62.50, y=56.00, z=-2187.51] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:32:38.272] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19253, l='ServerLevel[world]', x=79.70, y=64.05, z=-2221.50] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:32:44.552] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19287, l='ServerLevel[world]', x=88.11, y=60.00, z=-2239.42] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:32:48.006] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19252, l='ServerLevel[world]', x=90.76, y=61.00, z=-2238.20] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:34:04.051] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19209, l='ServerLevel[world]', x=94.35, y=52.00, z=-2195.14] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:34:05.071] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19211, l='ServerLevel[world]', x=95.23, y=52.02, z=-2199.18] died: Piglin Civilian was shot by SUPATA123
+[04Aug2025 15:34:11.743] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/19151, l='ServerLevel[world]', x=87.37, y=52.00, z=-2199.37] died: Piglin Civilian was shot by SUPATA123
