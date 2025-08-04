@@ -293,3 +293,18 @@ java.lang.Exception: null
 [04Aug2025 03:56:59.070] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [04Aug2025 03:56:59.074] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [04Aug2025 03:57:36.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Fetch Me Their Souls!]
+[04Aug2025 03:59:24.036] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Nightmare Fuel]
+[04Aug2025 04:00:00.285] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Nightmare Fuel]
+[04Aug2025 04:00:04.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=42, z=-961} BlockPos{x=23, y=41, z=-961}
+[04Aug2025 04:00:04.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=42, z=-961} BlockPos{x=23, y=41, z=-961}
+[04Aug2025 04:00:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Darude - Firestorm]
+[04Aug2025 04:00:38.385] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Light-Sensitive]
+[04Aug2025 04:00:38.386] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76786, l='ServerLevel[world]', x=12.68, y=39.00, z=-1014.62] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 04:00:57.197] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Straddle My Ol' Saddle]
+[04Aug2025 04:01:17.090] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/76819, l='ServerLevel[world]', x=-51.66, y=48.00, z=-990.37] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 04:01:20.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Darude - Firestorm]
+[04Aug2025 04:03:40.286] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/77505, l='ServerLevel[world]', x=-99.96, y=81.00, z=-1116.62] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 04:04:10.437] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has completed the challenge [Return to Sender]
+[04Aug2025 04:06:02.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Floor is Tears]
+[04Aug2025 04:06:26.893] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 04:06:26.896] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved

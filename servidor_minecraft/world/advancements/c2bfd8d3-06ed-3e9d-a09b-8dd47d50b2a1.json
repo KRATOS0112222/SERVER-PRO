@@ -3892,9 +3892,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-01 22:08:46 +0000",
+      "minecraft:blaze": "2025-08-04 04:00:47 +0000",
       "minecraft:skeleton": "2025-08-01 20:34:46 +0000",
+      "minecraft:ghast": "2025-08-04 04:04:10 +0000",
       "minecraft:spider": "2025-08-04 00:39:02 +0000",
       "minecraft:creeper": "2025-08-04 00:35:58 +0000",
+      "minecraft:piglin": "2025-08-04 04:06:20 +0000",
       "minecraft:zombie": "2025-08-01 22:05:47 +0000"
     },
     "done": false
@@ -4817,6 +4820,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-04 04:04:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-08-04 00:13:20 +0000"
@@ -4853,9 +4862,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-08-04 03:57:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
     },
     "done": true
   },
@@ -4934,6 +4955,12 @@
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
     },
     "done": true
   },
@@ -5137,6 +5164,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-08-04 04:01:20 +0000",
       "incendium:quartz_flats": "2025-08-04 03:42:28 +0000"
     },
     "done": false
@@ -5393,6 +5421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
       "has_gunpowder": "2025-08-04 00:38:51 +0000"
@@ -5450,6 +5484,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-04 01:26:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-08-04 03:58:27 +0000"
     },
     "done": true
   },
@@ -5585,6 +5625,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-08-04 04:01:20 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_battleaxe": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
@@ -5600,6 +5646,12 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-08-04 02:39:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-08-04 04:04:10 +0000"
     },
     "done": true
   },
@@ -5672,6 +5724,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
     },
     "done": true
   },
@@ -5831,6 +5889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
@@ -5894,6 +5958,12 @@
   "spartanfire:recipes/dragon_bone_scythe": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
     },
     "done": true
   },
@@ -6095,6 +6165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
@@ -6173,6 +6249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/dragon_bone_parrying_dagger": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
@@ -6224,6 +6306,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-04 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-08-04 03:59:24 +0000"
     },
     "done": true
   },
@@ -6461,6 +6549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
@@ -6506,6 +6600,12 @@
   "spartanfire:recipes/dragon_bone_tomahawk": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
     },
     "done": true
   },
@@ -6575,6 +6675,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-04 01:26:08 +0000"
@@ -6608,6 +6714,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-04 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-08-04 04:03:38 +0000"
     },
     "done": true
   },

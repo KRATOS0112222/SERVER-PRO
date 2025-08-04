@@ -7033,6 +7033,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-08-04 04:00:18 +0000",
       "incendium:quartz_flats": "2025-07-30 23:44:46 +0000"
     },
     "done": false
@@ -8675,6 +8676,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-08-04 04:00:57 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/lead_tower_shield": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
@@ -8867,6 +8874,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/warped_banister": {
+    "criteria": {
+      "has_item": "2025-08-04 03:57:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
@@ -8990,6 +9003,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-08-04 04:00:18 +0000"
     },
     "done": true
   },
@@ -9269,6 +9288,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-08-04 04:00:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9293,6 +9318,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-08-04 04:00:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9308,6 +9339,12 @@
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-04 04:00:34 +0000"
     },
     "done": true
   },
@@ -9419,6 +9456,12 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-08-04 04:06:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9470,6 +9513,12 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-08-04 03:59:17 +0000"
     },
     "done": true
   },
