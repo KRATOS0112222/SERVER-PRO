@@ -22042,3 +22042,68 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 20:56:47.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Aug2025 21:01:47.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Aug2025 21:01:47.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 21:04:33.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[04Aug2025 21:05:39.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[04Aug2025 21:05:55.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> discord
+[04Aug2025 21:06:04.176] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:06:09.835] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 21:06:09.892] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 21:06:09.939] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 21:06:09.983] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 21:06:10.028] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 21:06:10.086] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 21:06:10.136] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 21:06:25.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Aug2025 21:06:55.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 21:06:55.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 21:07:02.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[04Aug2025 21:07:53.891] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 21:07:53.927] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 21:08:03.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was shot by SUPATA123
+[04Aug2025 21:08:03.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:80, y:68, z:-5727, dim:minecraft:overworld]
+[04Aug2025 21:08:04.326] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[04Aug2025 21:08:04.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[04Aug2025 21:08:22.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Aug2025 21:09:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> que armadura tienes xd
+[04Aug2025 21:09:27.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> nose
+[04Aug2025 21:09:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> tieens polvora?
+[04Aug2025 21:10:19.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> ya tedi
+[04Aug2025 21:11:03.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> gracias
+[04Aug2025 21:11:18.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[04Aug2025 21:11:18.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[04Aug2025 21:11:18.269] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[04Aug2025 21:11:18.277] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[04Aug2025 21:11:18.300] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[04Aug2025 21:11:18.601] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[04Aug2025 21:11:18.608] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road1
+[04Aug2025 21:11:18.611] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone1
+[04Aug2025 21:11:18.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/well
+[04Aug2025 21:11:18.612] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone3
+[04Aug2025 21:11:18.613] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone2
+[04Aug2025 21:11:20.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[04Aug2025 21:11:20.986] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena1 is being run through DFU (hash 1639040beee09f9270c31ac18907488c49bd397a20e3cf2e438ddeeeb2a4b5dc), this will cause launch time delays
+[04Aug2025 21:11:21.640] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena2 is being run through DFU (hash 3619c39a998b48ce06040cb5b2cd343bf9ebb514c9578b21882ce044438e23c0), this will cause launch time delays
+[04Aug2025 21:11:22.004] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena3 is being run through DFU (hash 86c0909e2efdb6293e471f96d6a14904efe4cb59b0c7d84784c34ba3ae92ce61), this will cause launch time delays
+[04Aug2025 21:11:22.191] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena4 is being run through DFU (hash 19fb2fa64aba37fa7dce14e6f4d54e3546f3efb7b8bb2e4fe7f6973f9aebc221), this will cause launch time delays
+[04Aug2025 21:11:22.363] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena5 is being run through DFU (hash 8fcc215c44a596a3ba2d8c554756d778b07bbbe23d17eccf3248d6e29a726b99), this will cause launch time delays
+[04Aug2025 21:11:22.506] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena6 is being run through DFU (hash 9384404d650a6664a7cb9870face813a55ea722abd34dd69732d681c50690141), this will cause launch time delays
+[04Aug2025 21:11:22.650] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena7 is being run through DFU (hash 9870666c6e554ecb0ab1c818a2fe78f966bfcfbb665a5dae552e96f4ec572290), this will cause launch time delays
+[04Aug2025 21:11:22.751] [Worker-Main-440/DEBUG] [ModernFix/]: Structure cataclysm:burning_arena8 is being run through DFU (hash 1ef7866efb08c91acd64618129097e5b9b7ab7232a4984a255eb435ee18b0cda), this will cause launch time delays
+[04Aug2025 21:11:45.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3273ms or 65 ticks behind
+[04Aug2025 21:11:57.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:11:57.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:11:58.139] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:11:58.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:11:58.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:11:58.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:11:58.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:11:59.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:12:01.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:12:01.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:12:02.573] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:12:03.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:12:03.938] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:12:04.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 21:12:05.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 21:12:05.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 21:12:05.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
