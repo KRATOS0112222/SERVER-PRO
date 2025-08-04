@@ -8454,6 +8454,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_blue_marble": {
+    "criteria": {
+      "has_ingredient": "2025-08-04 00:56:55 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_spear": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
@@ -8574,6 +8580,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-08-04 00:57:00 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_battleaxe": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
@@ -8688,6 +8700,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-08-04 00:57:00 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_javelin": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
@@ -8727,6 +8745,12 @@
   "spartanfire:recipes/desert_myrmex_chitin_halberd": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2025-08-04 00:56:55 +0000"
     },
     "done": true
   },
