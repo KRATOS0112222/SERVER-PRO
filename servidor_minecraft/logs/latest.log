@@ -1622,3 +1622,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 22:37:25.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
 [04Aug2025 22:37:25.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
 [04Aug2025 22:37:27.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
+[04Aug2025 22:46:33.880] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[04Aug2025 22:46:33.881] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[04Aug2025 22:46:33.881] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[04Aug2025 22:46:33.881] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[04Aug2025 22:46:33.881] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[04Aug2025 22:46:33.886] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[04Aug2025 22:46:33.886] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[04Aug2025 22:46:33.887] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[04Aug2025 22:46:33.887] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[04Aug2025 22:46:33.887] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[04Aug2025 22:46:33.887] [Worker-Main-434/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[04Aug2025 22:46:37.965] [Worker-Main-443/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[04Aug2025 22:46:37.965] [Worker-Main-443/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[04Aug2025 22:47:12.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[04Aug2025 22:47:12.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
