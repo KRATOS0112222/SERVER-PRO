@@ -1363,3 +1363,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 20:01:24.200] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
 [04Aug2025 20:01:24.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
 [04Aug2025 20:01:24.270] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[04Aug2025 20:08:24.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Man Of Steel]
+[04Aug2025 20:10:19.077] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 20:10:19.079] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 20:10:26.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Baby Spider
