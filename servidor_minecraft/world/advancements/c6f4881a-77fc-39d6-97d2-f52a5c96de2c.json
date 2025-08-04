@@ -8452,39 +8452,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+      "dark_metallurgy_0": "2025-08-03 23:57:48 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+  "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
+      "killed": "2025-08-04 00:11:15 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
+      "exorcism_0": "2025-08-04 00:11:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-08-04 04:31:16 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
+      "guidetothenextworld_0": "2025-08-04 00:11:48 +0000"
     },
     "done": true
   },
@@ -8494,27 +8482,267 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/myrmex_desert_sword": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
+  "spartanfire:recipes/desert_myrmex_chitin_spear": {
     "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "iceandfire:recipes/tools/myrmex_desert_hoe": {
     "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_greatsword": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_quarterstaff": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_glaive": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_dagger": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_lance": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_battle_hammer": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_rapier": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_warhammer": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_helmet": {
+    "criteria": {
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_battleaxe": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_leggings": {
+    "criteria": {
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_desert_boots": {
+    "criteria": {
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_longbow": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_boomerang": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_longsword": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_katana": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_throwing_knife": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_pike": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_shovel": {
+    "criteria": {
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_desert_axe": {
+    "criteria": {
+      "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_saber": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_javelin": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_scythe": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_tomahawk": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_flanged_mace": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_halberd": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/desert_myrmex_chitin_heavy_crossbow": {
+    "criteria": {
+      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-08-04 00:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-04 00:39:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-08-04 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-04 00:43:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-04 00:43:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-08-04 00:43:38 +0000"
     },
     "done": true
   },
@@ -8524,39 +8752,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+  "tombstone:adventure/create_grave_marble": {
     "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+      "has_grave_marble": "2025-08-04 00:56:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-08-04 00:57:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-08-04 00:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-04 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-04 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-04 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-04 01:20:58 +0000"
     },
     "done": true
   },
   "spartanweaponry:recipes/lead_heavy_crossbow": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-08-04 01:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_spear": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
@@ -8572,93 +8812,9 @@
     },
     "done": true
   },
-  "eidolon:crucible": {
-    "criteria": {
-      "has_crucible": "2025-08-04 03:13:58 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-08-04 02:04:19 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-08-04 00:43:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 03:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_metallurgy": {
-    "criteria": {
-      "dark_metallurgy_0": "2025-08-03 23:57:48 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-08-04 01:55:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
-    "criteria": {
-      "has_item": "2025-08-04 00:43:30 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/lead_longsword": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_hoe": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8668,15 +8824,267 @@
     },
     "done": true
   },
-  "eidolon:root": {
+  "spartanweaponry:recipes/lead_parrying_dagger": {
     "criteria": {
-      "eidolon:ars_ecclesia": "2025-08-04 03:22:29 +0000"
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/iron_sword_repairing": {
+  "spartanweaponry:recipes/lead_battleaxe": {
     "criteria": {
-      "has_iron_sword": "2025-08-04 03:46:07 +0000"
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lead_tower_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_boomerang": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_saber": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_flanged_mace": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_glaive": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_warhammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_tomahawk": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lead_basic_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_longbow": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_scythe": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_pike": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_spear": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_rapier": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_katana": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_quarterstaff": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_halberd": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_battle_hammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_dagger": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_javelin": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-08-04 01:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-04 01:49:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-08-04 01:49:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-04 01:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-04 01:55:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-04 01:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-04 01:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-04 01:56:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-08-04 02:04:19 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2025-08-04 02:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8698,12 +9106,6 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_greatsword": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -8716,51 +9118,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/lead_parrying_dagger": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_battleaxe": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed": "2025-08-04 04:00:57 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/lead_tower_shield": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-08-04 00:43:13 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_boomerang": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -8770,63 +9130,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/lead_saber": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_flanged_mace": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-04 01:55:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-08-04 00:43:38 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_quarterstaff": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
-    "criteria": {
-      "has_dragonscales_sapphire": "2025-08-04 00:43:30 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_glaive": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_dagger": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
@@ -8836,33 +9142,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_lance": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2025-08-04 00:15:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_battle_hammer": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_rapier": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
@@ -8896,36 +9178,6 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_warhammer": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2025-08-04 00:11:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_gloves_repairing": {
-    "criteria": {
-      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_glaive": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_helmet": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -8935,24 +9187,6 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/warped_banister": {
-    "criteria": {
-      "has_item": "2025-08-04 03:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
     },
     "done": true
   },
@@ -8968,21 +9202,9 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2025-08-04 00:57:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:volcanic_deltas/root": {
-    "criteria": {
-      "incendium:volcanic_deltas": "2025-08-04 04:20:45 +0000"
     },
     "done": true
   },
@@ -8992,33 +9214,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_battleaxe": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2025-08-04 00:11:48 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_warhammer": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_tomahawk": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -9028,111 +9226,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/myrmex_desert_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/lead_basic_shield": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-08-04 00:39:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_leggings": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-08-04 01:49:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/myrmex_desert_boots": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-08-04 00:11:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_longbow": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/root": {
-    "criteria": {
-      "incendium:infernal_dunes": "2025-08-04 04:00:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-08-04 01:20:58 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_longbow": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-08-04 01:55:02 +0000"
     },
     "done": true
   },
@@ -9160,27 +9256,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_scythe": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 03:26:54 +0000"
     },
     "done": true
   },
@@ -9190,45 +9268,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-08-04 00:39:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_pike": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-04 01:07:59 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/fishing_rod_repairing": {
-    "criteria": {
-      "has_fishing_rod": "2025-08-04 01:45:49 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_boomerang": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
@@ -9244,21 +9286,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_longsword": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
     },
     "done": true
   },
@@ -9268,81 +9298,9 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_katana": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_throwing_knife": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_pike": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_shovel": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
-    "criteria": {
-      "has_item": "2025-08-04 00:43:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-08-04 04:32:01 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/enter_castle": {
-    "criteria": {
-      "requirement": "2025-08-04 04:51:22 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/shield_repairing": {
-    "criteria": {
-      "has_shield": "2025-08-04 04:16:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/myrmex_desert_axe": {
-    "criteria": {
-      "has_item": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_saber": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-04 00:43:30 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_spear": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -9352,45 +9310,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-04 01:07:59 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-08-04 00:57:00 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_javelin": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_rapier": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_scythe": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-08-04 01:07:59 +0000"
     },
     "done": true
   },
@@ -9406,24 +9328,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-08-04 01:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-08-04 04:33:30 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9436,33 +9340,9 @@
     },
     "done": true
   },
-  "incendium:infernal_dunes/dune_blaze": {
-    "criteria": {
-      "requirement": "2025-08-04 04:00:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:ash_barrens/root": {
-    "criteria": {
-      "requirement": "2025-08-04 04:30:12 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "eidolon:worktable": {
-    "criteria": {
-      "has_worktable": "2025-08-04 03:27:51 +0000"
     },
     "done": true
   },
@@ -9472,53 +9352,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_myrmex": {
-    "criteria": {
-      "chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed": "2025-08-04 04:00:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_tomahawk": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/mystic_wisdom": {
-    "criteria": {
-      "waste": "2025-08-04 04:15:08 +0000",
-      "junk": "2025-08-04 04:13:21 +0000",
-      "treasure": "2025-08-04 04:16:19 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
-    "criteria": {
-      "has_item": "2025-08-04 00:43:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-08-04 04:00:34 +0000"
     },
     "done": true
   },
@@ -9528,33 +9364,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/lead_katana": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_flanged_mace": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "spartanfire:recipes/desert_myrmex_chitin_halberd": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
@@ -9564,51 +9376,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 03:26:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
-    "criteria": {
-      "has_purple_wool": "2025-08-04 03:26:54 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_quarterstaff": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_grave_marble": {
-    "criteria": {
-      "has_grave_marble": "2025-08-04 00:56:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_halberd": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_battle_hammer": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed": "2025-08-04 02:16:32 +0000"
     },
     "done": true
   },
@@ -9630,39 +9400,9 @@
     },
     "done": true
   },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-08-04 04:06:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/nuclear_fusion": {
-    "criteria": {
-      "incendium:junk": "2025-08-04 04:13:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-08-04 01:56:54 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_dagger": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/lead_javelin": {
-    "criteria": {
-      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -9672,27 +9412,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
     },
     "done": true
   },
@@ -9702,21 +9424,63 @@
     },
     "done": true
   },
-  "spartanfire:recipes/desert_myrmex_chitin_heavy_crossbow": {
-    "criteria": {
-      "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-08-04 04:33:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "eidolon:crucible": {
+    "criteria": {
+      "has_crucible": "2025-08-04 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "eidolon:root": {
+    "criteria": {
+      "eidolon:ars_ecclesia": "2025-08-04 03:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 03:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 03:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 03:26:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-08-04 03:26:54 +0000"
+    },
+    "done": true
+  },
+  "eidolon:worktable": {
+    "criteria": {
+      "has_worktable": "2025-08-04 03:27:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-08-04 03:46:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/warped_banister": {
+    "criteria": {
+      "has_item": "2025-08-04 03:57:09 +0000"
     },
     "done": true
   },
@@ -9726,9 +9490,245 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-08-04 04:00:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-08-04 04:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-04 04:00:34 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-08-04 04:00:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-08-04 04:00:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-08-04 04:06:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "waste": "2025-08-04 04:15:08 +0000",
+      "junk": "2025-08-04 04:13:21 +0000",
+      "treasure": "2025-08-04 04:16:19 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2025-08-04 04:13:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-08-04 04:16:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-08-04 04:20:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-08-04 04:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-04 04:31:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 04:32:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-04 04:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-04 04:33:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_shovel_repairing": {
     "criteria": {
       "has_diamond_shovel": "2025-08-04 04:38:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-08-04 04:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-08-04 04:51:52 +0000"
     },
     "done": true
   },
