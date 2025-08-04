@@ -7086,9 +7086,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-04 16:46:43 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/food/cooked_pike": {
     "criteria": {
       "has_pike": "2025-08-04 16:29:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-08-04 16:46:43 +0000"
     },
     "done": true
   },
