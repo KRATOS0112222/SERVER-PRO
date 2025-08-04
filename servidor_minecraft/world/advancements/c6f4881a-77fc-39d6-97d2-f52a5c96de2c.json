@@ -9898,6 +9898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-08-04 22:15:04 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/ruined_lab": {
     "criteria": {
       "requirement": "2025-08-04 21:56:39 +0000"

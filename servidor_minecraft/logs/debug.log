@@ -24492,3 +24492,147 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 22:14:26.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [04Aug2025 22:14:50.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [04Aug2025 22:15:24.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Aug2025 22:15:42.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3000ms or 60 ticks behind
+[04Aug2025 22:15:57.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 22:15:57.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 22:15:59.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[04Aug2025 22:16:21.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[04Aug2025 22:16:40.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 22:17:04.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[04Aug2025 22:17:47.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 22:18:28.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Aug2025 22:19:07.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[04Aug2025 22:20:21.797] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[04Aug2025 22:20:22.059] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[04Aug2025 22:20:22.101] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[04Aug2025 22:20:22.125] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[04Aug2025 22:20:22.139] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[04Aug2025 22:20:22.148] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[04Aug2025 22:20:22.160] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[04Aug2025 22:20:23.272] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[04Aug2025 22:20:24.125] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[04Aug2025 22:20:25.269] [Worker-Main-434/DEBUG] [ModernFix/]: Structure hopo:portal9 is being run through DFU (hash 3a018c672c5690c2932cfe4df28a9ec77443d02b898f35033d8c99a78bf22ee1), this will cause launch time delays
+[04Aug2025 22:20:26.262] [Worker-Main-440/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_1 is being run through DFU (hash d25f5d1016e08f81f761c13842826b723a784b3ed519661d2471a6323f12ca4f), this will cause launch time delays
+[04Aug2025 22:20:26.367] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[04Aug2025 22:20:26.378] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[04Aug2025 22:20:26.388] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[04Aug2025 22:20:26.432] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[04Aug2025 22:20:26.576] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[04Aug2025 22:20:26.593] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[04Aug2025 22:20:26.601] [Worker-Main-440/DEBUG] [ModernFix/]: Structure dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit is being run through DFU (hash dae2d72b198c77a2d8d771f3da2322814f13e3635deb04fa22d1386c01bf95e1), this will cause launch time delays
+[04Aug2025 22:20:29.711] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[04Aug2025 22:20:34.116] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[04Aug2025 22:20:35.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 moved too quickly! -8.774291371334776,1.0,5.010636587495355
+[04Aug2025 22:20:35.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16321ms or 326 ticks behind
+[04Aug2025 22:20:46.028] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[04Aug2025 22:20:53.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[04Aug2025 22:21:03.790] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[04Aug2025 22:21:12.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4718ms or 94 ticks behind
+[04Aug2025 22:21:33.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5462ms or 109 ticks behind
+[04Aug2025 22:21:34.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 22:21:41.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 22:21:41.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 22:21:54.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6844ms or 136 ticks behind
+[04Aug2025 22:22:07.076] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[04Aug2025 22:22:16.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6369ms or 127 ticks behind
+[04Aug2025 22:22:37.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5818ms or 116 ticks behind
+[04Aug2025 22:22:56.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4234ms or 84 ticks behind
+[04Aug2025 22:23:06.086] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[04Aug2025 22:23:10.164] [Worker-Main-443/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:23:10.165] [Worker-Main-443/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:23:10.165] [Worker-Main-443/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:23:15.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4644ms or 92 ticks behind
+[04Aug2025 22:23:33.548] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Desert Swimmers]
+[04Aug2025 22:23:33.922] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[04Aug2025 22:23:33.941] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[04Aug2025 22:23:35.182] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:23:35.233] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:23:35.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4491ms or 89 ticks behind
+[04Aug2025 22:23:43.879] [Worker-Main-443/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:23:45.454] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[04Aug2025 22:23:45.498] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[04Aug2025 22:23:45.530] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_village/mushroom_village_house_big_0 is being run through DFU (hash 97ca3567cbb388be84c580456221b46df3e4f79b04df1743a0683c68768051ba), this will cause launch time delays
+[04Aug2025 22:23:46.051] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[04Aug2025 22:23:46.058] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[04Aug2025 22:23:46.064] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[04Aug2025 22:23:46.073] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[04Aug2025 22:23:46.081] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[04Aug2025 22:23:46.087] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_4 is being run through DFU (hash 47d1184c4d001ce337c6456fd742c7476eb225727e918789aa5628b16a8493cb), this will cause launch time delays
+[04Aug2025 22:23:46.106] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_3 is being run through DFU (hash a15b08337c7adaeeaa3ee4b453591f373857a09a732542bde3cc405b9177f6d8), this will cause launch time delays
+[04Aug2025 22:23:46.108] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_5 is being run through DFU (hash 1269b0b1d57ca6a112d4c55fd4902961bc5c5566683cc6600fd7079ee9d77543), this will cause launch time delays
+[04Aug2025 22:23:46.128] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_2 is being run through DFU (hash 0d3253fd379d4a7021e13d7d4d4f9a0f886c26db28ac3f9fca5af9186e958d8d), this will cause launch time delays
+[04Aug2025 22:23:46.136] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_9 is being run through DFU (hash 72d962fb858cba264fd658485f546d713d512b52bacb053394a989da999326c2), this will cause launch time delays
+[04Aug2025 22:23:46.143] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_10 is being run through DFU (hash cc9254c57096766ea0f4d6c8af33ba426e14e26c2797d4f0a04d9dd3e3f41be3), this will cause launch time delays
+[04Aug2025 22:23:46.149] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_0 is being run through DFU (hash 61295310d71474a442e83ba03a803713e1ba4a2318c9271eca8c4951c8208a3e), this will cause launch time delays
+[04Aug2025 22:23:46.151] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_7 is being run through DFU (hash da9b106f34b46847fca307bddfe8355b2cd8d3ba0ee6ae5fb38502041c289b99), this will cause launch time delays
+[04Aug2025 22:23:46.155] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_4 is being run through DFU (hash 65346d252fbfce1a47692ce1c78ca5347f6da92c78c4a16507f27bbb71c11426), this will cause launch time delays
+[04Aug2025 22:23:46.160] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_3 is being run through DFU (hash 0480f34a352a9b7303d71a185674dadee184fffefc208ff56b43558194d6a8ec), this will cause launch time delays
+[04Aug2025 22:23:46.164] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_5 is being run through DFU (hash f1c56442a7fc2bb97723653bc849fe19059bcfb3879150a8fb69d27fc7cce6e4), this will cause launch time delays
+[04Aug2025 22:23:46.168] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_4 is being run through DFU (hash 96899e83df030b33991bc7fbc7ecb7ed55fa886d3a02aa0afd2ad5a74a63f0bd), this will cause launch time delays
+[04Aug2025 22:23:46.169] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_12 is being run through DFU (hash e8d6884b3f9044b6ebfbdadf9ef2132e7af8d6f8b7ac6f7af9a7387861bae3b6), this will cause launch time delays
+[04Aug2025 22:23:46.173] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_6 is being run through DFU (hash 3addeef1bd3fa4b303dcd3a9624fbb8befd91bc37a09ffc733ce604793a97f71), this will cause launch time delays
+[04Aug2025 22:23:46.176] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_2 is being run through DFU (hash 1521a100dc9fadf0dbb5070a31ce77465a294b403d564f3f05d064b405ce441d), this will cause launch time delays
+[04Aug2025 22:23:46.178] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_9 is being run through DFU (hash 24f9a49585b1e9147d5a608aad029201e7a2c894716823a9d3213d2b67fd24df), this will cause launch time delays
+[04Aug2025 22:23:46.181] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_7 is being run through DFU (hash defe8ef8b9d13c7aa61d50f0c149bea235d36c6eeabd7e5f43d3086964b5497f), this will cause launch time delays
+[04Aug2025 22:23:46.183] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_0 is being run through DFU (hash 2ff5721c0410ef90e99f7cdfed7da1fbb09452fa7c3d793e24baa3f6970a1ba8), this will cause launch time delays
+[04Aug2025 22:23:46.187] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_8 is being run through DFU (hash bbed328bb0806a5f8abe6a3f9e4c0ef0da6dea723ce8c345083cdd186c2b3289), this will cause launch time delays
+[04Aug2025 22:23:46.189] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_11 is being run through DFU (hash 5401c610d3706d8b6fada968b1b50bd07b4b0be139c70309e52ce9251d85d811), this will cause launch time delays
+[04Aug2025 22:23:46.190] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_5 is being run through DFU (hash 0701dd046ffd2fc28e196417016de4d3dc5780887240554b4419708d4a19d921), this will cause launch time delays
+[04Aug2025 22:23:46.192] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_6 is being run through DFU (hash 0d3ae5a86ff34f2523bf68422107572fa34299c1b3bf1772294b4bf9fe362936), this will cause launch time delays
+[04Aug2025 22:23:46.203] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Aug2025 22:23:46.206] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_1 is being run through DFU (hash 6836751b9b7fb5886d865d0123799dcce2bba2350268889a0be944b0041e250b), this will cause launch time delays
+[04Aug2025 22:23:46.208] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_1 is being run through DFU (hash c6236a19b873586e9bb54a09a5b0ceede18a7e3280986c7406a079c52b892dc5), this will cause launch time delays
+[04Aug2025 22:23:46.216] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_8 is being run through DFU (hash f0a7c0ed67111b7ce7d8fa288e2761c9b4d3242e992eef611ff6025ed3a6cd96), this will cause launch time delays
+[04Aug2025 22:23:46.233] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_0 is being run through DFU (hash bf23db55ed7d5c73cf3fb5671b3db02e5c83af359d1e66b89c28216a6f9be917), this will cause launch time delays
+[04Aug2025 22:23:46.424] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_archer_0 is being run through DFU (hash 9b1513ff9013dc662b572e80a8ccf55935501f49fbf919148933018a241764b8), this will cause launch time delays
+[04Aug2025 22:23:46.430] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_assassin_0 is being run through DFU (hash 2b23c1804258f9f740059618ffc6c3ee6e5e637361b7bb77020389575e823df7), this will cause launch time delays
+[04Aug2025 22:23:46.434] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_hoglin_0 is being run through DFU (hash a32b6db3a3440b928130b61d0539f86177efcb945d0df1069fe663a2019ba7e8), this will cause launch time delays
+[04Aug2025 22:23:46.447] [Worker-Main-443/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_hoglin_1 is being run through DFU (hash b24b2724c1685175ba9d620139259f8d974aa75d6cc8c9b6cc317d013aba1f0a), this will cause launch time delays
+[04Aug2025 22:23:48.228] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[04Aug2025 22:23:55.109] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[04Aug2025 22:23:56.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5818ms or 116 ticks behind
+[04Aug2025 22:23:58.741] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/desert_scriber_1
+[04Aug2025 22:24:05.226] [Worker-Main-440/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal11
+[04Aug2025 22:24:05.808] [Worker-Main-440/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:24:05.809] [Worker-Main-440/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:24:05.809] [Worker-Main-440/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:24:16.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
+[04Aug2025 22:24:27.190] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[04Aug2025 22:24:27.199] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[04Aug2025 22:24:27.200] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[04Aug2025 22:24:27.203] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[04Aug2025 22:24:27.206] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight
+[04Aug2025 22:24:27.207] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[04Aug2025 22:24:27.208] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[04Aug2025 22:24:27.212] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[04Aug2025 22:24:27.216] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[04Aug2025 22:24:27.218] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[04Aug2025 22:24:27.224] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[04Aug2025 22:24:27.226] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[04Aug2025 22:24:27.226] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[04Aug2025 22:24:27.231] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[04Aug2025 22:24:27.234] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[04Aug2025 22:24:27.236] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[04Aug2025 22:24:27.238] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[04Aug2025 22:24:27.240] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[04Aug2025 22:24:27.244] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[04Aug2025 22:24:27.246] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[04Aug2025 22:24:27.247] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[04Aug2025 22:24:27.248] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[04Aug2025 22:24:27.249] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[04Aug2025 22:24:27.250] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[04Aug2025 22:24:27.251] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[04Aug2025 22:24:27.253] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[04Aug2025 22:24:27.254] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[04Aug2025 22:24:27.255] [Worker-Main-434/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[04Aug2025 22:24:34.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3506ms or 70 ticks behind
+[04Aug2025 22:24:53.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Aug2025 22:25:13.047] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:25:13.094] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:25:13.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:25:13.196] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:25:13.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:25:13.309] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 22:25:13.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 22:25:32.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04Aug2025 22:25:36.174] [Worker-Main-443/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal12
