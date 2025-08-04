@@ -8678,6 +8678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-08-04 00:57:00 +0000"
@@ -8783,6 +8789,12 @@
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-08-04 00:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
     },
     "done": true
   },
@@ -8933,6 +8945,12 @@
   "spartanweaponry:recipes/lead_katana": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
     },
     "done": true
   },

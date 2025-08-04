@@ -4907,6 +4907,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-08-04 02:30:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-08-04 01:49:38 +0000"
@@ -5183,6 +5189,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-04 02:26:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-04 01:43:31 +0000"
@@ -5264,6 +5276,12 @@
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-08-04 00:40:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-04 02:26:26 +0000"
     },
     "done": true
   },
@@ -5525,6 +5543,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-04 02:26:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/tin_tomahawk": {
     "criteria": {
       "has_tin_ingot": "2025-08-04 01:05:07 +0000"
@@ -5534,6 +5558,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-08-04 01:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-04 02:26:26 +0000"
     },
     "done": true
   },
