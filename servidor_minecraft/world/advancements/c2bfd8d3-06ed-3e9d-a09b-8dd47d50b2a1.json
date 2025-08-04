@@ -5129,6 +5129,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-08-04 03:42:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-08-04 00:38:51 +0000"
@@ -6023,6 +6029,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:quartz_flats": "2025-08-04 03:42:28 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/tin_battleaxe": {
     "criteria": {
       "has_tin_ingot": "2025-08-04 01:05:07 +0000"
@@ -6512,6 +6524,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-08-04 03:33:05 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-08-04 03:42:28 +0000"
     },
     "done": true
   },
