@@ -1348,3 +1348,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 19:17:19.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=11, z=-1595} BlockPos{x=11, y=10, z=-1594}
 [04Aug2025 19:17:19.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=11, z=-1595} BlockPos{x=11, y=10, z=-1594}
 [04Aug2025 19:17:19.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12, y=11, z=-1595} BlockPos{x=11, y=10, z=-1594}
+[04Aug2025 19:52:43.595] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 19:52:43.603] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 19:52:58.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Prisoner Skull
+[04Aug2025 19:59:26.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[04Aug2025 19:59:26.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[04Aug2025 19:59:53.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:50915] logged in with entity id 84129 at (148.35954186171415, 72.0, -5856.657084497844)
+[04Aug2025 19:59:53.885] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[04Aug2025 19:59:53.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[04Aug2025 19:59:53.996] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[04Aug2025 20:00:51.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[04Aug2025 20:00:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[04Aug2025 20:01:24.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:38757] logged in with entity id 84435 at (148.35954186171415, 72.0, -5856.657084497844)
+[04Aug2025 20:01:24.200] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[04Aug2025 20:01:24.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[04Aug2025 20:01:24.270] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)

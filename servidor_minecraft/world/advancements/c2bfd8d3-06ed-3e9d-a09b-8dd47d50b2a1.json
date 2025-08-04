@@ -7122,15 +7122,75 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "big_boy_0": "2025-08-04 18:36:43 +0000"
+      "has_wood_slab": "2025-08-04 17:43:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-08-04 17:43:01 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-08-04 17:43:12 +0000"
     },
     "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-08-04 18:35:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-08-04 18:35:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-08-04 18:35:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-04 18:35:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-08-04 18:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-04 18:40:17 +0000"
+    },
+    "done": true
+  },
+  "usefulbackpacks:recipes/backpack_large": {
+    "criteria": {
+      "has_medium_backpack": "2025-08-04 19:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-04 19:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-04 19:49:10 +0000"
     },
     "done": true
   },
@@ -7152,51 +7212,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-08-04 17:43:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-04 19:27:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-08-04 18:40:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_boots_repairing": {
-    "criteria": {
-      "has_diamond_boots": "2025-08-04 18:35:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2025-08-04 19:49:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-08-04 19:49:10 +0000"
-    },
-    "done": true
-  },
-  "usefulbackpacks:recipes/backpack_large": {
-    "criteria": {
-      "has_medium_backpack": "2025-08-04 19:27:28 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-08-04 17:43:12 +0000"
     },
     "done": true
   },
@@ -7206,21 +7224,21 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
-      "has_diamond_chestplate": "2025-08-04 18:35:20 +0000"
+      "has_iron_gloves": "2025-08-04 19:56:28 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_leggings_repairing": {
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
     "criteria": {
-      "has_diamond_leggings": "2025-08-04 18:35:24 +0000"
+      "has_iron_gloves": "2025-08-04 19:56:28 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/oak_banister": {
+  "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
-      "has_item": "2025-08-04 17:43:01 +0000"
+      "has_iron_gloves": "2025-08-04 19:56:28 +0000"
     },
     "done": true
   },
