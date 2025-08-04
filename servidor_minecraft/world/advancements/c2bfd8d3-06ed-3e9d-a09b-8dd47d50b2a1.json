@@ -7018,6 +7018,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "upgrade_aquatic:pike": "2025-08-04 16:29:17 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_campfire_cooking": {
+    "criteria": {
+      "has_pike": "2025-08-04 16:29:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-08-04 16:08:19 +0000"
@@ -7042,6 +7054,26 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/food/cooked_pike_from_smoking": {
+    "criteria": {
+      "has_pike": "2025-08-04 16:29:18 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/river_monsters": {
+    "criteria": {
+      "chinlea": "2025-08-04 16:28:44 +0000",
+      "mooreodontus": "2025-08-04 16:28:44 +0000",
+      "cyclurus": "2025-08-04 16:28:44 +0000",
+      "ceratodus": "2025-08-04 16:28:44 +0000",
+      "lepisosteus": "2025-08-04 16:28:44 +0000",
+      "potamoceratodus": "2025-08-04 16:28:44 +0000",
+      "arganodus": "2025-08-04 16:28:44 +0000",
+      "myledaphus": "2025-08-04 16:28:44 +0000",
+      "saurichthys": "2025-08-04 16:28:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2025-08-04 15:06:20 +0000"
@@ -7051,6 +7083,12 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-08-04 16:09:14 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/cooked_pike": {
+    "criteria": {
+      "has_pike": "2025-08-04 16:29:18 +0000"
     },
     "done": true
   },

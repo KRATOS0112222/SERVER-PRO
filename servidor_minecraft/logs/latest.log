@@ -1282,3 +1282,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 16:20:45.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved too quickly! -8.992022423156016,2.419999986886978,-5.145566372598296
 [04Aug2025 16:22:15.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
 [04Aug2025 16:22:15.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[04Aug2025 16:28:44.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Lame Episode of River Monsters]
+[04Aug2025 16:29:17.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Fishy Business]
