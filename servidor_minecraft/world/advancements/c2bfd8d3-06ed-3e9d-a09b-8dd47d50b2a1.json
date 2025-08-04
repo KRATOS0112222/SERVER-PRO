@@ -7254,9 +7254,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_brick_slab": {
+    "criteria": {
+      "has_stone": "2025-08-04 21:48:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-08-04 21:44:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-08-04 21:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_brick_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-04 21:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cretaceous_chalk_brick_wall": {
+    "criteria": {
+      "has_stone": "2025-08-04 21:48:15 +0000"
     },
     "done": true
   },

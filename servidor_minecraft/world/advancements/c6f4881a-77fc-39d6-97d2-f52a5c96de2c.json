@@ -9920,6 +9920,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-04 21:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-08-04 21:37:19 +0000"
