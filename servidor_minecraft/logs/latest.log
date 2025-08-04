@@ -224,3 +224,10 @@ java.lang.Exception: null
 [04Aug2025 02:04:32.865] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
 [04Aug2025 02:04:32.869] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [04Aug2025 02:04:39.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was shot by Summoned Skeleton
+[04Aug2025 02:08:25.028] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 02:08:25.074] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 02:08:31.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 fell from a high place
+[04Aug2025 02:11:47.056] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 02:11:47.057] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 02:11:53.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 fell from a high place
+[04Aug2025 02:14:55.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=768, y=-53, z=-5756} BlockPos{x=769, y=-53, z=-5755}

@@ -1722,6 +1722,7 @@
       "minecraft:wither_skeleton": "2025-07-31 01:40:02 +0000",
       "minecraft:husk": "2025-07-28 16:27:30 +0000",
       "minecraft:cave_spider": "2025-07-30 22:47:49 +0000",
+      "minecraft:enderman": "2025-08-04 02:09:39 +0000",
       "minecraft:zombie": "2025-07-26 02:17:45 +0000",
       "minecraft:drowned": "2025-08-01 21:55:04 +0000",
       "minecraft:zombie_villager": "2025-07-28 17:45:40 +0000"
@@ -8488,6 +8489,12 @@
   "spartanweaponry:recipes/lead_lance": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-08-04 02:04:19 +0000"
     },
     "done": true
   },
