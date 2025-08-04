@@ -1568,3 +1568,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 22:24:53.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [04Aug2025 22:25:13.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [04Aug2025 22:25:32.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04Aug2025 22:25:50.146] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Aug2025 22:25:53.585] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5931ms or 118 ticks behind
+[04Aug2025 22:26:12.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4278ms or 85 ticks behind
+[04Aug2025 22:26:33.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5369ms or 107 ticks behind
+[04Aug2025 22:26:53.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5747ms or 114 ticks behind
+[04Aug2025 22:27:13.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4840ms or 96 ticks behind
+[04Aug2025 22:27:33.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[04Aug2025 22:27:35.069] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/131940, l='ServerLevel[world]', x=12086.44, y=64.00, z=-29602.57] died, message: 'Farmer was slain by Zombie Brute'
+[04Aug2025 22:27:54.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5184ms or 103 ticks behind
+[04Aug2025 22:27:54.309] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/132139, l='ServerLevel[world]', x=12116.97, y=65.00, z=-29567.42] died, message: 'Unemployed was slain by Zombie Bruiser'
+[04Aug2025 22:28:17.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8159ms or 163 ticks behind
+[04Aug2025 22:28:31.681] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Aug2025 22:28:34.146] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Aug2025 22:28:40.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7915ms or 158 ticks behind
+[04Aug2025 22:29:04.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9281ms or 185 ticks behind
+[04Aug2025 22:29:24.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5298ms or 105 ticks behind
+[04Aug2025 22:29:43.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4371ms or 87 ticks behind
+[04Aug2025 22:30:03.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
+[04Aug2025 22:30:22.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3850ms or 77 ticks behind
+[04Aug2025 22:30:30.539] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 22:30:30.561] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 22:30:37.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Ghost
+[04Aug2025 22:30:41.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3960ms or 79 ticks behind
+[04Aug2025 22:30:59.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3397ms or 67 ticks behind
+[04Aug2025 22:31:16.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[04Aug2025 22:31:34.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3069ms or 61 ticks behind
+[04Aug2025 22:31:53.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3495ms or 69 ticks behind
+[04Aug2025 22:32:11.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
+[04Aug2025 22:32:16.373] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 22:32:16.401] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 22:32:23.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Koboleton
+[04Aug2025 22:32:31.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4334ms or 86 ticks behind
+[04Aug2025 22:32:44.731] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133541, l='ServerLevel[world]', x=12077.42, y=79.00, z=-29324.15] died, message: 'Unemployed was slain by Ghost'
+[04Aug2025 22:32:49.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3538ms or 70 ticks behind
+[04Aug2025 22:32:58.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Who You Gonna Call?]
+[04Aug2025 22:33:08.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3763ms or 75 ticks behind
+[04Aug2025 22:33:26.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3452ms or 69 ticks behind
+[04Aug2025 22:33:45.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3822ms or 76 ticks behind
+[04Aug2025 22:34:04.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3586ms or 71 ticks behind
+[04Aug2025 22:34:26.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7089ms or 141 ticks behind
+[04Aug2025 22:34:43.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[04Aug2025 22:34:45.100] [Worker-Main-440/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[04Aug2025 22:34:45.101] [Worker-Main-440/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[04Aug2025 22:35:05.844] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7290ms or 145 ticks behind
+[04Aug2025 22:35:23.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[04Aug2025 22:35:40.035] [Worker-Main-440/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[04Aug2025 22:35:45.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6947ms or 138 ticks behind

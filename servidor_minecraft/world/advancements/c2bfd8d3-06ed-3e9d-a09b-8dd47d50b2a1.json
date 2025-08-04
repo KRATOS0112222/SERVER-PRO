@@ -7248,6 +7248,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-04 22:28:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
       "has_golden_boots": "2025-08-04 21:26:58 +0000"
