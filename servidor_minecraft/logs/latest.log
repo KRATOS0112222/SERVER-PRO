@@ -359,3 +359,17 @@ java.lang.Exception: null
 [04Aug2025 04:38:50.087] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [04Aug2025 04:38:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 burned to death
 [04Aug2025 04:39:05.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[04Aug2025 04:40:02.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [War Pigs]
+[04Aug2025 04:45:01.941] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 04:45:01.943] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:45:08.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 burned to death
+[04Aug2025 04:45:09.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=26, z=-1523} BlockPos{x=370, y=25, z=-1522}
+[04Aug2025 04:45:09.187] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=26, z=-1523} BlockPos{x=370, y=25, z=-1522}
+[04Aug2025 04:45:09.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=26, z=-1523} BlockPos{x=370, y=25, z=-1522}
+[04Aug2025 04:45:16.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[04Aug2025 04:45:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Hidden in the Depths]
+[04Aug2025 04:48:47.370] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 04:48:47.397] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:48:57.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Piglin Paratrooper
+[04Aug2025 04:49:08.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3420ms or 68 ticks behind
+[04Aug2025 04:49:20.080] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/91652, l='ServerLevel[world]', x=110.16, y=32.00, z=-1707.95] died: Piglin Paratrooper was shot by SUPATA123
