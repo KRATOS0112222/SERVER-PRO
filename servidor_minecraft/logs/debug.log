@@ -25107,3 +25107,49 @@ java.lang.Exception: null
 [04Aug2025 02:44:39.504] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [04Aug2025 02:46:35.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Aug2025 02:46:35.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:50:31.602] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[04Aug2025 02:50:31.728] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[04Aug2025 02:50:31.750] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[04Aug2025 02:50:31.753] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[04Aug2025 02:50:31.952] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[04Aug2025 02:50:32.031] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[04Aug2025 02:50:33.401] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[04Aug2025 02:50:33.433] [Worker-Main-209/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[04Aug2025 02:50:35.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[04Aug2025 02:50:35.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[04Aug2025 02:50:35.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[04Aug2025 02:50:35.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[04Aug2025 02:50:35.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[04Aug2025 02:50:36.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[04Aug2025 02:50:36.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road3
+[04Aug2025 02:50:36.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road1
+[04Aug2025 02:50:36.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone1
+[04Aug2025 02:50:36.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/well
+[04Aug2025 02:50:36.051] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone3
+[04Aug2025 02:50:36.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/small_tower
+[04Aug2025 02:50:36.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone2
+[04Aug2025 02:50:36.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/dungeon2
+[04Aug2025 02:50:36.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
+[04Aug2025 02:51:27.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[04Aug2025 02:51:27.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[04Aug2025 02:51:27.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[04Aug2025 02:51:27.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[04Aug2025 02:51:27.538] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[04Aug2025 02:51:27.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[04Aug2025 02:51:27.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[04Aug2025 02:51:27.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[04Aug2025 02:51:27.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[04Aug2025 02:51:27.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[04Aug2025 02:51:27.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[04Aug2025 02:51:27.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[04Aug2025 02:51:27.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[04Aug2025 02:51:27.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[04Aug2025 02:51:27.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[04Aug2025 02:51:27.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[04Aug2025 02:51:27.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[04Aug2025 02:51:27.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[04Aug2025 02:51:27.548] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[04Aug2025 02:51:41.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:51:41.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 02:56:41.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 02:56:41.568] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
