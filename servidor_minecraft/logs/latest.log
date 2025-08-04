@@ -1266,3 +1266,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 16:01:10.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [04Aug2025 16:01:51.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [04Aug2025 16:03:11.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[04Aug2025 16:07:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Cover Me In Emeralds]
+[04Aug2025 16:08:19.300] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Voluntary Exile]
+[04Aug2025 16:09:14.846] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Fortuitous Militia]
+[04Aug2025 16:10:44.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Magic Writing]
+[04Aug2025 16:11:55.097] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [It Came from The Pit]
+[04Aug2025 16:12:26.410] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/29028, l='ServerLevel[world]', x=-261.20, y=68.00, z=-5815.71] died, message: 'Farmer was shot by Pillager'
+[04Aug2025 16:13:36.362] [dimthread_server_overworld/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/34552, l='ServerLevel[world]', x=632.50, y=11.00, z=-5284.50]
