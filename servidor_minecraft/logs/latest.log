@@ -435,3 +435,41 @@ java.lang.Exception: null
 [04Aug2025 04:59:38.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [04Aug2025 04:59:38.327] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
 [04Aug2025 04:59:43.607] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/91637, l='ServerLevel[world]', x=80.71, y=62.00, z=-1720.23] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 04:59:52.304] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/91631, l='ServerLevel[world]', x=86.04, y=63.00, z=-1734.89] died: Piglin Scout was shot by SUPATA123
+[04Aug2025 04:59:59.374] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/91632, l='ServerLevel[world]', x=86.49, y=63.06, z=-1730.86] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 05:00:02.890] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/91633, l='ServerLevel[world]', x=88.50, y=63.75, z=-1737.49] died: Piglin Alchemist was shot by SUPATA123
+[04Aug2025 05:00:30.898] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['TRADER'/95646, l='ServerLevel[world]', x=9.05, y=59.00, z=-697.96] died: TRADER burned to death
+[04Aug2025 05:01:52.320] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/91630, l='ServerLevel[world]', x=83.62, y=54.06, z=-1736.50] died: Piglin Alchemist was shot by SUPATA123
+[04Aug2025 05:01:55.648] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/91629, l='ServerLevel[world]', x=84.48, y=54.06, z=-1737.12] died: Piglin Alchemist was shot by SUPATA123
+[04Aug2025 05:02:05.208] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/93233, l='ServerLevel[world]', x=85.05, y=56.00, z=-1754.98] died: Piglin Scout was shot by SUPATA123
+[04Aug2025 05:02:21.691] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/93234, l='ServerLevel[world]', x=65.32, y=55.00, z=-1771.68] died: Piglin Alchemist was shot by SUPATA123
+[04Aug2025 05:04:24.744] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 05:04:24.756] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 05:04:31.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Piglin
+[04Aug2025 05:04:44.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[04Aug2025 05:05:02.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[04Aug2025 05:05:24.553] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/93297, l='ServerLevel[world]', x=111.39, y=56.00, z=-1777.39] died: Piglin Paratrooper was shot by SUPATA123
+[04Aug2025 05:05:31.279] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 05:05:31.290] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 05:05:35.740] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 05:05:35.756] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 05:05:39.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Piglin
+[04Aug2025 05:05:45.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Piglin Knight
+[04Aug2025 05:05:56.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[04Aug2025 05:06:16.292] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/98912, l='ServerLevel[world]', x=116.96, y=56.00, z=-1777.60] died: Piglin Knight was shot by SUPATA123
+[04Aug2025 05:06:26.209] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/98933, l='ServerLevel[world]', x=115.88, y=56.00, z=-1783.55] died: Piglin Paratrooper was shot by SUPATA123
+[04Aug2025 05:07:38.694] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 05:07:38.702] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 05:07:46.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Piglin
+[04Aug2025 05:08:00.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04Aug2025 05:09:57.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Aug2025 05:10:17.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4532ms or 90 ticks behind
+[04Aug2025 05:10:34.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2165ms or 43 ticks behind
+[04Aug2025 05:11:24.583] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/99004, l='ServerLevel[world]', x=73.61, y=35.44, z=-1716.36] died: Piglin Knight tried to swim in lava
+[04Aug2025 05:12:07.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> tienes cuerda
+[04Aug2025 05:12:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> SI
+[04Aug2025 05:12:23.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> aqui hay goblin
+[04Aug2025 05:12:44.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> ESPERA
+[04Aug2025 05:12:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> VOY A TRAER
+[04Aug2025 05:13:30.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Aug2025 05:13:41.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> YA P
