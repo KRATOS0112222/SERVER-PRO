@@ -241,3 +241,6 @@ java.lang.Exception: null
 [04Aug2025 02:24:22.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [04Aug2025 02:30:05.199] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Double Trouble]
 [04Aug2025 02:33:16.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [You Are A Pirate]
+[04Aug2025 02:40:50.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Fighting Nightmares]
+[04Aug2025 02:42:28.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[04Aug2025 02:43:07.538] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Junior Summoner]

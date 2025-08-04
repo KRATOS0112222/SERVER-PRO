@@ -8444,15 +8444,51 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_parrying_dagger": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_sword": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8498,6 +8534,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-08-04 00:43:13 +0000"
@@ -8507,6 +8549,12 @@
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-08-03 23:57:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8528,9 +8576,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_hoe": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8540,9 +8600,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_greatsword": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8570,9 +8660,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/lead_boomerang": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8585,6 +8687,12 @@
   "spartanweaponry:recipes/lead_flanged_mace": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8624,6 +8732,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_lance": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
@@ -8642,9 +8756,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_rapier": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8672,6 +8822,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_pickaxe": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
@@ -8684,15 +8846,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-08-04 00:57:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_battleaxe": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8711,6 +8903,12 @@
   "spartanweaponry:recipes/lead_tomahawk": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8762,6 +8960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-08-04 01:20:58 +0000"
@@ -8780,9 +8984,45 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/lead_scythe": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8795,6 +9035,12 @@
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-08-04 02:24:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8822,9 +9068,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_longsword": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8858,6 +9128,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_axe": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
@@ -8879,6 +9155,12 @@
   "spartanweaponry:recipes/lead_spear": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8906,6 +9188,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_scythe": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
@@ -8918,15 +9206,57 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-08-04 01:49:14 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_myrmex": {
     "criteria": {
       "chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8942,9 +9272,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/lead_katana": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8963,6 +9305,18 @@
   "spartanfire:recipes/desert_myrmex_chitin_halberd": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
@@ -8996,6 +9350,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-08-04 01:56:54 +0000"
@@ -9014,9 +9392,33 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_heavy_crossbow": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
