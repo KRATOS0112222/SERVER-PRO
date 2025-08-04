@@ -231,3 +231,11 @@ java.lang.Exception: null
 [04Aug2025 02:11:47.057] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [04Aug2025 02:11:53.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 fell from a high place
 [04Aug2025 02:14:55.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=768, y=-53, z=-5756} BlockPos{x=769, y=-53, z=-5755}
+[04Aug2025 02:16:32.553] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Flexible Schedule]
+[04Aug2025 02:17:49.134] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 02:17:49.137] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 02:18:40.131] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 02:18:40.137] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 02:18:46.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 was slain by Zombie Brute
+[04Aug2025 02:18:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was shot by Summoned Skeleton
+[04Aug2025 02:24:22.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
