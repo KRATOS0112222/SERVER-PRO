@@ -15064,3 +15064,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 15:44:59.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [04Aug2025 15:45:18.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [04Aug2025 15:45:40.734] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 15:46:13.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 15:46:13.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 15:47:37.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[04Aug2025 15:47:37.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[04Aug2025 15:47:37.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[04Aug2025 15:47:37.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[04Aug2025 15:47:37.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[04Aug2025 15:47:38.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road3
+[04Aug2025 15:47:38.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road1
+[04Aug2025 15:47:38.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone1
+[04Aug2025 15:47:38.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/well
+[04Aug2025 15:47:38.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone3
+[04Aug2025 15:47:38.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/small_tower
+[04Aug2025 15:47:38.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone2
+[04Aug2025 15:47:38.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/dungeon2
+[04Aug2025 15:47:40.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[04Aug2025 15:47:47.130] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[04Aug2025 15:48:44.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [Cover Me in Debris]
+[04Aug2025 15:51:16.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 15:51:16.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 15:53:47.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 15:53:48.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 15:53:49.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 15:53:50.390] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

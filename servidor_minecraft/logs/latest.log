@@ -1259,3 +1259,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 15:44:41.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
 [04Aug2025 15:44:59.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [04Aug2025 15:45:18.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04Aug2025 15:47:40.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[04Aug2025 15:48:44.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [Cover Me in Debris]

@@ -7018,6 +7018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-04 15:46:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
       "has_fishing_rod": "2025-08-04 15:06:20 +0000"
