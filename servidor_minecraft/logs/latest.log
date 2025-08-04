@@ -281,3 +281,15 @@ java.lang.Exception: null
 [04Aug2025 03:47:53.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2287ms or 45 ticks behind
 [04Aug2025 03:48:24.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved too quickly! 3.8567985410151624,-1.4203014563238838,9.34010544069281
 [04Aug2025 03:48:24.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[04Aug2025 03:48:38.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=63, z=-5705} BlockPos{x=5, y=61, z=-718}
+[04Aug2025 03:48:38.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=63, z=-5705} BlockPos{x=5, y=61, z=-718}
+[04Aug2025 03:48:38.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=63, y=63, z=-5705} BlockPos{x=5, y=61, z=-718}
+[04Aug2025 03:51:09.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=60, z=-729} BlockPos{x=17, y=58, z=-729}
+[04Aug2025 03:51:31.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10, y=51, z=-731} BlockPos{x=11, y=50, z=-731}
+[04Aug2025 03:56:26.093] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/75176, l='ServerLevel[world]', x=61.51, y=54.00, z=-941.38] died: Skeleton Brother was shot by SUPATA123
+[04Aug2025 03:56:42.737] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/75607, l='ServerLevel[world]', x=46.09, y=37.00, z=-940.41] died: Skeleton Brother was shot by SUPATA123
+[04Aug2025 03:56:48.288] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/75174, l='ServerLevel[world]', x=54.94, y=37.00, z=-944.41] died: Skeleton Brother was shot by SUPATA123
+[04Aug2025 03:56:57.732] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Skeleton Brother'/75180, l='ServerLevel[world]', x=63.95, y=35.00, z=-937.84] died: Skeleton Brother was doomed to fall by grillo1320
+[04Aug2025 03:56:59.070] [dimthread_server_the_nether/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 03:56:59.074] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 03:57:36.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Fetch Me Their Souls!]

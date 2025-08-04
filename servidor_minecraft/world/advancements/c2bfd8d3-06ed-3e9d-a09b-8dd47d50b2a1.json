@@ -4781,6 +4781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-04 03:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
@@ -5408,6 +5414,12 @@
   "spartanfire:recipes/dragon_bone_boomerang": {
     "criteria": {
       "has_dragon_bone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-04 03:54:29 +0000"
     },
     "done": true
   },
@@ -6167,6 +6179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-04 03:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-08-04 01:43:31 +0000"
@@ -6182,6 +6200,12 @@
   "spartanweaponry:recipes/tin_tomahawk": {
     "criteria": {
       "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-08-04 03:54:29 +0000"
     },
     "done": true
   },
