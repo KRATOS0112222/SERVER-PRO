@@ -1316,3 +1316,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 17:45:58.128] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [04Aug2025 17:46:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was mauled by Necromancer's undead
 [04Aug2025 17:46:25.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[04Aug2025 18:35:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Cover Me with Diamonds]
+[04Aug2025 18:36:01.085] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 18:36:01.093] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 18:36:08.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Dire Hound Leader
+[04Aug2025 18:36:43.684] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Big Boy]
+[04Aug2025 18:37:41.970] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 18:37:41.995] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 18:37:47.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 suffocated in a wall
+[04Aug2025 18:37:48.006] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 18:38:09.539] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 18:38:09.541] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 18:38:16.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.floodgate
+[04Aug2025 18:38:50.736] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 18:38:50.738] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 18:38:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.bubble_spray
+[04Aug2025 18:40:09.588] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTrader['shaggy'/64535, l='ServerLevel[world]', x=65.25, y=63.50, z=-5696.75] died: death.attack.traveloptics.aqua_missiles
+[04Aug2025 18:40:09.589] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTrader['KRATOS'/64543, l='ServerLevel[world]', x=67.25, y=63.50, z=-5696.75] died: death.attack.traveloptics.aqua_missiles
+[04Aug2025 18:40:09.638] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['scooby'/64534, l='ServerLevel[world]', x=65.75, y=63.50, z=-5698.50] died: death.attack.traveloptics.aqua_missiles
+[04Aug2025 18:40:09.639] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['PROO'/64541, l='ServerLevel[world]', x=67.50, y=63.50, z=-5698.25] died: death.attack.traveloptics.aqua_missiles
+[04Aug2025 18:40:09.693] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/64537, l='ServerLevel[world]', x=65.70, y=63.50, z=-5700.50] died, message: 'death.attack.traveloptics.aqua_missiles'
+[04Aug2025 18:40:17.988] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Surge Protector]
