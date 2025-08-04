@@ -8460,9 +8460,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-08-04 00:43:13 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_metallurgy": {
     "criteria": {
       "dark_metallurgy_0": "2025-08-03 23:57:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
     },
     "done": true
   },
@@ -8478,9 +8490,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-08-04 00:43:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-08-04 00:43:38 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_quarterstaff": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-08-04 00:43:30 +0000"
     },
     "done": true
   },
@@ -8634,6 +8664,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_axe": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
@@ -8643,6 +8679,12 @@
   "spartanfire:recipes/desert_myrmex_chitin_saber": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
     },
     "done": true
   },
@@ -8667,6 +8709,12 @@
   "spartanfire:recipes/desert_myrmex_chitin_tomahawk": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-08-04 00:43:30 +0000"
     },
     "done": true
   },
