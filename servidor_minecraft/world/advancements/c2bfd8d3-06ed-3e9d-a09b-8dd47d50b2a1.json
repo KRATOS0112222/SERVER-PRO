@@ -4842,6 +4842,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-08-04 03:30:50 +0000",
+      "minecraft:soul_sand_valley": "2025-08-04 04:27:04 +0000",
       "minecraft:basalt_deltas": "2025-08-04 04:07:52 +0000"
     },
     "done": false
@@ -5038,6 +5039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-08-04 04:17:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
@@ -5083,6 +5090,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-08-04 04:26:38 +0000"
     },
     "done": true
   },
@@ -5179,7 +5192,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-08-04 04:01:20 +0000",
-      "incendium:quartz_flats": "2025-08-04 03:42:28 +0000"
+      "incendium:quartz_flats": "2025-08-04 03:42:28 +0000",
+      "incendium:volcanic_deltas": "2025-08-04 04:22:03 +0000"
     },
     "done": false
   },
@@ -5477,6 +5491,12 @@
     },
     "done": true
   },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-08-04 04:22:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:49 +0000"
@@ -5732,6 +5752,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-08-04 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-08-04 04:20:08 +0000"
     },
     "done": true
   },
@@ -6131,6 +6157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-08-04 04:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:59 +0000"
@@ -6233,6 +6265,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-08-04 04:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-04 00:37:59 +0000"
@@ -6242,6 +6280,12 @@
   "spartanweaponry:recipes/tin_boomerang": {
     "criteria": {
       "has_tin_ingot": "2025-08-04 01:05:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 04:20:13 +0000"
     },
     "done": true
   },
@@ -6365,6 +6409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-08-04 04:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-04 03:33:05 +0000"
@@ -6482,6 +6532,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-08-04 01:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-04 04:17:16 +0000"
     },
     "done": true
   },

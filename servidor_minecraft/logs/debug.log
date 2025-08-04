@@ -28255,3 +28255,253 @@ java.lang.Exception: null
 [04Aug2025 04:18:42.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 tried to swim in lava
 [04Aug2025 04:18:42.459] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:157, y:98, z:-1274, dim:minecraft:the_nether]
 [04Aug2025 04:18:42.462] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:19:38.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 burned to death
+[04Aug2025 04:19:38.991] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:156, y:100, z:-1273, dim:minecraft:the_nether]
+[04Aug2025 04:19:40.447] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[04Aug2025 04:19:40.963] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[04Aug2025 04:19:50.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[04Aug2025 04:20:08.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Most Useful Key]
+[04Aug2025 04:20:13.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [A Fast Comeback]
+[04Aug2025 04:20:14.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[04Aug2025 04:20:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hellfire Mantle]
+[04Aug2025 04:21:22.411] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x1_l2 is being run through DFU (hash fd294cb71258dfff27099c60aa142a63c39ca90f106cb771877f8f287d1f6442), this will cause launch time delays
+[04Aug2025 04:21:23.258] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_main is being run through DFU (hash 5732e26fb8226e16e15cf8dd8e79d0bfbb0e09943a037b648d64aec30d5d054e), this will cause launch time delays
+[04Aug2025 04:21:23.841] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l2 is being run through DFU (hash 5c362b041a58640733daedc05b77666b6ac36d25183b7e2929abd612bb780a4b), this will cause launch time delays
+[04Aug2025 04:21:24.088] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_2x1 is being run through DFU (hash 481b91e1450d0bccec91a7d5d98d2b7ab7b4ab9e7412ef89ed7beab5587977d8), this will cause launch time delays
+[04Aug2025 04:21:24.183] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l2 is being run through DFU (hash 35f57725feadaa0a957aaaa4e79c990d5545fb471e8ffb3d5480a3af39d0dbb4), this will cause launch time delays
+[04Aug2025 04:21:24.261] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3 is being run through DFU (hash f153841a40656b021235c6cbb1297424973d8a428c18e1fa20c5601f6c9f7723), this will cause launch time delays
+[04Aug2025 04:21:24.511] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l3 is being run through DFU (hash 81b8007f23aaf5cc78ff3961f1217f663549ef7945baf5505a43cc4b0c209dad), this will cause launch time delays
+[04Aug2025 04:21:24.569] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x1_l3 is being run through DFU (hash 192c3adcba94605f8ad4e1b47293e53e1960c493b78af1d45819bd9318536cd4), this will cause launch time delays
+[04Aug2025 04:21:24.667] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/storage is being run through DFU (hash acff26d1be40bf88d3f0b80c86f9bb5cbcb9ade055008d96d153ed605c0ea7cd), this will cause launch time delays
+[04Aug2025 04:21:24.699] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/shock_troop is being run through DFU (hash a8a55635cbbb85f86b1658e5401e889aa0d6c468041ebff0fcd56d660b29437c), this will cause launch time delays
+[04Aug2025 04:21:24.713] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/coolant_room is being run through DFU (hash 229442f8abab9ca8e2484d4178c354285a7d15c832ccadf9af5bd8da02093c92), this will cause launch time delays
+[04Aug2025 04:21:24.733] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/kitchen is being run through DFU (hash 15021c9d6882d24471a7715da9b1af075b32f6e811183b17357cd8905455639f), this will cause launch time delays
+[04Aug2025 04:21:24.771] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing is being run through DFU (hash 38208be29806ecd7bef79f33520ca6205e0f13bfcb20a174de486289fc5d3e44), this will cause launch time delays
+[04Aug2025 04:21:24.820] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3_alt is being run through DFU (hash d8b4ceaa3939a3d7ab19fb1c421bbd5847fd932e9a4cfaceb185f6b5f0e4eb6b), this will cause launch time delays
+[04Aug2025 04:21:24.980] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate3 is being run through DFU (hash 486c4e3ede277965a67ad50569949ed5f8674eb2f4c0fc1dfee0181e79954a92), this will cause launch time delays
+[04Aug2025 04:21:25.011] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate is being run through DFU (hash 1532467e9ee42e1ccd626e3cfec29e742e76e800ee49c4de650aa129844ac761), this will cause launch time delays
+[04Aug2025 04:21:25.029] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/archer is being run through DFU (hash 6d0cc24a884d6e855f4631741955b7488628df73c9894bd6abeae0a7b384ddeb), this will cause launch time delays
+[04Aug2025 04:21:25.045] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_1x1 is being run through DFU (hash 3247bcac13485f0b49c125b907e9ca4f2d8eb7d44893019fa013b7b53a629098), this will cause launch time delays
+[04Aug2025 04:21:25.093] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/corridors is being run through DFU (hash b06a625724574d309308623059d68b33bd4911370535f576b8eae7927f5e9a66), this will cause launch time delays
+[04Aug2025 04:21:25.111] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15 is being run through DFU (hash d3915e9fb1c16b0139533fe9641347f85b273b9cc3fc36d3fc0a7ce46f13603b), this will cause launch time delays
+[04Aug2025 04:21:25.132] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15_compat is being run through DFU (hash 7e5dc38539a504a294004469361a0453274f59a92d8bcd4c7069ce5d7be6d7c7), this will cause launch time delays
+[04Aug2025 04:21:25.156] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15w is being run through DFU (hash c7577f08da449dbff07262cc26a1da05798b38a406b1527543a93961f1cc44de), this will cause launch time delays
+[04Aug2025 04:21:25.174] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_corner is being run through DFU (hash 920f27d007c214ea46ee0edf93f8a62622b16638c6f3719b1864c7781c1e2c2d), this will cause launch time delays
+[04Aug2025 04:21:25.191] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_10 is being run through DFU (hash 87b0a593989cb1fdf6a64c467439fa2205209df4b4c31eefbf863c0983122e16), this will cause launch time delays
+[04Aug2025 04:21:25.204] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/crossroads1 is being run through DFU (hash aaf3c0996d3f5ae6287902c51a3a9d3caf493f107709bb94f659b69dda5fe83a), this will cause launch time delays
+[04Aug2025 04:21:25.215] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel1 is being run through DFU (hash 2fde4ac5dd46c086d149fa2b989e34f54bf6668a7f896d77d8e3f2b7969008de), this will cause launch time delays
+[04Aug2025 04:21:25.217] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs1 is being run through DFU (hash 573d4031bfa8b1efdebb1744cf2a84997ca75965bd2ff89984f3d111185cb1f8), this will cause launch time delays
+[04Aug2025 04:21:25.218] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel2 is being run through DFU (hash 6231b305a8bd2bc07639cd15e7eae9fc639b4952c1eb5cd82d732c8bac5f7385), this will cause launch time delays
+[04Aug2025 04:21:25.219] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs2 is being run through DFU (hash 4f0b1e3fcf4fde6fd70e0a4b37ee1347c279cd45a4b01b9e11ba3ea6299572c7), this will cause launch time delays
+[04Aug2025 04:21:25.221] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/light2 is being run through DFU (hash e47784b770d519e75b0d3230445b47157ab698537f5f12bfddfe3eae05370127), this will cause launch time delays
+[04Aug2025 04:21:25.224] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/light1 is being run through DFU (hash 14cdf883bd4c3b81e1aafe9f1841a71c3a362f41e890a6b8db10cbf6dc6888a6), this will cause launch time delays
+[04Aug2025 04:21:25.225] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs3 is being run through DFU (hash fa66a3b8e3a6a91927a2ec56e72294b1f846210b30500b51cde7d28eee6d81a0), this will cause launch time delays
+[04Aug2025 04:21:25.227] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel3 is being run through DFU (hash 1a686f59649334d34b2a8b4a7d1e7b3d3de334e2e8d93e1400df03b603c59145), this will cause launch time delays
+[04Aug2025 04:21:25.229] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs4 is being run through DFU (hash 38881470a8cfa32f653a80e13c24c8a1171285e9ab7c1f4b9a2fd042b42ccdb1), this will cause launch time delays
+[04Aug2025 04:21:25.231] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c2 is being run through DFU (hash b107ec42c66dece2440096f6297902ca719a5c09e91b7dc6d0572372a55d337b), this will cause launch time delays
+[04Aug2025 04:21:25.232] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c1 is being run through DFU (hash 18bacc9eb783896439c81aa642af5ce5fdb1a30693704eda35d54d207272e76a), this will cause launch time delays
+[04Aug2025 04:21:25.233] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c3 is being run through DFU (hash 26b2cfd974a4820739a885bc38fbeb62c89923465bbd3dcd5b276cb7da8f5cb0), this will cause launch time delays
+[04Aug2025 04:21:25.234] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w2 is being run through DFU (hash fac036faabddaab41f3fa0dce921d46ec7498c88cddf74ec33db42758814964d), this will cause launch time delays
+[04Aug2025 04:21:25.236] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w1 is being run through DFU (hash 66f4986b727d24ce23748ffa755c21128836e1dcf59f1668bc03cb4103bd34bc), this will cause launch time delays
+[04Aug2025 04:21:25.237] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w3 is being run through DFU (hash dbdefe508b7912c03ccd373bc196490c328d485864bbf852242f4b5a98344416), this will cause launch time delays
+[04Aug2025 04:21:25.241] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/odd_treasure is being run through DFU (hash 6c25b5187eac6373c48db213bc10e6a452cf10498e576f89ad7ae2288334c7e8), this will cause launch time delays
+[04Aug2025 04:21:25.274] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/magma_room is being run through DFU (hash fe038dbe2947e331140de5ba21902eaee56f12c01fb19f707cdbd49f45f63a5c), this will cause launch time delays
+[04Aug2025 04:21:25.627] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/throne_room is being run through DFU (hash 9de6a69e964d0e9b71ef5eb5bccdf26a69bc660bf0c752bce67a476db55bbcee), this will cause launch time delays
+[04Aug2025 04:21:25.921] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_small is being run through DFU (hash 40b1fd3ef8248b68e77e3e2c1ef8df61294147556524570047d597271e0362e7), this will cause launch time delays
+[04Aug2025 04:21:25.991] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/dining is being run through DFU (hash 7ab3014f33ca41720940744024532fb68aa210e64abc8290f8764b6219376f90), this will cause launch time delays
+[04Aug2025 04:21:26.028] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short2 is being run through DFU (hash cf5e59c84d9292709e0b11b96df3329f37917ee4906d7bea4235c843e6c6c950), this will cause launch time delays
+[04Aug2025 04:21:26.035] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/strider_pen is being run through DFU (hash c50717c3bee264bd51a2086ed2d85c64fc418d915f689ceb065e010a13aba0b2), this will cause launch time delays
+[04Aug2025 04:21:26.054] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/pyro is being run through DFU (hash a1e6d792b40e5731a4e50c70b442fb9c3e937f5eb7b99257287e639b766b624b), this will cause launch time delays
+[04Aug2025 04:21:26.074] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1 is being run through DFU (hash 704f686a67931a13efb2a1386796360fb996c11d1a745b0059b275c9065025a5), this will cause launch time delays
+[04Aug2025 04:21:26.079] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_gold is being run through DFU (hash 997183b71a923ddc251a357bfb47c310d25d117e7dd1ca4cec6b847b5d6cdc99), this will cause launch time delays
+[04Aug2025 04:21:26.092] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/blacksmith is being run through DFU (hash a37ff30e340fa862095e92544b6557a5e3b23ebe17f7d87c5d2a771e0ffd8a2d), this will cause launch time delays
+[04Aug2025 04:21:26.156] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/statues/king_ruined1 is being run through DFU (hash d20500e6a0a0fcad89727b68c6124859c1241463629e4f1216d175867283e4d9), this will cause launch time delays
+[04Aug2025 04:21:26.285] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cell is being run through DFU (hash c97528a624199d6ce6f9a666a2ea98015156e484b63d8d5ccecef2a978b80154), this will cause launch time delays
+[04Aug2025 04:21:26.291] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor1 is being run through DFU (hash 25ad478c9bb6f0fa8525872067524350c44a82db0f81d49c71d0419c94ab866f), this will cause launch time delays
+[04Aug2025 04:21:26.294] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove2 is being run through DFU (hash dbc1d8ce41fe99c00c74b961b34ae70991369feeb49f859edd3b5850eaece11c), this will cause launch time delays
+[04Aug2025 04:21:26.296] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove9 is being run through DFU (hash f42e42f64622f5df9978c36b6556a9531a2ff6da96a3748979e97ff1245a256e), this will cause launch time delays
+[04Aug2025 04:21:26.297] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove7 is being run through DFU (hash 449d30e7a22e016482a630ad0554d1037c2f29c545a7e2a82b1f92a43fad1853), this will cause launch time delays
+[04Aug2025 04:21:26.299] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove12 is being run through DFU (hash a59c6f3d371d9131858216da63b81b60f580b4883bd729b1164f49a6ba351155), this will cause launch time delays
+[04Aug2025 04:21:26.300] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor2 is being run through DFU (hash 795c7a39bd3b6b1f60856bbcb1517664fae8171687ec28931834a6e3be6b5f45), this will cause launch time delays
+[04Aug2025 04:21:26.305] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove14 is being run through DFU (hash 06ecf85a335deae65637fcf5ce35239e7ac389b4ddc2505e867e97fbc6b55576), this will cause launch time delays
+[04Aug2025 04:21:26.307] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove6 is being run through DFU (hash 9e2dc7d3dda776dc443966bbdefcf5cff6aa094ce44aebc53704432d200b58ef), this will cause launch time delays
+[04Aug2025 04:21:26.317] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d1 is being run through DFU (hash 0a71166328e02fb94c61a1f34752c281bf73223bf82a1ada215a00921a9c6165), this will cause launch time delays
+[04Aug2025 04:21:26.361] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d2 is being run through DFU (hash 9aab6eb4871dd41fce66cdd767283341eff96b9f7ec1cc7a0ff759c77bd23eb7), this will cause launch time delays
+[04Aug2025 04:21:26.387] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_backup is being run through DFU (hash 0530d2e3a62ab493253713f2bcf99f0697d89c2134819a241eac9927b0c4a108), this will cause launch time delays
+[04Aug2025 04:21:26.395] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/crossroads/decor2 is being run through DFU (hash cc32df30fd366380855a817f094d86fae78543cc16350b4ce6e9b25205bccd22), this will cause launch time delays
+[04Aug2025 04:21:26.398] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor1 is being run through DFU (hash de48a3ea0d6bdc4d1151cc6b10458574cf0ed0b9665de9ccabb0a1856dec56eb), this will cause launch time delays
+[04Aug2025 04:21:26.401] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/war_table is being run through DFU (hash 184965157ff5ce8ceb78e30f6944b385c1b9bf486a0cbab9b34b6b1431aafb0f), this will cause launch time delays
+[04Aug2025 04:21:26.417] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_1 is being run through DFU (hash 20725f57ff6dccbe4a64d3de9da236cf71d8dfb9cf1aec423173feeb02795f88), this will cause launch time delays
+[04Aug2025 04:21:26.443] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor4 is being run through DFU (hash 7b5fb082ab5176729187cd68a9b09726b58ab87e883249fa70e858a78755d7b9), this will cause launch time delays
+[04Aug2025 04:21:26.445] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove10 is being run through DFU (hash b53615fd2e41f15bd4f0171b01d1d8a578ec500b14b680b1955da0c3186cf569), this will cause launch time delays
+[04Aug2025 04:21:26.449] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_5 is being run through DFU (hash 1c18099ee402dc8f1edf0bc89117772a80baad8c5a5781dad51f0dd29732b7a4), this will cause launch time delays
+[04Aug2025 04:21:26.458] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove4 is being run through DFU (hash 39c0c67e3a9673cbd2c97a158622c20104e44519fbc4c76e40ac3454ae3e91c5), this will cause launch time delays
+[04Aug2025 04:21:26.465] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove13 is being run through DFU (hash aaf4d2430bd1889894f9634bffd3c6a1b2fb71ffe55a22bf791ae4e4f1256b2f), this will cause launch time delays
+[04Aug2025 04:21:26.467] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove8 is being run through DFU (hash 82f1d0d947952f4819bb2ae61efae730d5a87fa014408cc334538c12c37bc31e), this will cause launch time delays
+[04Aug2025 04:21:26.470] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pigstep is being run through DFU (hash 2c3c9f51ce1fc6f07424b0cb4c21f879b5615a1e5636a4f252e586060269ce50), this will cause launch time delays
+[04Aug2025 04:21:26.480] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table2 is being run through DFU (hash f14de7f70526efdb042f418f81334b38043bd725659b7e1fa144407b9a7c3f2b), this will cause launch time delays
+[04Aug2025 04:21:26.483] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small3 is being run through DFU (hash 5c59dca773286a2a88f668c7a9bdf90810ff19b65003b8eb1a0eb26e4c1e2628), this will cause launch time delays
+[04Aug2025 04:21:26.485] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small2 is being run through DFU (hash 88d55e517f8aae14402dce491cc6d72e6916736f8c96d2363ea3655daaa88999), this will cause launch time delays
+[04Aug2025 04:21:26.486] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table1 is being run through DFU (hash 409092f96f258af8c7f811852d856258f1bd0c79a51bd9b11858489ce3e91ed8), this will cause launch time delays
+[04Aug2025 04:21:26.491] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small1 is being run through DFU (hash ee0415a08738ceb00ae5ccd38a1876b352ee22106dd8f9e969e28b79a2ed8773), this will cause launch time delays
+[04Aug2025 04:21:26.494] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/house_1x1 is being run through DFU (hash 16ee77a4d5d51867ddad884f87610785e60fe667aaef6007afdcdc0afe63ad9b), this will cause launch time delays
+[04Aug2025 04:21:26.507] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing_w is being run through DFU (hash 6b227cde7f7be104c34326d5a1319a090002d65183e78b5cb5ededcf25aaafdf), this will cause launch time delays
+[04Aug2025 04:21:26.529] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/bridges/bridge1 is being run through DFU (hash e64e8ae8df4ef0520c9624f099b5ce5e062a966ff83c013895a894c74401ad5b), this will cause launch time delays
+[04Aug2025 04:21:26.532] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor6 is being run through DFU (hash 79ed125ea232bfc95c06144ae9d02ef23ec21d02fe5f616ad96202808922bc78), this will cause launch time delays
+[04Aug2025 04:21:26.535] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_3 is being run through DFU (hash 66efcbe05f2ac29af828764826874af1715387eb37b28938afa3bb40205888ce), this will cause launch time delays
+[04Aug2025 04:21:26.547] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cryostasis_chamber is being run through DFU (hash f3f7d063082f8fabf919f1295981338a962018d4a36dd877bb98b9b61b8a1e92), this will cause launch time delays
+[04Aug2025 04:21:26.567] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq1 is being run through DFU (hash df369eb9c1e515ef6f6b908ecb55b545864d1abc4c417ad2ae8d48ac4d3cfb5b), this will cause launch time delays
+[04Aug2025 04:21:26.581] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/ocean_portal is being run through DFU (hash 91c51fcb53aa42b9843a863bc4ad69a117290edb388c0f7cbe795d95b1e81cde), this will cause launch time delays
+[04Aug2025 04:21:26.596] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/armory_1 is being run through DFU (hash ee1713b38f1454cfbe0e0aa7b6aa3fa92110daad6d1fb12e33e7606afca11ae6), this will cause launch time delays
+[04Aug2025 04:21:26.694] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_6 is being run through DFU (hash 1ab5b01d1aaf3bb29620ffa845c70a741e050429a22a228351f44f132462def2), this will cause launch time delays
+[04Aug2025 04:21:26.705] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1_hoglin is being run through DFU (hash 127513bb46e7cea9b392f0a53a1b1cad6ba9b80c419c1ff0bad8c7e6544486e3), this will cause launch time delays
+[04Aug2025 04:21:26.717] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/treasure_netherite is being run through DFU (hash b3cd8088634bcfbf2a963d440440dc09f1934c1107f39fcb928d96f0baf84a25), this will cause launch time delays
+[04Aug2025 04:21:26.732] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq2 is being run through DFU (hash 27b003d52f5b2286596b1a3b486f5b0ba7507db29f2fc4a275961fbc42b391f8), this will cause launch time delays
+[04Aug2025 04:21:26.746] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_2 is being run through DFU (hash 85fd3ed0ea8cff4f3a79530b3c73bc28968d6ef5f3b8c6e5facfb61a66a9ab71), this will cause launch time delays
+[04Aug2025 04:21:26.761] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_8 is being run through DFU (hash 7f8289537156aa830c6cc5b273938cfd329495fe2e82f3da24b04be79a868c19), this will cause launch time delays
+[04Aug2025 04:21:26.781] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pig_ben is being run through DFU (hash f50d99e478053f6778ebf88a6d60b786029db89bcb3b227dd3bd6f5c77d7d581), this will cause launch time delays
+[04Aug2025 04:21:26.855] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/archery_tower is being run through DFU (hash 3cdac9b175b1745001631ee79b383f6855f8b3549564a40bc0d2ff199387a5a2), this will cause launch time delays
+[04Aug2025 04:21:26.879] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_4 is being run through DFU (hash e2bc29fe93203dc41b594eaf448290d42700b061b0e4d0ce37f2abc2a4041fd8), this will cause launch time delays
+[04Aug2025 04:21:26.906] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_1 is being run through DFU (hash 0c061032cc41ffac892476ffa8603198e627de4db55548e94e6cf0e867de035b), this will cause launch time delays
+[04Aug2025 04:21:26.928] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool4 is being run through DFU (hash 13437ca3f2a07ca102d5f073b12b2c7a41ed6ce319f77ee7170789af8eb2c1e5), this will cause launch time delays
+[04Aug2025 04:21:26.943] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool1 is being run through DFU (hash 703ed201bdbcfb8f5bb09429d105dddbfc72a8f062fae72b85db006e3246998d), this will cause launch time delays
+[04Aug2025 04:21:26.961] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool2 is being run through DFU (hash fd360ee4d586d4a71fcaf3654d3fa3e15a1be84e93a904c8398a242135ac1242), this will cause launch time delays
+[04Aug2025 04:21:26.985] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool3 is being run through DFU (hash 4b6c302bd8e6baa2858a3f7f761771bc9177d1d5d6f9236f23ad227763b1048a), this will cause launch time delays
+[04Aug2025 04:21:27.011] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight is being run through DFU (hash 4107d7897b8634939926aabe8cf3fa0c6a18adba25d56f0f57449d0e065a386b), this will cause launch time delays
+[04Aug2025 04:21:27.020] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/crossroads/decor1 is being run through DFU (hash 38b6f84706a798d66ed09a4165ba139eec7c062b8064f09bdaf90fce9c805caa), this will cause launch time delays
+[04Aug2025 04:21:27.024] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor3 is being run through DFU (hash 1f5ae44df04752073c033471fccb557ffdde2084f92774ac8f9abbe6737856b7), this will cause launch time delays
+[04Aug2025 04:21:27.032] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_2 is being run through DFU (hash 27082ec0ae65bc920d67ca30886cdf6685ed3479e2b2e1d8e0a32c3aa578021a), this will cause launch time delays
+[04Aug2025 04:21:27.054] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/pyromancer is being run through DFU (hash ecb7c536b6e8981da5bd444b507af082b37c51769b29dd270bc4f5a96a9c01d2), this will cause launch time delays
+[04Aug2025 04:21:27.064] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_netherite is being run through DFU (hash 1f29f3ba4ff0a764f45e841875abfd92f6fd338e60422c9444ae59ce9ab904e9), this will cause launch time delays
+[04Aug2025 04:21:27.071] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor2 is being run through DFU (hash 325c0aadd9873daeef187fb7103d1cb67b66029b9fe75f2fdb499233e4ed4d7e), this will cause launch time delays
+[04Aug2025 04:21:27.073] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/blacksmith is being run through DFU (hash 3b782db9eca85451f3ee97e0f9e2cd2f529d602f0286988d084761ba2f535c97), this will cause launch time delays
+[04Aug2025 04:21:27.081] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_guard is being run through DFU (hash b4f0888d665fc61862e3ede764fa215fdfdfa8b5a93e2179acb159e4e573726e), this will cause launch time delays
+[04Aug2025 04:21:27.102] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_base is being run through DFU (hash ac404f7915bd641821149a2f1b09c1398d445825856f09d3b06e511da2f0f1a1), this will cause launch time delays
+[04Aug2025 04:21:27.110] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/alchemist is being run through DFU (hash 7b59154803c0fd581e6d94457f855943cdad6d72b39127dd9bcfc32a74334243), this will cause launch time delays
+[04Aug2025 04:21:27.119] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/scout is being run through DFU (hash 8f01827d88eb8b2d27b117cdfe85e76e60256360acab401ab8408900be1cf30e), this will cause launch time delays
+[04Aug2025 04:21:27.130] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove1 is being run through DFU (hash 1b12e88f3c5a33353f4c3b9cb5207984dbae19664a5b7abd37d1df238584a143), this will cause launch time delays
+[04Aug2025 04:21:27.132] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove5 is being run through DFU (hash 4fcb8a77583640003c7e75224dd6468abb96e1372c6000e355dfc5531dce3feb), this will cause launch time delays
+[04Aug2025 04:21:27.157] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_diamond is being run through DFU (hash 20b7fbd3dfcbe7eb57715d56ecb8336022fcec8113a41c010b67144b2cdd1f64), this will cause launch time delays
+[04Aug2025 04:21:27.177] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/statues/small4 is being run through DFU (hash ff87061e2337e647c6c13793affa5b5d1e4694f8372af6a9dd6bc1879d523d38), this will cause launch time delays
+[04Aug2025 04:21:27.182] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/statues/small1 is being run through DFU (hash baadc2db45ed7224343ee0e3c6eb1a4d800adc794dfaabf8b678cf3add553306), this will cause launch time delays
+[04Aug2025 04:21:27.186] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand2 is being run through DFU (hash c21ae4ba40ecae7f99bfb35491926c2c284454e4c4daf84f2f8ad2a9f47f1316), this will cause launch time delays
+[04Aug2025 04:21:27.192] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1_w is being run through DFU (hash d015463916324afba2105e16015bfc3fb73411f4394ced54b802bd1e794358e1), this will cause launch time delays
+[04Aug2025 04:21:27.197] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand4 is being run through DFU (hash 3d4dc78799f286bcdabe75fc711acc843c3da6d358f4648b716062ead63417a6), this will cause launch time delays
+[04Aug2025 04:21:27.203] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table2_w is being run through DFU (hash 33336284493df03de35f1b6f539d70e0ceb846901d0163cc6576a32bb1795730), this will cause launch time delays
+[04Aug2025 04:21:27.214] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm2_w is being run through DFU (hash ce705a108e4566b424458d624c8205238e7f939b5bf0ea48e67b33573d5dec39), this will cause launch time delays
+[04Aug2025 04:21:27.218] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand3 is being run through DFU (hash a32c399882395657f26b6766a1830109a6f05395fd992f7a537ba336b9a1ab97), this will cause launch time delays
+[04Aug2025 04:21:27.223] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand6 is being run through DFU (hash 4ec31af4d4deb327b324ae3fe3560277c00ab3da133be2b1ef9731c8539f5e8a), this will cause launch time delays
+[04Aug2025 04:21:27.230] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/statues/small3 is being run through DFU (hash 7b096d536666f31b65f6e804753b9adaab48104f95dff98f9dfaa0913b37de96), this will cause launch time delays
+[04Aug2025 04:21:27.235] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand5 is being run through DFU (hash 7b62a5fdc721d9f7fa7688b120c55aba9bb2856dff4314f17629b03f6b61121f), this will cause launch time delays
+[04Aug2025 04:21:27.238] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1 is being run through DFU (hash a591b31fc9becf533efc6d556150c2cf6ba988647f7ae6574253e6a064a254bf), this will cause launch time delays
+[04Aug2025 04:21:27.241] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm2 is being run through DFU (hash f653d9b45eac4c828c5e246c3e4f1864a6030f6370d3f428da7e80c4b2e38d07), this will cause launch time delays
+[04Aug2025 04:21:27.245] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table1 is being run through DFU (hash 29abebbbf2330dce22ec2bd5b5a2aea9864855099ad64c0ce30e198a03b840f7), this will cause launch time delays
+[04Aug2025 04:21:27.253] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand1 is being run through DFU (hash be0dba5391e352bef6c8f459a08d5f03888f0169020ee98a641346f95c0561d2), this will cause launch time delays
+[04Aug2025 04:21:27.256] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm3 is being run through DFU (hash 3d6fac05ccf1c462a84095b5f36bc9ca27efd94e8e652ecf490f0a120c745fe3), this will cause launch time delays
+[04Aug2025 04:21:27.259] [Worker-Main-289/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table2 is being run through DFU (hash 61f5a12b8c2bcc5e7e94b867718753453b42408b1c64bf1076605bf3c5e9e685), this will cause launch time delays
+[04Aug2025 04:22:02.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:22:02.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:22:03.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Hellfire Mantle]
+[04Aug2025 04:24:10.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:10.695] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:10.753] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:10.796] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:10.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:10.909] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:10.955] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.000] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.047] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.047] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.149] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.149] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.203] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.203] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.355] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.356] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.399] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.453] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.453] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.501] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.501] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.553] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.553] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.605] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.699] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.757] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.802] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.849] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.899] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:11.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.103] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.155] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.204] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.247] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.401] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.446] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.550] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.748] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.845] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.918] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:12.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:24:38.412] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 04:24:38.459] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:24:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 fell from a high place
+[04Aug2025 04:24:47.574] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:177, y:68, z:-1312, dim:minecraft:the_nether]
+[04Aug2025 04:24:49.217] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[04Aug2025 04:25:08.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[04Aug2025 04:25:13.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4043ms or 80 ticks behind
+[04Aug2025 04:25:32.591] [Worker-Main-313/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[04Aug2025 04:25:32.958] [Worker-Main-313/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[04Aug2025 04:26:38.997] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Straddle My Ol' Saddle]
+[04Aug2025 04:26:40.836] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:40.886] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:40.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:40.994] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.048] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.092] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.142] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.189] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.288] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.343] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.443] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.489] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.537] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.592] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.641] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.690] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.740] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.791] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.888] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.938] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:41.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:42.043] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:42.088] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:26:42.138] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[04Aug2025 04:27:06.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 04:27:06.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 04:27:50.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 04:27:51.440] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 04:27:52.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 04:27:52.693] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 04:27:53.888] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[04Aug2025 04:27:53.891] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

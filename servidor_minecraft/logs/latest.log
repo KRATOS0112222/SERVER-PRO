@@ -321,3 +321,18 @@ java.lang.Exception: null
 [04Aug2025 04:18:38.998] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
 [04Aug2025 04:18:42.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 tried to swim in lava
 [04Aug2025 04:18:42.462] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:19:38.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 burned to death
+[04Aug2025 04:19:50.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[04Aug2025 04:20:08.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Most Useful Key]
+[04Aug2025 04:20:13.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [A Fast Comeback]
+[04Aug2025 04:20:14.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[04Aug2025 04:20:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Hellfire Mantle]
+[04Aug2025 04:22:03.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Hellfire Mantle]
+[04Aug2025 04:24:38.412] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 04:24:38.459] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:24:47.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 fell from a high place
+[04Aug2025 04:25:08.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[04Aug2025 04:25:13.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4043ms or 80 ticks behind
+[04Aug2025 04:25:32.591] [Worker-Main-313/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[04Aug2025 04:25:32.958] [Worker-Main-313/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[04Aug2025 04:26:38.997] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Straddle My Ol' Saddle]

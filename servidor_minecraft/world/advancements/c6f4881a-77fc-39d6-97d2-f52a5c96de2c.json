@@ -6967,6 +6967,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-07-30 23:42:17 +0000",
+      "minecraft:soul_sand_valley": "2025-08-04 04:22:35 +0000",
       "minecraft:basalt_deltas": "2025-07-30 23:52:57 +0000"
     },
     "done": false
@@ -7034,7 +7035,8 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:infernal_dunes": "2025-08-04 04:00:18 +0000",
-      "incendium:quartz_flats": "2025-07-30 23:44:46 +0000"
+      "incendium:quartz_flats": "2025-07-30 23:44:46 +0000",
+      "incendium:volcanic_deltas": "2025-08-04 04:20:45 +0000"
     },
     "done": false
   },
@@ -8907,6 +8909,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-08-04 04:20:45 +0000"
     },
     "done": true
   },
