@@ -336,3 +336,26 @@ java.lang.Exception: null
 [04Aug2025 04:25:32.591] [Worker-Main-313/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
 [04Aug2025 04:25:32.958] [Worker-Main-313/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
 [04Aug2025 04:26:38.997] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Straddle My Ol' Saddle]
+[04Aug2025 04:29:17.838] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 04:29:17.840] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:29:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 fell from a high place
+[04Aug2025 04:29:39.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[04Aug2025 04:30:12.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [The Dust Settles]
+[04Aug2025 04:30:56.142] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 04:30:56.144] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 04:31:16.538] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Not Today, Thank You]
+[04Aug2025 04:31:37.341] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 04:31:37.343] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:31:41.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The Dust Settles]
+[04Aug2025 04:31:41.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 tried to swim in lava
+[04Aug2025 04:31:41.842] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:32:01.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Let The Magic Happen]
+[04Aug2025 04:32:08.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
+[04Aug2025 04:33:08.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Those Were the Days]
+[04Aug2025 04:33:30.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [War Pigs]
+[04Aug2025 04:33:54.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Those Were the Days]
+[04Aug2025 04:36:16.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 moved wrongly!
+[04Aug2025 04:38:50.085] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[04Aug2025 04:38:50.087] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[04Aug2025 04:38:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 burned to death
+[04Aug2025 04:39:05.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind

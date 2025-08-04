@@ -1719,6 +1719,7 @@
       "minecraft:vindicator": "2025-07-31 00:37:43 +0000",
       "minecraft:magma_cube": "2025-07-26 18:08:17 +0000",
       "minecraft:spider": "2025-07-28 18:38:58 +0000",
+      "minecraft:piglin_brute": "2025-08-04 04:35:46 +0000",
       "minecraft:creeper": "2025-07-29 18:35:13 +0000",
       "minecraft:zombified_piglin": "2025-08-04 03:48:15 +0000",
       "minecraft:wither_skeleton": "2025-07-31 01:40:02 +0000",
@@ -7034,6 +7035,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-08-04 04:30:12 +0000",
       "incendium:infernal_dunes": "2025-08-04 04:00:18 +0000",
       "incendium:quartz_flats": "2025-07-30 23:44:46 +0000",
       "incendium:volcanic_deltas": "2025-08-04 04:20:45 +0000"
@@ -8450,15 +8452,39 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-04 04:37:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-04 04:31:16 +0000"
     },
     "done": true
   },
@@ -8582,6 +8608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
       "has_item": "2025-08-04 00:43:30 +0000"
@@ -8690,6 +8722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-08-04 00:43:13 +0000"
@@ -8717,6 +8755,12 @@
   "spartanweaponry:recipes/lead_saber": {
     "criteria": {
       "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
     },
     "done": true
   },
@@ -8843,6 +8887,12 @@
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed": "2025-08-04 00:11:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
     },
     "done": true
   },
@@ -9152,6 +9202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9185,6 +9241,12 @@
   "iceandfire:recipes/combat/armor_sapphire_boots": {
     "criteria": {
       "has_item": "2025-08-04 00:43:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 04:32:01 +0000"
     },
     "done": true
   },
@@ -9290,6 +9352,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-04 04:33:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9308,6 +9376,12 @@
     },
     "done": true
   },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-08-04 04:30:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
@@ -9323,6 +9397,12 @@
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
     },
     "done": true
   },
@@ -9520,9 +9600,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-08-04 04:34:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 02:41:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-04 04:34:01 +0000"
     },
     "done": true
   },
@@ -9535,6 +9627,12 @@
   "spartanfire:recipes/desert_myrmex_chitin_heavy_crossbow": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-08-04 04:33:08 +0000"
     },
     "done": true
   },
