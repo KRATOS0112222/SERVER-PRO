@@ -206,3 +206,7 @@ java.lang.Exception: null
 [04Aug2025 01:19:47.693] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [04Aug2025 01:20:58.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Sneak 100]
 [04Aug2025 01:21:39.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [They Have a Cave Troll!]
+[04Aug2025 01:25:02.206] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 01:25:02.232] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 01:29:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Magic Disenchantment]
+[04Aug2025 01:29:02.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Let The Magic Happen]
