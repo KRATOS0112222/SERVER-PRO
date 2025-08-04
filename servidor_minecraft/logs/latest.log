@@ -1427,3 +1427,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 21:23:03.805] [Worker-Main-440/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=372, y=120, z=-293}
 [04Aug2025 21:23:20.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
 [04Aug2025 21:23:38.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3311ms or 66 ticks behind
+[04Aug2025 21:23:56.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
+[04Aug2025 21:24:04.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Rescue Mission]
+[04Aug2025 21:24:16.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4570ms or 91 ticks behind
+[04Aug2025 21:24:27.337] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Fetch Me Their Souls!]
+[04Aug2025 21:24:34.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[04Aug2025 21:24:48.046] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/101519, l='ServerLevel[world]', x=684.70, y=62.00, z=-2206.06] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:26:48.693] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/102856, l='ServerLevel[world]', x=805.43, y=76.00, z=-2233.55] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:27:17.390] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/102900, l='ServerLevel[world]', x=806.70, y=96.00, z=-2250.28] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:27:29.941] [dimthread_server_the_nether/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [Border of Life]
+[04Aug2025 21:27:29.942] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/103502, l='ServerLevel[world]', x=804.50, y=111.00, z=-2280.50] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:27:31.689] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/103192, l='ServerLevel[world]', x=786.50, y=106.00, z=-2282.50] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:27:33.055] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/103193, l='ServerLevel[world]', x=787.50, y=106.00, z=-2283.50] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:27:35.020] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/102915, l='ServerLevel[world]', x=808.75, y=115.00, z=-2290.45] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:27:39.595] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/103503, l='ServerLevel[world]', x=820.25, y=109.11, z=-2275.14] died: Desert Blaze was shot by SUPATA123
+[04Aug2025 21:28:33.978] [dimthread_server_the_nether/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/103806, l='ServerLevel[world]', x=863.50, y=74.17, z=-2409.50] died: Desert Blaze was shot by SUPATA123

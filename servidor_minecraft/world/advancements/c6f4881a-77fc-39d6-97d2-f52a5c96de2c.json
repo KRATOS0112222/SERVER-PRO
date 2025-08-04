@@ -9866,5 +9866,23 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-08-04 21:24:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/rescue_mission": {
+    "criteria": {
+      "requirement": "2025-08-04 21:24:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-08-04 21:27:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

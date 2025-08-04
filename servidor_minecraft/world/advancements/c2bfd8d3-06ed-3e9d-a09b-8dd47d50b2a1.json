@@ -7242,9 +7242,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-04 21:32:59 +0000"
+    },
+    "done": false
+  },
   "dungeons_and_combat:the_man_of_steel": {
     "criteria": {
       "the_man_of_steel_0": "2025-08-04 20:08:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-08-04 21:26:58 +0000"
     },
     "done": true
   },
