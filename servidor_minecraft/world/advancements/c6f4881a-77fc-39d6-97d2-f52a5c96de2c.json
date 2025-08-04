@@ -8461,9 +8461,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_heavy_crossbow": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-04 01:49:14 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_spear": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_throwing_knife": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_lance": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -8485,9 +8509,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_longsword": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/myrmex_desert_hoe": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_greatsword": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -8497,9 +8533,45 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_parrying_dagger": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_battleaxe": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lead_tower_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-08-04 00:43:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_boomerang": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_saber": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_flanged_mace": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -8569,6 +8641,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_glaive": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_helmet": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
@@ -8599,9 +8677,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_warhammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_tomahawk": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_chestplate": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lead_basic_shield": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -8617,6 +8713,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-04 01:49:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/myrmex_desert_boots": {
     "criteria": {
       "has_item": "2025-08-04 00:12:08 +0000"
@@ -8626,6 +8728,12 @@
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-08-04 00:11:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_longbow": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
@@ -8641,15 +8749,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_scythe": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-08-04 00:39:36 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_pike": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-04 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-08-04 01:45:49 +0000"
     },
     "done": true
   },
@@ -8713,6 +8839,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_spear": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-04 01:07:59 +0000"
@@ -8731,6 +8863,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_rapier": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_scythe": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
@@ -8740,6 +8878,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-08-04 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-08-04 01:49:14 +0000"
     },
     "done": true
   },
@@ -8761,6 +8905,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_katana": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/desert_myrmex_chitin_flanged_mace": {
     "criteria": {
       "has_desert_myrmex_chitin": "2025-08-04 00:12:08 +0000"
@@ -8773,9 +8923,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/lead_quarterstaff": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_grave_marble": {
     "criteria": {
       "has_grave_marble": "2025-08-04 00:56:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_halberd": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_battle_hammer": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_dagger": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/lead_javelin": {
+    "criteria": {
+      "has_lead_ingot": "2025-08-04 01:42:22 +0000"
     },
     "done": true
   },
