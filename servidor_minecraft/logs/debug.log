@@ -19931,3 +19931,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 18:40:09.639] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['PROO'/64541, l='ServerLevel[world]', x=67.50, y=63.50, z=-5698.25] died: death.attack.traveloptics.aqua_missiles
 [04Aug2025 18:40:09.693] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/64537, l='ServerLevel[world]', x=65.70, y=63.50, z=-5700.50] died, message: 'death.attack.traveloptics.aqua_missiles'
 [04Aug2025 18:40:17.988] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Surge Protector]
+[04Aug2025 18:40:26.899] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 18:40:26.901] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 18:40:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.flood_slash
+[04Aug2025 18:40:34.462] [Server thread/DEBUG] [tombstone/]: A new grave of the player grillo1320 was created at position [x:52, y:64, z:-5721, dim:minecraft:overworld]
+[04Aug2025 18:40:35.672] [Server thread/DEBUG] [twilightforest/]: Player grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1) respawned and received items held in storage
+[04Aug2025 18:41:41.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 18:41:41.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Aug2025 18:42:17.825] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[04Aug2025 18:42:17.834] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[04Aug2025 18:42:17.837] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[04Aug2025 18:42:17.840] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[04Aug2025 18:42:17.842] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[04Aug2025 18:42:17.844] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[04Aug2025 18:42:17.849] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[04Aug2025 18:42:17.851] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[04Aug2025 18:42:17.852] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[04Aug2025 18:42:17.854] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[04Aug2025 18:42:17.856] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[04Aug2025 18:42:17.857] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[04Aug2025 18:42:17.858] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[04Aug2025 18:42:17.859] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[04Aug2025 18:42:17.860] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[04Aug2025 18:42:17.861] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[04Aug2025 18:42:17.863] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[04Aug2025 18:42:17.865] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[04Aug2025 18:42:17.867] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[04Aug2025 18:42:17.868] [dimthread_server_overworld/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[04Aug2025 18:45:50.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[04Aug2025 18:46:44.409] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Aug2025 18:46:44.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

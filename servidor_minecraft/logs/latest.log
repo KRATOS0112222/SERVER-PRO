@@ -1337,3 +1337,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 18:40:09.639] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['PROO'/64541, l='ServerLevel[world]', x=67.50, y=63.50, z=-5698.25] died: death.attack.traveloptics.aqua_missiles
 [04Aug2025 18:40:09.693] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/64537, l='ServerLevel[world]', x=65.70, y=63.50, z=-5700.50] died, message: 'death.attack.traveloptics.aqua_missiles'
 [04Aug2025 18:40:17.988] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Surge Protector]
+[04Aug2025 18:40:26.899] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[04Aug2025 18:40:26.901] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[04Aug2025 18:40:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: death.attack.traveloptics.flood_slash
+[04Aug2025 18:45:50.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
