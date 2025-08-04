@@ -1296,3 +1296,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Aug2025 16:58:46.426] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [04Aug2025 16:58:46.434] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [04Aug2025 16:59:28.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Zombie
+[04Aug2025 17:13:08.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[04Aug2025 17:13:08.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[04Aug2025 17:13:55.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:48925] logged in with entity id 49587 at (776.6973431355295, -57.0, -5728.179993037199)
+[04Aug2025 17:13:55.389] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[04Aug2025 17:13:55.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[04Aug2025 17:13:55.503] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
+[04Aug2025 17:14:53.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
+[04Aug2025 17:14:53.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[04Aug2025 17:15:25.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:55869] logged in with entity id 49826 at (776.6973431355295, -57.0, -5728.179993037199)
+[04Aug2025 17:15:25.900] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[04Aug2025 17:15:25.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[04Aug2025 17:15:25.957] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)

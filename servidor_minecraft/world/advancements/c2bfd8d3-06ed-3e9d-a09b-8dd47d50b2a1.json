@@ -7018,27 +7018,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
+  "aether:recipes/tools/fishing_rod_repairing": {
     "criteria": {
-      "upgrade_aquatic:pike": "2025-08-04 16:29:17 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/cooked_pike_from_campfire_cooking": {
-    "criteria": {
-      "has_pike": "2025-08-04 16:29:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-08-04 16:08:19 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2025-08-04 15:58:53 +0000"
+      "has_fishing_rod": "2025-08-04 15:06:20 +0000"
     },
     "done": true
   },
@@ -7048,15 +7030,39 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-08-04 15:58:53 +0000"
+    },
+    "done": true
+  },
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2025-08-04 16:07:49 +0000"
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/food/cooked_pike_from_smoking": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_pike": "2025-08-04 16:29:18 +0000"
+      "voluntary_exile": "2025-08-04 16:08:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-08-04 16:08:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-08-04 16:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:main/sludge": {
+    "criteria": {
+      "killed_sludge": "2025-08-04 16:11:55 +0000"
     },
     "done": true
   },
@@ -7074,21 +7080,21 @@
     },
     "done": true
   },
-  "aether:recipes/tools/fishing_rod_repairing": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_fishing_rod": "2025-08-04 15:06:20 +0000"
+      "upgrade_aquatic:pike": "2025-08-04 16:29:17 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/fortuitous_militia": {
+  "upgrade_aquatic:recipes/food/cooked_pike_from_campfire_cooking": {
     "criteria": {
-      "coded_trigger": "2025-08-04 16:09:14 +0000"
+      "has_pike": "2025-08-04 16:29:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "upgrade_aquatic:recipes/food/cooked_pike_from_smoking": {
     "criteria": {
-      "has_magma_cream": "2025-08-04 16:46:43 +0000"
+      "has_pike": "2025-08-04 16:29:18 +0000"
     },
     "done": true
   },
@@ -7098,21 +7104,15 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/magma_cube": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-08-04 16:46:43 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/crossbow_repairing": {
+  "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
-      "has_crossbow": "2025-08-04 16:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:main/sludge": {
-    "criteria": {
-      "killed_sludge": "2025-08-04 16:11:55 +0000"
+      "has_magma_cream": "2025-08-04 16:46:43 +0000"
     },
     "done": true
   },
