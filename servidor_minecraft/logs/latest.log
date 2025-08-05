@@ -1281,3 +1281,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 15:01:43.187] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
 [05Aug2025 15:01:43.190] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
 [05Aug2025 15:01:49.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 withered away
+[05Aug2025 15:03:05.388] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 15:03:05.390] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 15:03:13.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 withered away
+[05Aug2025 15:06:09.584] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 15:06:09.600] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 15:06:17.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 withered away
+[05Aug2025 15:08:13.886] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 15:08:13.889] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 15:08:20.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 withered away
