@@ -1791,3 +1791,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 20:16:16.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [05Aug2025 20:16:46.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
 [05Aug2025 20:17:33.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Aug2025 20:27:36.198] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 20:27:36.209] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 20:27:57.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Skull Deserter
+[05Aug2025 20:29:41.226] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 20:29:41.242] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 20:29:50.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Fallen Chaos Knight
+[05Aug2025 20:34:39.111] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 20:34:39.158] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 20:34:50.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 burned to death
+[05Aug2025 20:34:50.105] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 20:34:56.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Quickly Applied]
