@@ -16886,3 +16886,35 @@ java.lang.Exception: null
 [05Aug2025 20:56:14.748] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [05Aug2025 20:57:23.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
 [05Aug2025 20:57:36.662] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[05Aug2025 20:57:43.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[05Aug2025 20:58:01.555] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/67169, l='ServerLevel[world]', x=1537.86, y=54.55, z=-6100.30] died, message: 'Unemployed drowned'
+[05Aug2025 20:58:03.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4846ms or 96 ticks behind
+[05Aug2025 20:58:22.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4857ms or 97 ticks behind
+[05Aug2025 20:58:28.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 20:58:28.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 20:58:38.636] [Worker-Main-206/DEBUG] [ModernFix/]: Structure iceandfire:mausoleum/building is being run through DFU (hash 2334374839732f1599cf9b287f7fd21e55344822fabc0f71f67a08f4e92454ab), this will cause launch time delays
+[05Aug2025 20:58:41.824] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[05Aug2025 20:58:41.830] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[05Aug2025 20:58:41.830] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[05Aug2025 20:58:41.844] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[05Aug2025 20:58:41.859] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[05Aug2025 20:58:41.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3970ms or 79 ticks behind
+[05Aug2025 20:58:41.884] [Worker-Main-192/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[05Aug2025 20:58:42.110] [Worker-Main-206/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[05Aug2025 20:59:00.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3690ms or 73 ticks behind
+[05Aug2025 20:59:06.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 20:59:11.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 20:59:36.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 21:00:22.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Into Fire]
+[05Aug2025 21:00:34.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05Aug2025 21:00:53.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
+[05Aug2025 21:02:12.087] [Worker-Main-192/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1250, y=29, z=-5750}
+[05Aug2025 21:02:12.088] [Worker-Main-192/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1240, y=29, z=-5751}
+[05Aug2025 21:02:12.089] [Worker-Main-192/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1251, y=29, z=-5745}
+[05Aug2025 21:02:12.109] [Worker-Main-192/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=1251, y=29, z=-5745}
+[05Aug2025 21:02:15.244] [Worker-Main-108/DEBUG] [ModernFix/]: Structure iceandfire:village/snowy_scriber_1 is being run through DFU (hash e3063e0cd6ec61e0a0ad4b65cfe074f41407e540188719c8d2fd5f4bb6f1b0ac), this will cause launch time delays
+[05Aug2025 21:02:16.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Aug2025 21:03:19.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[05Aug2025 21:03:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[05Aug2025 21:03:44.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 21:03:44.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

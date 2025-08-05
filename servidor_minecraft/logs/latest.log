@@ -1942,3 +1942,16 @@ java.lang.Exception: null
 [05Aug2025 20:46:20.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [05Aug2025 20:48:25.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [A Nice-y Look]
 [05Aug2025 20:57:23.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[05Aug2025 20:57:43.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[05Aug2025 20:58:01.555] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/67169, l='ServerLevel[world]', x=1537.86, y=54.55, z=-6100.30] died, message: 'Unemployed drowned'
+[05Aug2025 20:58:03.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4846ms or 96 ticks behind
+[05Aug2025 20:58:22.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4857ms or 97 ticks behind
+[05Aug2025 20:58:41.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3970ms or 79 ticks behind
+[05Aug2025 20:59:00.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3690ms or 73 ticks behind
+[05Aug2025 20:59:36.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 21:00:22.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Into Fire]
+[05Aug2025 21:00:34.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[05Aug2025 21:00:53.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3946ms or 78 ticks behind
+[05Aug2025 21:02:16.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Aug2025 21:03:19.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
+[05Aug2025 21:03:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
