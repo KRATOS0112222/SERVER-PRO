@@ -1341,3 +1341,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 15:30:40.230] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Aug2025 15:30:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 burned to death
 [05Aug2025 15:33:47.449] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Dragonslayer]
+[05Aug2025 15:40:31.370] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind

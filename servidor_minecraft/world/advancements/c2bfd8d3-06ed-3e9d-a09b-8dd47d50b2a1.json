@@ -7300,9 +7300,195 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_halberd": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-05 15:33:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_warhammer": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_saber": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_katana": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_lance": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_dagger": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:guidetothenextworld": {
     "criteria": {
       "guidetothenextworld_0": "2025-08-05 15:27:07 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_longbow": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_pike": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_longsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_spear": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_boomerang": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_javelin": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
     },
     "done": true
   },
@@ -7312,9 +7498,51 @@
     },
     "done": true
   },
+  "spartanfire:recipes/flamed_dragon_bone_rapier": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
       "horror_underthe_mantle_0": "2025-08-05 15:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_scythe": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_glaive": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/flamed_dragon_bone_greatsword": {
+    "criteria": {
+      "has_fire_dragon_blood": "2025-08-05 15:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-08-05 15:29:47 +0000"
     },
     "done": true
   },
