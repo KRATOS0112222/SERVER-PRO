@@ -1353,3 +1353,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 16:03:42.574] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
 [05Aug2025 16:04:40.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Timed out
 [05Aug2025 16:04:40.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[05Aug2025 16:06:37.482] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33f08882[id=<null>,name=grillo1320,properties={},legacy=false] (/127.237.29.143:34021) lost connection: Disconnected
+[05Aug2025 16:07:11.744] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: grillo1320[/127.237.29.143:52333] logged in with entity id 42851 at (110.94862160741982, 67.0, -5663.158299363723)
+[05Aug2025 16:07:11.761] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player grillo1320
+[05Aug2025 16:07:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 joined the game
+[05Aug2025 16:07:11.827] [Server thread/INFO] [Jade/]: Syncing config to grillo1320 (c2bfd8d3-06ed-3e9d-a09b-8dd47d50b2a1)
