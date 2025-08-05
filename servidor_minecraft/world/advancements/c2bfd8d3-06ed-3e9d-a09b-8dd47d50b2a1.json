@@ -391,9 +391,11 @@
     "criteria": {
       "minecraft:taiga": "2025-08-01 19:50:32 +0000",
       "minecraft:eroded_badlands": "2025-08-01 22:02:40 +0000",
+      "minecraft:cherry_grove": "2025-08-05 19:25:47 +0000",
       "minecraft:birch_forest": "2025-08-01 19:50:34 +0000",
       "minecraft:wooded_badlands": "2025-08-01 22:27:08 +0000",
       "minecraft:badlands": "2025-08-01 22:04:40 +0000",
+      "minecraft:savanna_plateau": "2025-08-05 19:30:42 +0000",
       "minecraft:beach": "2025-08-01 19:21:17 +0000",
       "minecraft:river": "2025-08-01 19:32:15 +0000",
       "minecraft:lukewarm_ocean": "2025-08-01 21:56:06 +0000",
@@ -7672,9 +7674,27 @@
     },
     "done": true
   },
+  "spartanfire:recipes/lightning_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-08-05 19:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-05 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-08-05 19:25:11 +0000"
     },
     "done": true
   },
@@ -7684,9 +7704,81 @@
     },
     "done": true
   },
+  "spartanfire:recipes/lightning_dragon_bone_boomerang": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_greatsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-05 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-08-05 19:25:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_lance": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_katana": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_halberd": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
     },
     "done": true
   },
@@ -7696,9 +7788,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-05 19:25:11 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-08-05 19:25:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-05 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-08-05 19:32:31 +0000"
     },
     "done": true
   },
@@ -7720,6 +7836,24 @@
     },
     "done": true
   },
+  "spartanfire:recipes/lightning_dragon_bone_scythe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_saber": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-05 19:04:17 +0000"
@@ -7729,6 +7863,54 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-05 18:16:05 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_pike": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_rapier": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_glaive": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_javelin": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-08-05 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-08-05 19:34:34 +0000"
     },
     "done": true
   },
@@ -7747,6 +7929,30 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-05 19:04:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_warhammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_spear": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-08-05 19:25:11 +0000"
     },
     "done": true
   },

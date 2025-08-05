@@ -10114,6 +10114,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu_dodge": {
+    "criteria": {
+      "ex": "2025-08-05 19:29:56 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-08-05 19:23:22 +0000"
