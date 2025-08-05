@@ -1955,3 +1955,7 @@ java.lang.Exception: null
 [05Aug2025 21:02:16.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [05Aug2025 21:03:19.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: grillo1320 lost connection: Disconnected
 [05Aug2025 21:03:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 left the game
+[05Aug2025 21:20:10.835] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Voluntary Exile]
+[05Aug2025 21:21:41.606] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has completed the challenge [Village Defender]
+[05Aug2025 21:27:46.798] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Surge Protector]
+[05Aug2025 21:28:04.949] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has reached the goal [Dark Creator]
