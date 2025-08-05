@@ -13444,3 +13444,295 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 13:59:59.309] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
 [05Aug2025 14:00:15.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4677ms or 93 ticks behind
 [05Aug2025 14:00:22.083] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:portal12
+[05Aug2025 14:00:24.573] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[05Aug2025 14:00:35.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5606ms or 112 ticks behind
+[05Aug2025 14:00:36.655] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[05Aug2025 14:00:36.722] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[05Aug2025 14:00:36.842] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[05Aug2025 14:00:37.096] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[05Aug2025 14:00:37.113] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[05Aug2025 14:00:37.125] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[05Aug2025 14:00:37.366] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[05Aug2025 14:00:37.459] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[05Aug2025 14:00:37.465] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_4
+[05Aug2025 14:00:37.477] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_3
+[05Aug2025 14:00:37.478] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_5
+[05Aug2025 14:00:37.594] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_2
+[05Aug2025 14:00:37.608] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_9
+[05Aug2025 14:00:37.666] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_10
+[05Aug2025 14:00:37.667] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_0
+[05Aug2025 14:00:37.668] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_7
+[05Aug2025 14:00:37.669] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_4
+[05Aug2025 14:00:37.671] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_3
+[05Aug2025 14:00:37.672] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_5
+[05Aug2025 14:00:37.673] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_4
+[05Aug2025 14:00:37.674] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_12
+[05Aug2025 14:00:37.674] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_6
+[05Aug2025 14:00:37.675] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_2
+[05Aug2025 14:00:37.676] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_9
+[05Aug2025 14:00:37.677] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_7
+[05Aug2025 14:00:37.678] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_0
+[05Aug2025 14:00:37.679] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_8
+[05Aug2025 14:00:37.679] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_11
+[05Aug2025 14:00:37.680] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_5
+[05Aug2025 14:00:37.681] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_6
+[05Aug2025 14:00:37.682] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_deco_1
+[05Aug2025 14:00:37.684] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_1
+[05Aug2025 14:00:37.687] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_house_8
+[05Aug2025 14:00:37.708] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_0
+[05Aug2025 14:00:37.889] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_archer_0
+[05Aug2025 14:00:37.890] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_assassin_0
+[05Aug2025 14:00:37.890] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_hoglin_0
+[05Aug2025 14:00:37.890] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_hoglin_1
+[05Aug2025 14:00:39.519] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[05Aug2025 14:00:44.287] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.useful_backpacks.integration.curios.impl.CuriosBackpackSlotModUtil@6dcf843e for class class info.u_team.useful_backpacks.integration.slot_mod.util.BackpackSlotModUtil
+[05Aug2025 14:00:44.288] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming info/u_team/useful_backpacks/inventory/FilterInventory (target of net/minecraft/world/Container)
+[05Aug2025 14:00:49.821] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/desert_scriber_1
+[05Aug2025 14:00:58.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind
+[05Aug2025 14:00:59.035] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:01.962] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:02.647] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:11.260] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:14.399] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:18.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
+[05Aug2025 14:01:21.720] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:22.588] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:36.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3431ms or 68 ticks behind
+[05Aug2025 14:01:46.527] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:52.103] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:01:53.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
+[05Aug2025 14:02:00.682] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:01.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 14:02:02.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 14:02:02.572] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:03.378] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:15.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05Aug2025 14:02:18.711] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:19.460] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:23.568] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:38.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[05Aug2025 14:02:38.568] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:40.414] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:02:57.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Aug2025 14:03:03.152] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[05Aug2025 14:03:11.395] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[05Aug2025 14:03:11.438] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[05Aug2025 14:03:11.505] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[05Aug2025 14:03:11.507] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_2
+[05Aug2025 14:03:11.509] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_2
+[05Aug2025 14:03:11.510] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[05Aug2025 14:03:11.511] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[05Aug2025 14:03:11.512] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[05Aug2025 14:03:11.514] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_zigzag
+[05Aug2025 14:03:11.516] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[05Aug2025 14:03:11.519] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[05Aug2025 14:03:11.521] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[05Aug2025 14:03:11.522] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[05Aug2025 14:03:11.525] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[05Aug2025 14:03:11.526] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_hallway_wall
+[05Aug2025 14:03:11.526] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[05Aug2025 14:03:11.528] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[05Aug2025 14:03:11.531] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[05Aug2025 14:03:11.533] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[05Aug2025 14:03:11.535] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[05Aug2025 14:03:11.536] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[05Aug2025 14:03:11.538] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[05Aug2025 14:03:11.539] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[05Aug2025 14:03:11.542] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[05Aug2025 14:03:11.546] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[05Aug2025 14:03:11.547] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[05Aug2025 14:03:11.548] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[05Aug2025 14:03:11.550] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[05Aug2025 14:03:11.552] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/double_storage
+[05Aug2025 14:03:11.555] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_pitfall
+[05Aug2025 14:03:11.556] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[05Aug2025 14:03:11.557] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[05Aug2025 14:03:11.558] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[05Aug2025 14:03:16.527] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[05Aug2025 14:03:16.542] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[05Aug2025 14:03:16.571] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[05Aug2025 14:03:16.585] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[05Aug2025 14:03:16.594] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[05Aug2025 14:03:16.863] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[05Aug2025 14:03:16.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4563ms or 91 ticks behind
+[05Aug2025 14:03:35.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
+[05Aug2025 14:03:45.260] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[05Aug2025 14:03:55.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
+[05Aug2025 14:04:05.057] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 14:04:15.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[05Aug2025 14:04:34.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4295ms or 85 ticks behind
+[05Aug2025 14:04:52.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
+[05Aug2025 14:05:11.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4462ms or 89 ticks behind
+[05Aug2025 14:05:33.419] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6905ms or 138 ticks behind
+[05Aug2025 14:05:51.945] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:05:57.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8757ms or 175 ticks behind
+[05Aug2025 14:05:59.451] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:05:59.458] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:05:59.459] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:01.535] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:01.536] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:01.546] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:01.775] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:01.784] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:16.786] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:17.115] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:17.118] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:20.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8818ms or 176 ticks behind
+[05Aug2025 14:06:22.594] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[05Aug2025 14:06:29.509] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[05Aug2025 14:06:45.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9917ms or 198 ticks behind
+[05Aug2025 14:06:49.714] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:portal8 is being run through DFU (hash 2c9437842d1ef069d3bd8710696a7e4b3e5ae28e25adcbad4d6d2de170dfeb27), this will cause launch time delays
+[05Aug2025 14:07:04.117] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[05Aug2025 14:07:04.141] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_4
+[05Aug2025 14:07:04.160] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[05Aug2025 14:07:04.174] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[05Aug2025 14:07:04.195] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[05Aug2025 14:07:04.230] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[05Aug2025 14:07:04.292] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[05Aug2025 14:07:04.323] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[05Aug2025 14:07:09.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8382ms or 167 ticks behind
+[05Aug2025 14:07:11.764] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_3 is being run through DFU (hash 3fe650034339e7f0ca054ff6db4df41a21cbd3b06735b87ec8d667c133a1c188), this will cause launch time delays
+[05Aug2025 14:07:12.043] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_fort/illager_fort_part_3 is being run through DFU (hash 05fc48174c7c7da5bf0b2165c82dc0600807b4deb5d7fba6d578cff9c4cba62f), this will cause launch time delays
+[05Aug2025 14:07:12.120] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_2_straight is being run through DFU (hash 6481fc35bd26a0b9f79d54f88cef4d657d498c4eaf5a06a75bbc1df693bfe220), this will cause launch time delays
+[05Aug2025 14:07:12.141] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_1_quad is being run through DFU (hash 21b20aaddb581af5a19431ec0cd44142c80413d2a5fe4ee358118eb08235ce9f), this will cause launch time delays
+[05Aug2025 14:07:12.165] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_6_stairway is being run through DFU (hash a49f6e61f6dd92103b09bc346ee0a8bf487c21645dafdd728a58e8d80de1571e), this will cause launch time delays
+[05Aug2025 14:07:12.205] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_3_passages is being run through DFU (hash 7eec1f76f668bf85644117b01b43e3b59a7af1e49a81ab1720f86773b6aca25d), this will cause launch time delays
+[05Aug2025 14:07:12.386] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_0_stairway is being run through DFU (hash d672477895dee978ca353e69fb5453040363ad8ff3c42c0bd847e0eb5c589565), this will cause launch time delays
+[05Aug2025 14:07:12.402] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_3_exterior_spawner is being run through DFU (hash 31eec8279b23d1aa345765a447524a33d73b28a92726798298d3d421872bae23), this will cause launch time delays
+[05Aug2025 14:07:12.414] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_2_straight_exterior is being run through DFU (hash 52d3c42b610f67075394d72e51d2566abea6f8279507e519da9bb721e94cfd1c), this will cause launch time delays
+[05Aug2025 14:07:12.425] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_5_straight_debris is being run through DFU (hash a0847b1f1370fd5c08e6e00d71c1e7956cd637809b51b917a3998ec6198d7b9e), this will cause launch time delays
+[05Aug2025 14:07:12.440] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_0_stairway_exterior is being run through DFU (hash 778e27b7783d7fc58574e97ff5f9432fa536cdacde0da675f289fc986751e702), this will cause launch time delays
+[05Aug2025 14:07:12.452] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_1_quad_exterior is being run through DFU (hash 2dacd2dbd1b9f875847a3c7f653c1663c9f7a9408288bc01b3cc3f0fcef23981), this will cause launch time delays
+[05Aug2025 14:07:12.462] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_magma_0 is being run through DFU (hash 23143d1393ba1cca856a570f7666aa0ee26333178e806500a509a8f0dd93cf7a), this will cause launch time delays
+[05Aug2025 14:07:12.726] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_blaze_0 is being run through DFU (hash 1ba31f5a4e51a2f91b6caa94dbbc4b796429a1c53743a6d597a67d31e8c8a8d5), this will cause launch time delays
+[05Aug2025 14:07:12.753] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_3 is being run through DFU (hash 853c95c6653ee03908877bff3b8a9b7fe827bce26640903b344bbb44631596ab), this will cause launch time delays
+[05Aug2025 14:07:12.879] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_piglin_0 is being run through DFU (hash 8c6f1377198ba32f062e0d8eeae1640076c4847c48c760c3efbf6d611ec06caf), this will cause launch time delays
+[05Aug2025 14:07:12.896] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_magma_1 is being run through DFU (hash 5f637fb428f886dbd85a5517099172bbcdd71563e3cb7040739507712e926059), this will cause launch time delays
+[05Aug2025 14:07:12.921] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_0 is being run through DFU (hash 83ee20901a26442597d9bdc507fa6a79f40227a8b70a3a957f9c662c95dfa047), this will cause launch time delays
+[05Aug2025 14:07:13.105] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_1 is being run through DFU (hash b4ccfabd4598bd6e59d07885209d0f0764f6e5a8f7639f43d6224defeff50512), this will cause launch time delays
+[05Aug2025 14:07:13.198] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_3_terminator is being run through DFU (hash a5b50e60b2afda5ec8e89e4c4bbdd0ae964ce8fcaec2542d5421bcbd780176bc), this will cause launch time delays
+[05Aug2025 14:07:13.207] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_passage_4_terminator is being run through DFU (hash c130c1ff9aebde3965e7629cccfb2f7ba965b4b0b5e5583a9e36dc06c2cc9c3c), this will cause launch time delays
+[05Aug2025 14:07:13.212] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_gear_1 is being run through DFU (hash b0ff981976c98a6e3a31a6c1cfb483655dad9dc21ad3e90f0f32db09fab863e9), this will cause launch time delays
+[05Aug2025 14:07:13.215] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_gear_0 is being run through DFU (hash b370800ea593e4271a352a4531590ebbe44a55104a23e0a8d417193c8f5a7edd), this will cause launch time delays
+[05Aug2025 14:07:13.217] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_2 is being run through DFU (hash f006833dbbf72a17ae8177f562d8892fc2d917af005b0132e6fc4bd1ec414ac0), this will cause launch time delays
+[05Aug2025 14:07:13.218] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_0 is being run through DFU (hash f76831d0292d71e38812223cb82bb314c452e3af082f1d3fa5a04ae517d61f02), this will cause launch time delays
+[05Aug2025 14:07:13.243] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_4 is being run through DFU (hash 8fa255b100193a6fde4a1c202232f2c66d4c005c3438006352f5fd4cad8cbdf3), this will cause launch time delays
+[05Aug2025 14:07:13.354] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_2_stairway is being run through DFU (hash a216b3eebc0a9eda5ebdda1c00fefd4d6cb6da1bd2670b0ff71f78cb84841988), this will cause launch time delays
+[05Aug2025 14:07:13.468] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_0 is being run through DFU (hash 1b9608a269e0597ece68a3da040ccc8c77a2d63afe5919be33f7505621192eae), this will cause launch time delays
+[05Aug2025 14:07:13.573] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_lava_pit_0 is being run through DFU (hash 31f259228a16750a2182d056eda8778c55febee4fc7666958ea13a92b07bab68), this will cause launch time delays
+[05Aug2025 14:07:13.678] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_1 is being run through DFU (hash 56a3825a2c1119b4d97fc40d67164fbee4a7c4dbbbd84bb551443b5dd6f6b392), this will cause launch time delays
+[05Aug2025 14:07:13.793] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_crossing_2 is being run through DFU (hash 0b6c292b3811b5f6394b354acbeae475514d8c238a59e07ac52b87b74d927c51), this will cause launch time delays
+[05Aug2025 14:07:13.900] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_4_door is being run through DFU (hash 5a929649db0e149b5269f22333a14bba0d776d15ecbbc94c1df4800805d7e18d), this will cause launch time delays
+[05Aug2025 14:07:13.988] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_terminator_1 is being run through DFU (hash 5cdde8e95ca99a3bc3d8a88271af2cad74558aa0ac5f8d66e96cc755ed8bd477), this will cause launch time delays
+[05Aug2025 14:07:13.996] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_0 is being run through DFU (hash 2c8de349338c9d8a342deabedcf5e7aae0039e1180b802927c8cb2ce2721bfec), this will cause launch time delays
+[05Aug2025 14:07:13.997] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_5_blaze is being run through DFU (hash db5edf44ced8cc634c6796f43bc34d5d9f9dd25419424fb738ab3103b215c044), this will cause launch time delays
+[05Aug2025 14:07:13.999] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_2 is being run through DFU (hash c3a1372b216a0047d0e2dc4dfa8f343d49467dfc56576989496eaef6be71a29b), this will cause launch time delays
+[05Aug2025 14:07:14.001] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_6_chest is being run through DFU (hash 9f64249d576a512993cb6b67a01c0db6394b4f794a29363a09a5e903fb67db8c), this will cause launch time delays
+[05Aug2025 14:07:14.010] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_3 is being run through DFU (hash 8450729254bb89e9a57e2263f784fafec6ff34cf75f54542a89d6c290a18cd03), this will cause launch time delays
+[05Aug2025 14:07:14.035] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_2 is being run through DFU (hash d44544137c19fec3a1245d029a4190d4eb6debbfe046e664ef88ebea77269b6c), this will cause launch time delays
+[05Aug2025 14:07:14.047] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_wither_skeleton_1 is being run through DFU (hash b2fef86ad573126b5145b65aef198e527a963159ec046ad1dc8be9be8372fbde), this will cause launch time delays
+[05Aug2025 14:07:14.058] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_3 is being run through DFU (hash bbaa4557e4b7aea5d4a8c569c8fa3587dcd4850afdb5941e68dc02c28a10209f), this will cause launch time delays
+[05Aug2025 14:07:14.059] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_3 is being run through DFU (hash fb0b5e27fc1e67d1d421138c3c56d8be40a8b9e1f00a86d85d460e81be6a8579), this will cause launch time delays
+[05Aug2025 14:07:14.061] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_0 is being run through DFU (hash 8d34e085463fe533eff57c6a9300f248d374f0014e8192cbd320721a55124dab), this will cause launch time delays
+[05Aug2025 14:07:14.063] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_pedestal_1 is being run through DFU (hash c4208ab04058bdecc99ad0ad2ce38cf9fcf6dc55683c8fe6dcc9206d7b9ee7f5), this will cause launch time delays
+[05Aug2025 14:07:14.066] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_4 is being run through DFU (hash 2b9d193172a76fe14e1b6b404d537a49d6ae3fbdccf69bede87d6899726eb8bc), this will cause launch time delays
+[05Aug2025 14:07:14.068] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:14.069] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:foundry/foundry_corridor_chain_1 is being run through DFU (hash d280bb9a3763d5c85fdb6ae58556481e7b9c415a25a5748df6418dbec1ac2b45), this will cause launch time delays
+[05Aug2025 14:07:14.070] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:14.073] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:14.074] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:14.078] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:14.080] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:14.096] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:14.096] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[05Aug2025 14:07:30.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6042ms or 120 ticks behind
+[05Aug2025 14:07:35.328] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05Aug2025 14:07:35.329] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05Aug2025 14:07:39.595] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Aug2025 14:07:39.597] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Aug2025 14:07:39.597] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Aug2025 14:07:39.598] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Aug2025 14:07:39.598] [Worker-Main-17/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Aug2025 14:07:50.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5304ms or 106 ticks behind
+[05Aug2025 14:08:12.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6810ms or 136 ticks behind
+[05Aug2025 14:08:32.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5502ms or 110 ticks behind
+[05Aug2025 14:08:42.966] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house
+[05Aug2025 14:08:46.403] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 14:08:46.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 14:08:54.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6453ms or 129 ticks behind
+[05Aug2025 14:08:59.577] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[05Aug2025 14:08:59.581] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[05Aug2025 14:08:59.582] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[05Aug2025 14:08:59.583] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[05Aug2025 14:08:59.584] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[05Aug2025 14:08:59.584] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[05Aug2025 14:08:59.585] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage_secret
+[05Aug2025 14:08:59.585] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cask_rack is being run through DFU (hash faeb48fce9997a048508c7dced1cde411fd6cfebb1152d2706c29ae79a6d9b0d), this will cause launch time delays
+[05Aug2025 14:08:59.678] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2 is being run through DFU (hash 04b6097ae405b90ce5f29101f28bb8c2ec28069b7581dc8d5feb1e18472ff455), this will cause launch time delays
+[05Aug2025 14:08:59.680] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped is being run through DFU (hash 255ec8a4267f10f595c62bde654e0e64b9cd9130c56e9df90f8f712fe37cda35), this will cause launch time delays
+[05Aug2025 14:08:59.684] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn is being run through DFU (hash 1a98376213106f17a566433dd45f7c49572289fd15532acb67303f6686393d57), this will cause launch time delays
+[05Aug2025 14:08:59.687] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks is being run through DFU (hash c3dd3a9638990ccef6d21bb9d4ba7a6da8ae8a095ee529b9b783e8548ce2dd1c), this will cause launch time delays
+[05Aug2025 14:08:59.697] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[05Aug2025 14:08:59.698] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening is being run through DFU (hash fb597bc343ece17eabf6350e005963175205e285d9b9bb72d6197a35eb300ec0), this will cause launch time delays
+[05Aug2025 14:08:59.701] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[05Aug2025 14:08:59.702] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end is being run through DFU (hash 15b38ac94ad2d9e2e32b55c21612c45a3def8c98c5a1beb3a8ff1481617f2b07), this will cause launch time delays
+[05Aug2025 14:08:59.704] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell is being run through DFU (hash f0b4b0bc758aa76668a36d059d4a6f3e59676abfaa345bbc63c75d0481123131), this will cause launch time delays
+[05Aug2025 14:08:59.706] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage is being run through DFU (hash 70f314b09ad5aca4f0b46a4af19fd0f5eb9c37695b1d17e9fb9abb174b2f1dff), this will cause launch time delays
+[05Aug2025 14:08:59.709] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall is being run through DFU (hash 180fea8e3c781df8c55357596400aa3f4c9fa34410d2b006ea713bf5053af98c), this will cause launch time delays
+[05Aug2025 14:08:59.710] [Worker-Main-1/DEBUG] [ModernFix/]: Structure irons_spellbooks:pyromancer_tower/cellar_dungeon/wall_thin is being run through DFU (hash c2b1196b8a5eb4b3fe2d03608c5583ac504f7c7fcc8395aa11326fc30f5844b9), this will cause launch time delays
+[05Aug2025 14:09:14.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4897ms or 97 ticks behind
+[05Aug2025 14:09:32.775] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[05Aug2025 14:09:32.816] [Worker-Main-18/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_6 is being run through DFU (hash fc412bc441f52e517d132887d71fc75c953272010496dbe356e77d33943fe26d), this will cause launch time delays
+[05Aug2025 14:09:33.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4170ms or 83 ticks behind
+[05Aug2025 14:09:46.998] [Worker-Main-17/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_2
+[05Aug2025 14:09:54.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5766ms or 115 ticks behind
+[05Aug2025 14:10:15.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6298ms or 125 ticks behind
+[05Aug2025 14:10:18.840] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:18.844] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:18.853] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:18.871] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:18.873] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:23.724] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:23.728] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:23.737] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:23.744] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13971, y=77, z=-28592}
+[05Aug2025 14:10:23.745] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:23.749] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13982, y=63, z=-28580}
+[05Aug2025 14:10:23.749] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13975, y=63, z=-28580}
+[05Aug2025 14:10:23.749] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13969, y=63, z=-28587}
+[05Aug2025 14:10:23.750] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13962, y=63, z=-28574}
+[05Aug2025 14:10:23.757] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:23.759] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13962, y=63, z=-28574}
+[05Aug2025 14:10:36.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5752ms or 115 ticks behind
+[05Aug2025 14:10:48.584] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:48.593] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13962, y=63, z=-28574}
+[05Aug2025 14:10:48.595] [Worker-Main-17/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13962, y=63, z=-28567}
+[05Aug2025 14:10:48.604] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:48.609] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:48.612] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13982, y=63, z=-28580}
+[05Aug2025 14:10:48.612] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13975, y=63, z=-28580}
+[05Aug2025 14:10:48.612] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13962, y=63, z=-28574}
+[05Aug2025 14:10:48.613] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13969, y=63, z=-28573}
+[05Aug2025 14:10:48.613] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13976, y=63, z=-28573}
+[05Aug2025 14:10:48.614] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13962, y=63, z=-28567}
+[05Aug2025 14:10:48.614] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13975, y=63, z=-28560}
+[05Aug2025 14:10:48.628] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:48.633] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13991, y=70, z=-28597}
+[05Aug2025 14:10:51.494] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:51.539] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13968, y=82, z=-28560}
+[05Aug2025 14:10:51.541] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=13975, y=63, z=-28560}
+[05Aug2025 14:10:54.950] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=14074, y=-26, z=-28521}
+[05Aug2025 14:10:54.951] [Worker-Main-1/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=14075, y=-26, z=-28532}
+[05Aug2025 14:10:56.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5321ms or 106 ticks behind
+[05Aug2025 14:10:56.346] [Worker-Main-18/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=14075, y=-26, z=-28532}
+[05Aug2025 14:11:13.213] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded service info.u_team.u_team_core.menu.ForgeFluidContainerMenuDelegator$Factory@79bf56a6 for class interface info.u_team.u_team_core.menu.FluidContainerMenu$FluidContainerDelegator$Factory
+[05Aug2025 14:11:13.241] [Server thread/DEBUG] [info.u_team.u_team_core.UCoreReference/]: Loaded services [info.u_team.u_team_core.impl.extension.ForgeMenuUtilExtension@7299932d] for class interface info.u_team.u_team_core.util.MenuUtil$Extension
+[05Aug2025 14:11:13.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2465ms or 49 ticks behind
+[05Aug2025 14:11:31.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[05Aug2025 14:11:34.083] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Aug2025 14:11:34.083] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Aug2025 14:11:34.084] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Aug2025 14:11:34.084] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Aug2025 14:11:34.084] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Aug2025 14:11:34.091] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[05Aug2025 14:11:34.092] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
