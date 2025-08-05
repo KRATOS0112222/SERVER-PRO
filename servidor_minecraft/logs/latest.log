@@ -1940,3 +1940,5 @@ java.lang.Exception: null
 [05Aug2025 20:43:55.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [05Aug2025 20:45:13.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [05Aug2025 20:46:20.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Aug2025 20:48:25.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [A Nice-y Look]
+[05Aug2025 20:57:23.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
