@@ -13473,3 +13473,89 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 17:42:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> trae 20
 [05Aug2025 17:42:56.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Aug2025 17:42:56.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 17:43:07.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> tienes ojo de araña y hongos marrones
+[05Aug2025 17:43:55.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> HONGOS NO TENGO+
+[05Aug2025 17:45:15.084] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 17:45:15.103] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 17:46:04.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[05Aug2025 17:46:04.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_2
+[05Aug2025 17:46:04.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_4
+[05Aug2025 17:46:04.580] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_ranged_illager_0
+[05Aug2025 17:46:04.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_0
+[05Aug2025 17:46:04.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_4_bridge_mini
+[05Aug2025 17:46:04.581] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_juggernaut_1
+[05Aug2025 17:46:04.589] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_1
+[05Aug2025 17:46:04.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_assassin_1
+[05Aug2025 17:46:04.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_2
+[05Aug2025 17:46:04.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_3
+[05Aug2025 17:46:04.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[05Aug2025 17:46:04.656] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_1
+[05Aug2025 17:46:04.659] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_skeleton_assassin_0
+[05Aug2025 17:46:04.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_0
+[05Aug2025 17:46:04.660] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_ranged_skeleton_1
+[05Aug2025 17:46:04.674] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_3_bridge
+[05Aug2025 17:46:04.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_0
+[05Aug2025 17:46:04.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_2
+[05Aug2025 17:46:04.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_1
+[05Aug2025 17:46:04.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_part_3
+[05Aug2025 17:46:04.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_terminator_0
+[05Aug2025 17:46:04.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_roof_terminator_0
+[05Aug2025 17:46:04.714] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_base_terminator_0
+[05Aug2025 17:46:04.715] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_small_room_terminator_0
+[05Aug2025 17:46:11.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[05Aug2025 17:46:20.789] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[05Aug2025 17:46:20.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/medium_decorations
+[05Aug2025 17:46:20.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/small_decorations
+[05Aug2025 17:46:20.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[05Aug2025 17:46:20.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[05Aug2025 17:46:20.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[05Aug2025 17:46:20.839] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/mobs
+[05Aug2025 17:46:29.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2778ms or 55 ticks behind
+[05Aug2025 17:46:46.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[05Aug2025 17:46:51.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[05Aug2025 17:46:51.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[05Aug2025 17:46:51.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[05Aug2025 17:46:51.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[05Aug2025 17:46:51.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[05Aug2025 17:46:51.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[05Aug2025 17:46:51.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[05Aug2025 17:46:51.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[05Aug2025 17:46:51.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[05Aug2025 17:46:51.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[05Aug2025 17:47:03.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[05Aug2025 17:47:30.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Aug2025 17:47:44.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:47:44.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [No Step on Snake]
+[05Aug2025 17:48:09.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:48:09.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 17:48:15.188] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[05Aug2025 17:48:15.188] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[05Aug2025 17:48:33.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> DUERME
+[05Aug2025 17:48:37.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Aug2025 17:49:01.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> en el sur hay chambipavas
+[05Aug2025 17:49:27.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 17:49:37.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> por ahi de de aber hongos marrones
+[05Aug2025 17:50:22.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Aug2025 17:50:30.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> o te quedas con los aldeanos y o voy
+[05Aug2025 17:50:41.999] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:50:43.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[05Aug2025 17:51:42.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> quedate con los aldeanos
+[05Aug2025 17:51:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> YAYA
+[05Aug2025 17:52:40.160] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[05Aug2025 17:52:40.210] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[05Aug2025 17:52:40.257] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[05Aug2025 17:52:41.123] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[05Aug2025 17:52:41.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[05Aug2025 17:52:43.026] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[05Aug2025 17:52:45.645] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[05Aug2025 17:52:49.106] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[05Aug2025 17:52:59.770] [Worker-Main-47/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Aug2025 17:53:02.413] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[05Aug2025 17:53:05.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8464ms or 169 ticks behind
+[05Aug2025 17:53:07.369] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[05Aug2025 17:53:07.382] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[05Aug2025 17:53:07.390] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_3_resistance is being run through DFU (hash 31d70c13becb5994ae3d8506fb89bcbfb627317d737970714740a759f8d5ae3e), this will cause launch time delays
+[05Aug2025 17:53:07.896] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_0_speed is being run through DFU (hash 08c7dbcac4361b53f887a0b139a27993c17934fa5265d08549feddfd41f6b04d), this will cause launch time delays
+[05Aug2025 17:53:07.913] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_1_regen is being run through DFU (hash b0fbd23a1fcc0edd723dcc70fe49a848056f159acd67c0c5b8355404aae3ea35), this will cause launch time delays
+[05Aug2025 17:53:07.924] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_2_wither is being run through DFU (hash 90dec482e3981c736d3dcd45680ac122a284bce1164192f739d37f6d8b89ea28), this will cause launch time delays
+[05Aug2025 17:53:07.935] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_4_haste is being run through DFU (hash 613f92c92d7def00c8677d40d9d4b5d9ac159ea26dcea3f4f197c5e275fdbb65), this will cause launch time delays

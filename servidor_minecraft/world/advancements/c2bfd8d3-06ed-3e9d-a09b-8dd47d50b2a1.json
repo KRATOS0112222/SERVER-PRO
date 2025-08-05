@@ -7678,6 +7678,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-08-05 17:47:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-08-05 17:27:51 +0000"
@@ -7687,6 +7693,12 @@
   "enderio:recipes/building_blocks/silent_heavy_weighted_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-08-05 17:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-05 17:46:17 +0000"
     },
     "done": true
   },
