@@ -1300,3 +1300,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 18:19:05.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> voy a almorzar
 [05Aug2025 18:19:05.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
 [05Aug2025 18:19:05.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
+[05Aug2025 18:35:40.892] [dimthread_server_overworld/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 18:35:40.897] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 18:35:48.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 was slain by Scarlet Persecutor
