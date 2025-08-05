@@ -10036,5 +10036,71 @@
     },
     "done": true
   },
+  "upgrade_aquatic:recipes/redstone/driftwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_sign": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood": {
+    "criteria": {
+      "has_log": "2025-08-05 17:57:42 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/decorations/driftwood_fence": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_button": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_slab": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
+    "criteria": {
+      "has_logs": "2025-08-05 17:57:42 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_door": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/driftwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

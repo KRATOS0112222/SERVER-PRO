@@ -13559,3 +13559,96 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 17:53:07.913] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_1_regen is being run through DFU (hash b0fbd23a1fcc0edd723dcc70fe49a848056f159acd67c0c5b8355404aae3ea35), this will cause launch time delays
 [05Aug2025 17:53:07.924] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_2_wither is being run through DFU (hash 90dec482e3981c736d3dcd45680ac122a284bce1164192f739d37f6d8b89ea28), this will cause launch time delays
 [05Aug2025 17:53:07.935] [Worker-Main-39/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_4_haste is being run through DFU (hash 613f92c92d7def00c8677d40d9d4b5d9ac159ea26dcea3f4f197c5e275fdbb65), this will cause launch time delays
+[05Aug2025 17:53:27.565] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/savanna_scriber_1
+[05Aug2025 17:53:31.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11388ms or 227 ticks behind
+[05Aug2025 17:53:36.516] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[05Aug2025 17:53:41.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:53:41.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 17:53:52.726] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
+[05Aug2025 17:54:10.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3242ms or 64 ticks behind
+[05Aug2025 17:54:28.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3015ms or 60 ticks behind
+[05Aug2025 17:54:38.671] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11727, l='ServerLevel[world]', x=139.13, y=108.00, z=-5176.28] died, message: 'Unemployed was burnt to a crisp whilst fighting Fire Dragon'
+[05Aug2025 17:54:47.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3991ms or 79 ticks behind
+[05Aug2025 17:54:50.774] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/11677, l='ServerLevel[world]', x=149.59, y=103.00, z=-5192.23] died, message: 'Nitwit was burnt to a crisp whilst fighting Fire Dragon'
+[05Aug2025 17:54:54.684] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11728, l='ServerLevel[world]', x=136.26, y=106.25, z=-5186.52] died, message: 'Unemployed was slain by Fire Dragon'
+[05Aug2025 17:55:02.889] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of prehistoricfauna:time_temple
+[05Aug2025 17:55:08.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5180ms or 103 ticks behind
+[05Aug2025 17:55:10.146] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11729, l='ServerLevel[world]', x=127.30, y=106.94, z=-5193.16] died, message: 'Farmer was slain by Fire Dragon'
+[05Aug2025 17:55:11.772] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_1
+[05Aug2025 17:55:11.806] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[05Aug2025 17:55:11.869] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[05Aug2025 17:55:11.888] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[05Aug2025 17:55:11.920] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[05Aug2025 17:55:11.933] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[05Aug2025 17:55:11.939] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[05Aug2025 17:55:11.948] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[05Aug2025 17:55:13.254] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[05Aug2025 17:55:13.656] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_2 is being run through DFU (hash 93781b295d0623765f2c609cf4bf6765a449ac39f3c3c55b5426812aaf237ddc), this will cause launch time delays
+[05Aug2025 17:55:13.968] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[05Aug2025 17:55:13.993] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[05Aug2025 17:55:14.023] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[05Aug2025 17:55:14.032] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[05Aug2025 17:55:14.148] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[05Aug2025 17:55:14.162] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[05Aug2025 17:55:14.171] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[05Aug2025 17:55:14.180] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[05Aug2025 17:55:14.226] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[05Aug2025 17:55:14.426] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[05Aug2025 17:55:14.553] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[05Aug2025 17:55:14.578] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[05Aug2025 17:55:14.585] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[05Aug2025 17:55:14.610] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_triple_0 is being run through DFU (hash b7d207f9e9204ae5d8d65d8199c23198e1b71579ed216248201d64790d7cf759), this will cause launch time delays
+[05Aug2025 17:55:14.895] [Worker-Main-47/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[05Aug2025 17:55:14.961] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[05Aug2025 17:55:14.972] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[05Aug2025 17:55:14.980] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[05Aug2025 17:55:23.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> OE YA?
+[05Aug2025 17:55:28.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5804ms or 116 ticks behind
+[05Aug2025 17:55:31.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> TENES ORO NO?
+[05Aug2025 17:55:31.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> esta lejos
+[05Aug2025 17:55:36.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> si
+[05Aug2025 17:55:39.457] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[05Aug2025 17:55:40.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> SOLO TENGO 9 MANZANAS XD
+[05Aug2025 17:55:47.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[05Aug2025 17:55:50.894] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:impaled_icebreaker
+[05Aug2025 17:56:06.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4072ms or 81 ticks behind
+[05Aug2025 17:56:28.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6981ms or 139 ticks behind
+[05Aug2025 17:56:47.834] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4124ms or 82 ticks behind
+[05Aug2025 17:58:13.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[05Aug2025 17:58:39.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05Aug2025 17:58:56.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[05Aug2025 17:59:02.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:59:04.576] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:59:30.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:59:30.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 18:00:35.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> VOY POR ORO
+[05Aug2025 18:00:52.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[05Aug2025 18:00:52.664] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[05Aug2025 18:00:52.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[05Aug2025 18:00:52.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[05Aug2025 18:00:52.719] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[05Aug2025 18:00:53.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[05Aug2025 18:00:53.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road3
+[05Aug2025 18:00:53.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road1
+[05Aug2025 18:00:53.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone1
+[05Aug2025 18:00:53.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/well
+[05Aug2025 18:00:53.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone3
+[05Aug2025 18:00:53.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/small_tower
+[05Aug2025 18:00:53.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone2
+[05Aug2025 18:00:53.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/dungeon2
+[05Aug2025 18:00:54.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[05Aug2025 18:00:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 has made the advancement [Local Brewery]
+[05Aug2025 18:01:25.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[05Aug2025 18:01:25.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[05Aug2025 18:01:25.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[05Aug2025 18:01:25.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[05Aug2025 18:01:25.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[05Aug2025 18:01:38.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 18:01:41.109] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 18:01:43.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> zzzzzzzzzzzz
+[05Aug2025 18:01:52.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> ESTOY EN EL NETHER
+[05Aug2025 18:02:30.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> TE DEJO DORMIR?
+[05Aug2025 18:02:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> si
+[05Aug2025 18:02:53.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_crossbow
+[05Aug2025 18:02:53.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:piglin_ruin/path/2
+[05Aug2025 18:02:53.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hopo:mobs/piglin_sword
