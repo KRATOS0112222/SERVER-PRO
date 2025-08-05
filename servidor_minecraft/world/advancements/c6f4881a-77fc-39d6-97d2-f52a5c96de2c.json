@@ -10036,88 +10036,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "upgrade_aquatic:recipes/building_blocks/driftwood": {
     "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-08-05 18:18:42 +0000",
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
+      "has_log": "2025-08-05 17:57:42 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
+      "has_logs": "2025-08-05 17:57:42 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-05 18:18:36 +0000"
-    },
-    "done": false
+    "done": true
   },
   "upgrade_aquatic:recipes/redstone/driftwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-05 17:57:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-08-05 18:00:55 +0000"
     },
     "done": true
   },
@@ -10130,12 +10063,6 @@
   "upgrade_aquatic:recipes/decorations/driftwood_sign": {
     "criteria": {
       "has_planks": "2025-08-05 17:57:50 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/building_blocks/driftwood": {
-    "criteria": {
-      "has_log": "2025-08-05 17:57:42 +0000"
     },
     "done": true
   },
@@ -10163,27 +10090,27 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/building_blocks/driftwood_planks": {
-    "criteria": {
-      "has_logs": "2025-08-05 17:57:42 +0000"
-    },
-    "done": true
-  },
   "upgrade_aquatic:recipes/redstone/driftwood_door": {
     "criteria": {
       "has_planks": "2025-08-05 17:57:50 +0000"
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-08-05 18:17:32 +0000"
-    },
-    "done": true
-  },
   "upgrade_aquatic:recipes/redstone/driftwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-05 17:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-05 18:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-08-05 18:17:32 +0000"
     },
     "done": true
   },
