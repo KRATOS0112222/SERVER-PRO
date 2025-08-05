@@ -7552,15 +7552,51 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-05 16:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-05 16:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_cretaceous_chalk_bricks": {
     "criteria": {
       "has_stone": "2025-08-05 16:12:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-05 16:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_cretaceous_chalk_slab": {
     "criteria": {
       "has_stone": "2025-08-05 16:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-05 16:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-05 16:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-05 16:15:27 +0000"
     },
     "done": true
   },
