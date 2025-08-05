@@ -1270,3 +1270,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 18:01:52.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> ESTOY EN EL NETHER
 [05Aug2025 18:02:30.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> TE DEJO DORMIR?
 [05Aug2025 18:02:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> si
+[05Aug2025 18:08:23.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> YA TIENES LA POCIONES?
+[05Aug2025 18:10:21.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=40, z=-624} BlockPos{x=-30, y=40, z=-622}
+[05Aug2025 18:11:25.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> si
+[05Aug2025 18:11:33.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> ya tengo las pociones
+[05Aug2025 18:11:39.614] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 18:11:39.669] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 18:11:56.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 fell from a high place
+[05Aug2025 18:12:23.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
+[05Aug2025 18:13:08.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> OYE YA PUES
+[05Aug2025 18:13:12.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> YA TENGO LAS AMNAZANS
+[05Aug2025 18:13:15.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> duerme

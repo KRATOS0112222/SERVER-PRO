@@ -10042,6 +10042,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-08-05 18:00:55 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/building_blocks/driftwood_stairs": {
     "criteria": {
       "has_planks": "2025-08-05 17:57:50 +0000"
