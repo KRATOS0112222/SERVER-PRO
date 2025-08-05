@@ -1296,3 +1296,48 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 15:14:10.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has reached the goal [Horror Under the Mantle]
 [05Aug2025 15:17:31.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [05Aug2025 15:17:52.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Aug2025 15:23:42.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Tools of the Trade]
+[05Aug2025 15:26:21.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.452589968034772
+[05Aug2025 15:26:21.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.31264095507543743
+[05Aug2025 15:26:21.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 1.172397946197492
+[05Aug2025 15:26:21.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 2.029828734940054
+[05Aug2025 15:26:21.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 2.8813011806019233
+[05Aug2025 15:26:21.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.7276591173634017
+[05Aug2025 15:26:21.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.2783221674176275
+[05Aug2025 15:26:22.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.25676556448470933
+[05Aug2025 15:27:07.045] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [The day of the Dead]
+[05Aug2025 15:29:10.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.5134690784005567
+[05Aug2025 15:29:10.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.4192149164525176
+[05Aug2025 15:29:10.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.7121581157088912
+[05Aug2025 15:29:10.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 1.3112524472275253
+[05Aug2025 15:29:10.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.3530287735575257
+[05Aug2025 15:29:10.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 1.166429439901549
+[05Aug2025 15:29:10.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 1.964856995287846
+[05Aug2025 15:29:10.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of grillo1320) moved wrongly! 0.7268381592639344
+[05Aug2025 15:29:47.340] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:29:49.332] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:29:51.731] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:29:52.430] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:29:56.229] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:29:56.929] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:00.330] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:01.735] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:02.444] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:03.132] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:06.529] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:07.929] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:08.632] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:09.328] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:12.728] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:14.132] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:14.829] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:15.535] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:25.734] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:29.745] [Server thread/WARN] [tombstone/]: The death event of the player grillo1320 was canceled by another mod
+[05Aug2025 15:30:29.751] [Server thread/INFO] [tombstone/]: The player grillo1320 has successfully been saved
+[05Aug2025 15:30:32.631] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:34.332] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:37.833] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:40.230] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 15:30:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 burned to death
+[05Aug2025 15:33:47.449] [dimthread_server_overworld/INFO] [net.minecraft.server.MinecraftServer/]: grillo1320 has made the advancement [Dragonslayer]

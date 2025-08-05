@@ -3897,6 +3897,7 @@
       "minecraft:skeleton": "2025-08-01 20:34:46 +0000",
       "minecraft:ravager": "2025-08-05 15:19:28 +0000",
       "minecraft:ghast": "2025-08-04 04:04:10 +0000",
+      "minecraft:vindicator": "2025-08-05 15:20:57 +0000",
       "minecraft:magma_cube": "2025-08-04 04:12:08 +0000",
       "minecraft:spider": "2025-08-04 00:39:02 +0000",
       "minecraft:creeper": "2025-08-04 00:35:58 +0000",
@@ -7296,6 +7297,18 @@
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-08-04 22:28:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-08-05 15:27:07 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-08-05 15:23:42 +0000"
     },
     "done": true
   },
