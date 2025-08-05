@@ -7987,6 +7987,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-08-05 20:16:05 +0000"
+    },
+    "done": true
+  },
   "spartanfire:recipes/lightning_dragon_bone_throwing_knife": {
     "criteria": {
       "has_lightning_dragon_blood": "2025-08-05 19:33:45 +0000"
