@@ -1757,3 +1757,35 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 20:06:14.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [05Aug2025 20:06:16.290] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Aug2025 20:06:23.509] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:24.477] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:25.349] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:29.487] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:31.310] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:32.279] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:32.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[05Aug2025 20:06:33.196] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:37.577] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:39.094] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:39.819] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:40.667] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:44.197] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:45.677] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:46.500] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:47.283] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:49.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[05Aug2025 20:06:51.369] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:52.858] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:53.635] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:54.371] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:57.978] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:06:59.490] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:07:00.344] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:07:01.268] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:07:05.454] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:07:07.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
+[05Aug2025 20:07:07.232] [dimthread_server_overworld/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2025 20:07:24.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 20:13:18.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[05Aug2025 20:15:05.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Aug2025 20:15:43.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[05Aug2025 20:16:16.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
