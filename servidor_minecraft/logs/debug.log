@@ -13746,3 +13746,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 14:14:33.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Aug2025 14:19:33.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Aug2025 14:19:33.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 14:24:33.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 14:24:33.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 14:29:33.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 14:29:33.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 14:30:46.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 14:30:54.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[05Aug2025 14:30:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game

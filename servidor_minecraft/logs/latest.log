@@ -1267,3 +1267,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 14:11:50.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [05Aug2025 14:12:08.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3140ms or 62 ticks behind
 [05Aug2025 14:12:27.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[05Aug2025 14:30:54.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SUPATA123 lost connection: Disconnected
+[05Aug2025 14:30:54.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 left the game
