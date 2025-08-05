@@ -3014,6 +3014,7 @@
       "rabbit_stew": "2025-08-01 22:35:14 +0000",
       "cooked_mutton": "2025-08-01 23:00:29 +0000",
       "bread": "2025-08-01 19:59:19 +0000",
+      "golden_apple": "2025-08-05 15:12:47 +0000",
       "carrot": "2025-08-04 00:39:51 +0000"
     },
     "done": false
@@ -3894,6 +3895,7 @@
       "minecraft:pillager": "2025-08-01 22:08:46 +0000",
       "minecraft:blaze": "2025-08-04 04:00:47 +0000",
       "minecraft:skeleton": "2025-08-01 20:34:46 +0000",
+      "minecraft:ravager": "2025-08-05 15:19:28 +0000",
       "minecraft:ghast": "2025-08-04 04:04:10 +0000",
       "minecraft:magma_cube": "2025-08-04 04:12:08 +0000",
       "minecraft:spider": "2025-08-04 00:39:02 +0000",
@@ -7294,6 +7296,12 @@
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-08-04 22:28:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-08-05 15:14:10 +0000"
     },
     "done": true
   },
