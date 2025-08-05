@@ -15850,3 +15850,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 16:29:39.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Aug2025 16:34:39.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Aug2025 16:34:39.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 16:39:39.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 16:39:39.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 16:44:39.297] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[05Aug2025 16:44:39.403] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[05Aug2025 16:44:39.415] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[05Aug2025 16:44:39.419] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[05Aug2025 16:44:39.481] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[05Aug2025 16:44:39.511] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[05Aug2025 16:44:40.713] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[05Aug2025 16:44:40.740] [Worker-Main-193/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[05Aug2025 16:44:41.878] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_top1
+[05Aug2025 16:44:41.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_south
+[05Aug2025 16:44:41.946] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_east
+[05Aug2025 16:44:41.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_bottom
+[05Aug2025 16:44:41.985] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor_last
+[05Aug2025 16:44:42.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[05Aug2025 16:44:42.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road3
+[05Aug2025 16:44:42.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road1
+[05Aug2025 16:44:42.363] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone1
+[05Aug2025 16:44:42.364] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/well
+[05Aug2025 16:44:42.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone3
+[05Aug2025 16:44:42.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/small_tower
+[05Aug2025 16:44:42.367] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/bone2
+[05Aug2025 16:44:42.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/dungeon2
+[05Aug2025 16:44:43.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 16:44:43.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 16:44:43.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3952ms or 79 ticks behind
+[05Aug2025 16:44:43.109] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
