@@ -13231,3 +13231,245 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Aug2025 17:19:34.207] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/BackpackWrapper$1 (target of net/minecraftforge/items/IItemHandler)
 [05Aug2025 17:19:34.208] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/BackpackWrapper$2 (target of net/minecraftforge/items/IItemHandler)
 [05Aug2025 17:19:34.215] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/tiviacz/travelersbackpack/inventory/upgrades/tanks/TanksUpgrade$2 (target of net/minecraftforge/items/IItemHandler)
+[05Aug2025 17:22:38.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:22:38.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 17:26:58.707] [Worker-Main-11/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[05Aug2025 17:26:59.584] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[05Aug2025 17:26:59.791] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[05Aug2025 17:26:59.885] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[05Aug2025 17:26:59.888] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[05Aug2025 17:27:00.033] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[05Aug2025 17:27:00.123] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[05Aug2025 17:27:00.661] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[05Aug2025 17:27:00.688] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[05Aug2025 17:27:00.955] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[05Aug2025 17:27:01.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[05Aug2025 17:27:01.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[05Aug2025 17:27:01.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[05Aug2025 17:27:01.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[05Aug2025 17:27:01.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[05Aug2025 17:27:01.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[05Aug2025 17:27:01.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[05Aug2025 17:27:01.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[05Aug2025 17:27:01.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[05Aug2025 17:27:01.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[05Aug2025 17:27:01.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[05Aug2025 17:27:01.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[05Aug2025 17:27:01.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[05Aug2025 17:27:01.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[05Aug2025 17:27:01.118] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Aug2025 17:27:01.119] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Aug2025 17:27:01.120] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Aug2025 17:27:01.120] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Aug2025 17:27:01.121] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Aug2025 17:27:01.126] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.126] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.126] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.126] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.126] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.126] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.127] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.127] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.127] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.127] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[05Aug2025 17:27:01.511] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Aug2025 17:27:01.515] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Aug2025 17:27:01.516] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Aug2025 17:27:01.516] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Aug2025 17:27:01.519] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[05Aug2025 17:27:01.532] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[05Aug2025 17:27:01.532] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[05Aug2025 17:27:02.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l2
+[05Aug2025 17:27:02.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_main
+[05Aug2025 17:27:02.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l2
+[05Aug2025 17:27:02.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_2x1
+[05Aug2025 17:27:02.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l2
+[05Aug2025 17:27:03.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l3
+[05Aug2025 17:27:03.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/storage
+[05Aug2025 17:27:03.081] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l3
+[05Aug2025 17:27:03.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/shock_troop
+[05Aug2025 17:27:03.095] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/coolant_room
+[05Aug2025 17:27:03.120] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x1_l3
+[05Aug2025 17:27:03.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/kitchen
+[05Aug2025 17:27:03.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/2x2_l3_alt
+[05Aug2025 17:27:03.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/archer
+[05Aug2025 17:27:03.183] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/courtyards/courtyard_1x1
+[05Aug2025 17:27:03.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/corridors
+[05Aug2025 17:27:03.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15
+[05Aug2025 17:27:03.198] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/crossroads1
+[05Aug2025 17:27:03.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15_compat
+[05Aug2025 17:27:03.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/storage/barrel1
+[05Aug2025 17:27:03.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/storage/logs1
+[05Aug2025 17:27:03.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/storage/barrel2
+[05Aug2025 17:27:03.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/storage/light2
+[05Aug2025 17:27:03.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/w2
+[05Aug2025 17:27:03.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/storage/light1
+[05Aug2025 17:27:03.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_corner
+[05Aug2025 17:27:03.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/odd_treasure
+[05Aug2025 17:27:03.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/dining
+[05Aug2025 17:27:03.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_10
+[05Aug2025 17:27:03.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short2
+[05Aug2025 17:27:03.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/strider_pen
+[05Aug2025 17:27:03.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/pyro
+[05Aug2025 17:27:03.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1
+[05Aug2025 17:27:03.246] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_gold
+[05Aug2025 17:27:03.256] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/2x1/blacksmith
+[05Aug2025 17:27:03.378] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/king_ruined1
+[05Aug2025 17:27:03.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_15w
+[05Aug2025 17:27:03.436] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/walls/wall_gate3
+[05Aug2025 17:27:03.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/cell
+[05Aug2025 17:27:03.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor1
+[05Aug2025 17:27:03.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove2
+[05Aug2025 17:27:03.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove9
+[05Aug2025 17:27:03.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove7
+[05Aug2025 17:27:03.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove12
+[05Aug2025 17:27:03.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/corridor2
+[05Aug2025 17:27:03.442] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove14
+[05Aug2025 17:27:03.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove6
+[05Aug2025 17:27:03.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d1
+[05Aug2025 17:27:03.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor2
+[05Aug2025 17:27:03.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor1
+[05Aug2025 17:27:03.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/storage/logs3
+[05Aug2025 17:27:03.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/c3
+[05Aug2025 17:27:03.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_1
+[05Aug2025 17:27:03.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/lumber/w3
+[05Aug2025 17:27:03.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/storage/logs2
+[05Aug2025 17:27:03.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor4
+[05Aug2025 17:27:03.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove10
+[05Aug2025 17:27:03.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_5
+[05Aug2025 17:27:03.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove13
+[05Aug2025 17:27:03.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove8
+[05Aug2025 17:27:03.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/pigstep
+[05Aug2025 17:27:03.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_backup
+[05Aug2025 17:27:03.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table2
+[05Aug2025 17:27:03.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small3
+[05Aug2025 17:27:03.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small1
+[05Aug2025 17:27:03.470] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table_small2
+[05Aug2025 17:27:03.471] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor6
+[05Aug2025 17:27:03.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/strider/pool4
+[05Aug2025 17:27:03.472] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight
+[05Aug2025 17:27:03.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/crossroads/decor1
+[05Aug2025 17:27:03.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor3
+[05Aug2025 17:27:03.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_d2
+[05Aug2025 17:27:03.485] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_2x1_2
+[05Aug2025 17:27:03.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/pyromancer
+[05Aug2025 17:27:03.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_netherite
+[05Aug2025 17:27:03.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_6
+[05Aug2025 17:27:03.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/wall_decor/decor2
+[05Aug2025 17:27:03.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/blacksmith
+[05Aug2025 17:27:03.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_guard
+[05Aug2025 17:27:03.493] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/house_1x1
+[05Aug2025 17:27:03.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/tower/tower_base
+[05Aug2025 17:27:03.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/alchemist
+[05Aug2025 17:27:03.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/scout
+[05Aug2025 17:27:03.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/corridor/alcove1
+[05Aug2025 17:27:03.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/armory_1
+[05Aug2025 17:27:03.502] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing_w
+[05Aug2025 17:27:03.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_short1_hoglin
+[05Aug2025 17:27:03.512] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_4
+[05Aug2025 17:27:03.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/tables/table1
+[05Aug2025 17:27:03.516] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/brewing
+[05Aug2025 17:27:03.517] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/mobs/knight_diamond
+[05Aug2025 17:27:03.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small4
+[05Aug2025 17:27:03.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small1
+[05Aug2025 17:27:03.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/livq1
+[05Aug2025 17:27:03.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand2
+[05Aug2025 17:27:03.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm1_w
+[05Aug2025 17:27:03.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand4
+[05Aug2025 17:27:03.522] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table2_w
+[05Aug2025 17:27:03.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand3
+[05Aug2025 17:27:03.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand6
+[05Aug2025 17:27:03.525] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_3
+[05Aug2025 17:27:03.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/statues/small3
+[05Aug2025 17:27:03.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/stand5
+[05Aug2025 17:27:03.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm1
+[05Aug2025 17:27:03.530] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/rooms/1x1/cryostasis_chamber
+[05Aug2025 17:27:03.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table1
+[05Aug2025 17:27:03.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/farm2
+[05Aug2025 17:27:03.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/decor/brewing/table2
+[05Aug2025 17:27:03.536] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_8
+[05Aug2025 17:27:03.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/roofs/roof_1x1_2
+[05Aug2025 17:27:06.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8390ms or 167 ticks behind
+[05Aug2025 17:27:24.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[05Aug2025 17:27:51.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:27:51.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 17:27:51.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[05Aug2025 17:27:52.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:27:52.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=209, y=26, z=-1576} BlockPos{x=209, y=26, z=-1575}
+[05Aug2025 17:28:03.784] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[05Aug2025 17:28:03.785] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[05Aug2025 17:28:03.786] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerArmorInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[05Aug2025 17:28:03.787] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/PlayerOffhandInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[05Aug2025 17:28:03.794] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[05Aug2025 17:28:03.879] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[05Aug2025 17:28:08.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 tried to swim in lava
+[05Aug2025 17:28:08.592] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:205, y:28, z:-1571, dim:minecraft:the_nether]
+[05Aug2025 17:28:08.599] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[05Aug2025 17:28:10.023] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[05Aug2025 17:28:19.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[05Aug2025 17:28:40.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=212, y=17, z=-1560} BlockPos{x=213, y=16, z=-1560}
+[05Aug2025 17:30:35.912] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Aug2025 17:30:36.276] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Aug2025 17:30:36.334] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Aug2025 17:30:36.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Aug2025 17:30:36.451] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Aug2025 17:30:46.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2207ms or 44 ticks behind
+[05Aug2025 17:32:56.948] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:32:56.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 17:34:26.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:34:27.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:34:28.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:36:47.144] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2022, l='ServerLevel[world]', x=65.50, y=63.50, z=-5703.05] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:36:58.948] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2026, l='ServerLevel[world]', x=67.70, y=63.50, z=-5703.70] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:37:06.595] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2014, l='ServerLevel[world]', x=71.30, y=63.50, z=-5703.26] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:37:10.284] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2019, l='ServerLevel[world]', x=67.30, y=63.50, z=-5700.70] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:37:13.345] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2020, l='ServerLevel[world]', x=73.50, y=63.50, z=-5703.05] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:37:19.086] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2021, l='ServerLevel[world]', x=69.30, y=63.50, z=-5700.70] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:37:19.638] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2015, l='ServerLevel[world]', x=75.50, y=63.50, z=-5703.05] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:37:32.544] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2017, l='ServerLevel[world]', x=69.70, y=63.50, z=-5703.50] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:37:36.537] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2018, l='ServerLevel[world]', x=71.70, y=63.50, z=-5700.50] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:37:43.844] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2016, l='ServerLevel[world]', x=77.50, y=63.50, z=-5703.05] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:37:50.789] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2025, l='ServerLevel[world]', x=75.70, y=63.50, z=-5700.50] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:37:51.986] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2013, l='ServerLevel[world]', x=77.70, y=63.50, z=-5700.50] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:37:56.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:37:56.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Aug2025 17:37:57.535] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2024, l='ServerLevel[world]', x=73.30, y=63.50, z=-5700.70] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:37:59.838] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2012, l='ServerLevel[world]', x=79.70, y=63.50, z=-5700.51] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:38:07.797] [Server thread/WARN] [tombstone/]: The death event of the player SUPATA123 was canceled by another mod
+[05Aug2025 17:38:07.812] [Server thread/INFO] [tombstone/]: The player SUPATA123 has successfully been saved
+[05Aug2025 17:38:14.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SUPATA123 froze to death
+[05Aug2025 17:38:14.106] [Server thread/DEBUG] [tombstone/]: A new grave of the player SUPATA123 was created at position [x:59, y:63, z:-5703, dim:minecraft:overworld]
+[05Aug2025 17:38:15.382] [Server thread/DEBUG] [twilightforest/]: Player SUPATA123 (c6f4881a-77fc-39d6-97d2-f52a5c96de2c) respawned and received items held in storage
+[05Aug2025 17:38:19.534] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2023, l='ServerLevel[world]', x=79.50, y=63.50, z=-5703.05] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:38:26.532] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2070, l='ServerLevel[world]', x=81.50, y=63.50, z=-5703.05] died, message: 'Librarian was slain by Zombie'
+[05Aug2025 17:38:38.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:38:40.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:38:40.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:38:41.058] [dimthread_server_overworld/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/2057, l='ServerLevel[world]', x=81.70, y=63.50, z=-5700.50] died, message: 'Fletcher was slain by Zombie'
+[05Aug2025 17:38:42.598] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:38:43.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:38:45.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> ven
+[05Aug2025 17:39:06.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> QUE HAZ HECHO?
+[05Aug2025 17:39:08.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> por no dormir xd
+[05Aug2025 17:39:18.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> los zombis rompen puertas
+[05Aug2025 17:39:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> TMR
+[05Aug2025 17:39:32.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> TIENES VARAS?
+[05Aug2025 17:39:44.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> NORMAL CONSIUGO LÑAS MANZANAS
+[05Aug2025 17:39:46.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> tengo polvo de blaze
+[05Aug2025 17:40:08.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> VOY A CONSEGUIR MANZANAS
+[05Aug2025 17:40:26.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> HAZ LAS POSCIONES
+[05Aug2025 17:41:21.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:41:21.345] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:41:23.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Aug2025 17:42:13.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <grillo1320> CUANTAS MANZANAS NECESITAMOS?
+[05Aug2025 17:42:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SUPATA123> trae 20
+[05Aug2025 17:42:56.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Aug2025 17:42:56.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
