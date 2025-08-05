@@ -7690,6 +7690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-05 18:16:05 +0000"
+    },
+    "done": true
+  },
   "enderio:recipes/building_blocks/silent_heavy_weighted_pressure_plate": {
     "criteria": {
       "has_ingredient": "2025-08-05 17:26:47 +0000"
